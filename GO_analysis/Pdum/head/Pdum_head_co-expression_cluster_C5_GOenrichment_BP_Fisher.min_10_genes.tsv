@@ -1,0 +1,9 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher
+GO:0044255	cellular lipid metabolic process	2427	22	11.19	0.00119
+GO:0009266	response to temperature stimulus	742	10	3.42	0.00215
+GO:0051051	negative regulation of transport	849	10	3.91	0.00559
+GO:0019752	carboxylic acid metabolic process	2477	20	11.42	0.00790
+GO:0008015	blood circulation	909	10	4.19	0.00887
+GO:0006082	organic acid metabolic process	2683	21	12.37	0.00908
+GO:0006629	lipid metabolic process	3056	23	14.09	0.00980
+GO:0006631	fatty acid metabolic process	1069	11	4.93	0.00984

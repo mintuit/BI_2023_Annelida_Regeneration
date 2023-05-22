@@ -1,0 +1,549 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0090304	1	GO:0090304	0.901	30	0	nucleic acid metabolic process	nucleic acid metabolic process
+GO:0016070	1	GO:0090304	0.857	30	7	RNA metabolic process	nucleic acid metabolic process
+GO:0006396	2	GO:0006396	0.982	30	544	RNA processing	RNA processing
+GO:0010467	3	GO:0010467	0.88	27.5528419686578	88	gene expression	gene expression
+GO:0022613	4	GO:0022613	0.995	25.301029995664	1	ribonucleoprotein complex biogenesis	ribonucleoprotein complex biogenesis
+GO:0034470	2	GO:0006396	0.849	21.6777807052661	2	ncRNA processing	RNA processing
+GO:0043170	1	GO:0090304	0.614	21.3565473235138	1	macromolecule metabolic process	nucleic acid metabolic process
+GO:0034660	2	GO:0006396	0.528	20.7447274948967	0	ncRNA metabolic process	RNA processing
+GO:0042254	4	GO:0022613	0.954	20.397940008672	32	ribosome biogenesis	ribonucleoprotein complex biogenesis
+GO:0006139	1	GO:0090304	0.873	17.8860566476932	30	nucleobase-containing compound metabolic process	nucleic acid metabolic process
+GO:0016071	2	GO:0006396	0.552	15.8860566476932	6	mRNA metabolic process	RNA processing
+GO:0006364	2	GO:0006396	0.776	15.0177287669604	116	rRNA processing	RNA processing
+GO:0051171	1	GO:0090304	0.522	14.6777807052661	1	regulation of nitrogen compound metabolic process	nucleic acid metabolic process
+GO:0060255	1	GO:0090304	0.53	14.602059991328	0	regulation of macromolecule metabolic process	nucleic acid metabolic process
+GO:0000398	2	GO:0006396	0.847	14.4436974992327	345	mRNA splicing, via spliceosome	RNA processing
+GO:0000377	2	GO:0006396	0.847	14.4436974992327	0	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	RNA processing
+GO:0000375	2	GO:0006396	0.85	14.4436974992327	25	RNA splicing, via transesterification reactions	RNA processing
+GO:0071840	5	GO:0071840	0.892	14.3872161432803	0	cellular component organization or biogenesis	cellular component organization or biogenesis
+GO:0016072	2	GO:0006396	0.47	14.3665315444204	2	rRNA metabolic process	RNA processing
+GO:0006397	2	GO:0006396	0.88	14.2146701649892	180	mRNA processing	RNA processing
+GO:0051252	1	GO:0090304	0.791	13.9586073148418	4	regulation of RNA metabolic process	nucleic acid metabolic process
+GO:0008380	2	GO:0006396	0.882	13.2518119729938	173	RNA splicing	RNA processing
+GO:0019219	1	GO:0090304	0.77	13.0915149811213	0	regulation of nucleobase-containing compound metabolic process	nucleic acid metabolic process
+GO:0010468	3	GO:0010467	0.821	13	202	regulation of gene expression	gene expression
+GO:0044085	4	GO:0022613	0.744	12.6382721639824	1	cellular component biogenesis	ribonucleoprotein complex biogenesis
+GO:0006725	1	GO:0090304	0.862	12	1	cellular aromatic compound metabolic process	nucleic acid metabolic process
+GO:0044260	6	GO:0044260	0.947	11.9586073148418	0	cellular macromolecule metabolic process	cellular macromolecule metabolic process
+GO:0046483	1	GO:0090304	0.865	11.9208187539524	6	heterocycle metabolic process	nucleic acid metabolic process
+GO:0006351	7	GO:0006351	0.947	11.7695510786217	188	DNA-templated transcription	DNA-templated transcription
+GO:0031323	1	GO:0090304	0.52	11.7212463990472	0	regulation of cellular metabolic process	nucleic acid metabolic process
+GO:0097659	7	GO:0006351	0.947	11.397940008672	0	nucleic acid-templated transcription	DNA-templated transcription
+GO:0010556	7	GO:0006351	0.829	11.2596373105058	0	regulation of macromolecule biosynthetic process	DNA-templated transcription
+GO:2000112	6	GO:0044260	0.691	11.2441251443275	0	regulation of cellular macromolecule biosynthetic process	cellular macromolecule metabolic process
+GO:0032774	7	GO:0006351	0.945	11.2441251443275	0	RNA biosynthetic process	DNA-templated transcription
+GO:0080090	1	GO:0090304	0.485	11.0705810742857	0	regulation of primary metabolic process	nucleic acid metabolic process
+GO:0019222	1	GO:0090304	0.396	11.0315170514461	3	regulation of metabolic process	nucleic acid metabolic process
+GO:0034645	6	GO:0044260	0.793	10.7958800173441	5	cellular macromolecule biosynthetic process	cellular macromolecule metabolic process
+GO:0034641	1	GO:0090304	0.838	10.4436974992327	0	cellular nitrogen compound metabolic process	nucleic acid metabolic process
+GO:0051276	5	GO:0071840	0.571	9.74472749489669	24	chromosome organization	cellular component organization or biogenesis
+GO:0045935	8	GO:0045935	0.977	9.74472749489669	0	positive regulation of nucleobase-containing compound metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0051254	8	GO:0045935	0.957	9.52287874528034	0	positive regulation of RNA metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0050794	9	GO:0050794	0.682	9.48148606012211	0	regulation of cellular process	regulation of cellular process
+GO:0006913	10	GO:0006913	0.996	9.44369749923271	52	nucleocytoplasmic transport	nucleocytoplasmic transport
+GO:0051169	10	GO:0006913	0.996	9.44369749923271	0	nuclear transport	nucleocytoplasmic transport
+GO:0006807	1	GO:0090304	0.636	9.38721614328026	5	nitrogen compound metabolic process	nucleic acid metabolic process
+GO:1903506	1	GO:0090304	0.775	9.2839966563652	2	regulation of nucleic acid-templated transcription	nucleic acid metabolic process
+GO:2001141	1	GO:0090304	0.776	9.10790539730952	3	regulation of RNA biosynthetic process	nucleic acid metabolic process
+GO:0009059	7	GO:0006351	0.872	9.06048074738138	0	macromolecule biosynthetic process	DNA-templated transcription
+GO:0006355	1	GO:0090304	0.775	9	566	regulation of DNA-templated transcription	nucleic acid metabolic process
+GO:0031326	7	GO:0006351	0.759	8.82390874094432	0	regulation of cellular biosynthetic process	DNA-templated transcription
+GO:0006366	7	GO:0006351	0.869	8.72124639904717	243	transcription by RNA polymerase II	DNA-templated transcription
+GO:0001708	11	GO:0001708	0.999	8.58502665202918	32	cell fate specification	cell fate specification
+GO:0010605	12	GO:0010605	0.957	8.56863623584101	1	negative regulation of macromolecule metabolic process	negative regulation of macromolecule metabolic process
+GO:0016043	5	GO:0071840	0.886	8.07572071393812	0	cellular component organization	cellular component organization or biogenesis
+GO:0048522	8	GO:0045935	0.663	8.0087739243075	0	positive regulation of cellular process	positive regulation of nucleobase-containing compound metabolic process
+GO:0010558	7	GO:0006351	0.685	8	0	negative regulation of macromolecule biosynthetic process	DNA-templated transcription
+GO:0009880	13	GO:0009880	0.999	7.92081875395237	29	embryonic pattern specification	embryonic pattern specification
+GO:0050789	9	GO:0050794	0.54	7.72124639904717	0	regulation of biological process	regulation of cellular process
+GO:2000113	6	GO:0044260	0.639	7.69897000433602	0	negative regulation of cellular macromolecule biosynthetic process	cellular macromolecule metabolic process
+GO:0034654	7	GO:0006351	0.921	7.67778070526608	0	nucleobase-containing compound biosynthetic process	DNA-templated transcription
+GO:0045934	12	GO:0010605	0.798	7.65757731917779	0	negative regulation of nucleobase-containing compound metabolic process	negative regulation of macromolecule metabolic process
+GO:0045165	11	GO:0001708	0.915	7.63827216398241	55	cell fate commitment	cell fate specification
+GO:0009889	7	GO:0006351	0.743	7.61978875828839	0	regulation of biosynthetic process	DNA-templated transcription
+GO:0071826	14	GO:0071826	0.998	7.56863623584101	0	ribonucleoprotein complex subunit organization	ribonucleoprotein complex subunit organization
+GO:0035282	13	GO:0009880	0.709	7.44369749923271	1	segmentation	embryonic pattern specification
+GO:0022618	14	GO:0071826	0.995	7.43179827593301	2	ribonucleoprotein complex assembly	ribonucleoprotein complex subunit organization
+GO:0010629	12	GO:0010605	0.856	7.43179827593301	325	negative regulation of gene expression	negative regulation of macromolecule metabolic process
+GO:0010557	8	GO:0045935	0.703	7.34678748622466	1	positive regulation of macromolecule biosynthetic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0006325	15	GO:0006325	0.994	7.32790214206428	222	chromatin organization	chromatin organization
+GO:0009790	16	GO:0009790	0.986	7.31875876262441	11	embryo development	embryo development
+GO:1903311	2	GO:0006396	0.488	7.27572413039921	0	regulation of mRNA metabolic process	RNA processing
+GO:0051172	12	GO:0010605	0.864	7.24412514432751	0	negative regulation of nitrogen compound metabolic process	negative regulation of macromolecule metabolic process
+GO:0048645	17	GO:0048645	0.999	7.19382002601611	5	animal organ formation	animal organ formation
+GO:1903508	8	GO:0045935	0.943	7.18708664335714	1	positive regulation of nucleic acid-templated transcription	positive regulation of nucleobase-containing compound metabolic process
+GO:1902680	8	GO:0045935	0.943	7.17392519729917	2	positive regulation of RNA biosynthetic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0051168	10	GO:0006913	0.937	7.09691001300806	14	nuclear export	nucleocytoplasmic transport
+GO:0006357	7	GO:0006351	0.853	7.05060999335509	1350	regulation of transcription by RNA polymerase II	DNA-templated transcription
+GO:1901360	3	GO:0010467	0.441	7	0	organic cyclic compound metabolic process	gene expression
+GO:0051173	8	GO:0045935	0.889	6.85387196432176	2	positive regulation of nitrogen compound metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0048863	18	GO:0048863	0.998	6.82390874094432	44	stem cell differentiation	stem cell differentiation
+GO:0051253	12	GO:0010605	0.811	6.82390874094432	0	negative regulation of RNA metabolic process	negative regulation of macromolecule metabolic process
+GO:0001704	16	GO:0009790	0.755	6.79588001734407	2	formation of primary germ layer	embryo development
+GO:0044271	7	GO:0006351	0.871	6.72124639904717	0	cellular nitrogen compound biosynthetic process	DNA-templated transcription
+GO:0006403	19	GO:0006403	0.998	6.56863623584101	2	RNA localization	RNA localization
+GO:0031327	7	GO:0006351	0.627	6.55284196865778	2	negative regulation of cellular biosynthetic process	DNA-templated transcription
+GO:0009892	12	GO:0010605	0.941	6.52287874528034	0	negative regulation of metabolic process	negative regulation of macromolecule metabolic process
+GO:0018130	7	GO:0006351	0.916	6.46852108295774	0	heterocycle biosynthetic process	DNA-templated transcription
+GO:0007350	13	GO:0009880	0.92	6.46852108295774	0	blastoderm segmentation	embryonic pattern specification
+GO:0048024	2	GO:0006396	0.725	6.44369749923271	22	regulation of mRNA splicing, via spliceosome	RNA processing
+GO:0001710	16	GO:0009790	0.639	6.38721614328026	1	mesodermal cell fate commitment	embryo development
+GO:0001707	20	GO:0001707	0.999	6.36653154442041	33	mesoderm formation	mesoderm formation
+GO:0044265	21	GO:0044265	0.988	6.32790214206428	3	cellular macromolecule catabolic process	cellular macromolecule catabolic process
+GO:0006611	10	GO:0006913	0.848	6.29242982390206	38	protein export from nucleus	nucleocytoplasmic transport
+GO:0007389	13	GO:0009880	0.816	6.29242982390206	31	pattern specification process	embryonic pattern specification
+GO:0006399	2	GO:0006396	0.469	6.2839966563652	2	tRNA metabolic process	RNA processing
+GO:0071166	10	GO:0006913	0.375	6.25963731050576	1	ribonucleoprotein complex localization	nucleocytoplasmic transport
+GO:0048663	11	GO:0001708	0.817	6.2518119729938	18	neuron fate commitment	cell fate specification
+GO:0006405	22	GO:0006405	0.999	6.23657200643706	18	RNA export from nucleus	RNA export from nucleus
+GO:0009890	7	GO:0006351	0.613	6.22184874961636	2	negative regulation of biosynthetic process	DNA-templated transcription
+GO:0048332	20	GO:0001707	0.995	6.20760831050175	2	mesoderm morphogenesis	mesoderm formation
+GO:0048333	20	GO:0001707	0.952	6.20760831050175	11	mesodermal cell differentiation	mesoderm formation
+GO:0048518	8	GO:0045935	0.582	6.16749108729376	0	positive regulation of biological process	positive regulation of nucleobase-containing compound metabolic process
+GO:0010604	8	GO:0045935	0.8	6.16749108729376	0	positive regulation of macromolecule metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:1903507	12	GO:0010605	0.8	6.14266750356873	3	negative regulation of nucleic acid-templated transcription	negative regulation of macromolecule metabolic process
+GO:0003006	23	GO:0003006	0.99	6.14266750356873	5	developmental process involved in reproduction	developmental process involved in reproduction
+GO:0060795	16	GO:0009790	0.672	6.11918640771921	0	cell fate commitment involved in formation of primary germ layer	embryo development
+GO:0006996	5	GO:0071840	0.771	5.95860731484177	9	organelle organization	cellular component organization or biogenesis
+GO:0010608	24	GO:0010608	0.988	5.95860731484177	27	post-transcriptional regulation of gene expression	post-transcriptional regulation of gene expression
+GO:1902679	12	GO:0010605	0.802	5.95860731484177	2	negative regulation of RNA biosynthetic process	negative regulation of macromolecule metabolic process
+GO:0048519	12	GO:0010605	0.73	5.92081875395237	0	negative regulation of biological process	negative regulation of macromolecule metabolic process
+GO:0045892	12	GO:0010605	0.8	5.92081875395237	649	negative regulation of DNA-templated transcription	negative regulation of macromolecule metabolic process
+GO:0050684	2	GO:0006396	0.741	5.92081875395237	20	regulation of mRNA processing	RNA processing
+GO:0031325	8	GO:0045935	0.893	5.92081875395237	0	positive regulation of cellular metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0019438	7	GO:0006351	0.915	5.85387196432176	0	aromatic compound biosynthetic process	DNA-templated transcription
+GO:0003002	13	GO:0009880	0.809	5.82390874094432	0	regionalization	embryonic pattern specification
+GO:0045893	8	GO:0045935	0.943	5.72124639904717	832	positive regulation of DNA-templated transcription	positive regulation of nucleobase-containing compound metabolic process
+GO:0043484	2	GO:0006396	0.761	5.67778070526608	88	regulation of RNA splicing	RNA processing
+GO:0031328	8	GO:0045935	0.824	5.61978875828839	3	positive regulation of cellular biosynthetic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0007501	16	GO:0009790	0.622	5.61978875828839	7	mesodermal cell fate specification	embryo development
+GO:0016570	25	GO:0016570	0.993	5.50863830616573	84	histone modification	histone modification
+GO:0060581	11	GO:0001708	0.715	5.49485002168009	0	cell fate commitment involved in pattern specification	cell fate specification
+GO:0070918	2	GO:0006396	0.705	5.49485002168009	0	regulatory ncRNA processing	RNA processing
+GO:0051246	26	GO:0051246	0.969	5.46852108295774	11	regulation of protein metabolic process	regulation of protein metabolic process
+GO:0007281	23	GO:0003006	0.864	5.3767507096021	37	germ cell development	developmental process involved in reproduction
+GO:0007059	27	GO:0007059	0.994	5.3767507096021	89	chromosome segregation	chromosome segregation
+GO:0009891	8	GO:0045935	0.711	5.36653154442041	0	positive regulation of biosynthetic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0010002	18	GO:0048863	0.821	5.34678748622466	3	cardioblast differentiation	stem cell differentiation
+GO:0000578	13	GO:0009880	0.956	5.34678748622466	7	embryonic axis specification	embryonic pattern specification
+GO:0042273	4	GO:0022613	0.827	5.32790214206428	43	ribosomal large subunit biogenesis	ribonucleoprotein complex biogenesis
+GO:0022607	4	GO:0022613	0.736	5.31875876262441	1	cellular component assembly	ribonucleoprotein complex biogenesis
+GO:0006406	22	GO:0006405	0.975	5.30102999566398	76	mRNA export from nucleus	RNA export from nucleus
+GO:0022402	27	GO:0007059	0.855	5.2839966563652	0	cell cycle process	chromosome segregation
+GO:0031324	12	GO:0010605	0.857	5.23657200643706	0	negative regulation of cellular metabolic process	negative regulation of macromolecule metabolic process
+GO:0022412	23	GO:0003006	0.771	5.23657200643706	0	cellular process involved in reproduction in multicellular organism	developmental process involved in reproduction
+GO:0007018	28	GO:0007018	0.995	5.20760831050175	69	microtubule-based movement	microtubule-based movement
+GO:0042274	4	GO:0022613	0.84	5.19382002601611	22	ribosomal small subunit biogenesis	ribonucleoprotein complex biogenesis
+GO:0043632	21	GO:0044265	0.935	5.18045606445813	0	modification-dependent macromolecule catabolic process	cellular macromolecule catabolic process
+GO:0009893	8	GO:0045935	0.814	5.1249387366083	0	positive regulation of metabolic process	positive regulation of nucleobase-containing compound metabolic process
+GO:0043967	25	GO:0016570	0.813	5.07572071393812	37	histone H4 acetylation	histone modification
+GO:0031503	29	GO:0031503	0.998	5.07058107428571	14	protein-containing complex localization	protein-containing complex localization
+GO:0007369	16	GO:0009790	0.793	5.05060999335509	25	gastrulation	embryo development
+GO:0006368	7	GO:0006351	0.562	5.0268721464003	37	transcription elongation by RNA polymerase II	DNA-templated transcription
+GO:0001709	11	GO:0001708	0.784	4.95860731484177	18	cell fate determination	cell fate specification
+GO:0045944	8	GO:0045935	0.891	4.95860731484177	1497	positive regulation of transcription by RNA polymerase II	positive regulation of nucleobase-containing compound metabolic process
+GO:0000280	5	GO:0071840	0.536	4.95860731484177	0	nuclear division	cellular component organization or biogenesis
+GO:0016567	26	GO:0051246	0.546	4.88605664769316	657	protein ubiquitination	regulation of protein metabolic process
+GO:0010628	8	GO:0045935	0.675	4.88605664769316	555	positive regulation of gene expression	positive regulation of nucleobase-containing compound metabolic process
+GO:0034243	7	GO:0006351	0.545	4.88605664769316	24	regulation of transcription elongation by RNA polymerase II	DNA-templated transcription
+GO:0045685	30	GO:0045685	0.999	4.88605664769316	1	regulation of glial cell differentiation	regulation of glial cell differentiation
+GO:0043412	25	GO:0016570	0.686	4.85387196432176	0	macromolecule modification	histone modification
+GO:0009057	21	GO:0044265	0.946	4.85387196432176	0	macromolecule catabolic process	cellular macromolecule catabolic process
+GO:0048864	18	GO:0048863	0.919	4.85387196432176	7	stem cell development	stem cell differentiation
+GO:0060911	18	GO:0048863	0.332	4.76955107862173	0	cardiac cell fate commitment	stem cell differentiation
+GO:0030154	31	GO:0030154	0.934	4.74472749489669	599	cell differentiation	cell differentiation
+GO:0048523	12	GO:0010605	0.689	4.72124639904717	0	negative regulation of cellular process	negative regulation of macromolecule metabolic process
+GO:0017145	32	GO:0017145	1	4.65757731917779	7	stem cell division	stem cell division
+GO:0051640	33	GO:0051640	0.994	4.65757731917779	4	organelle localization	organelle localization
+GO:0070647	26	GO:0051246	0.573	4.65757731917779	0	protein modification by small protein conjugation or removal	regulation of protein metabolic process
+GO:0051170	10	GO:0006913	0.921	4.63827216398241	6	import into nucleus	nucleocytoplasmic transport
+GO:0008595	13	GO:0009880	0.905	4.61978875828839	8	anterior/posterior axis specification, embryo	embryonic pattern specification
+GO:0007351	13	GO:0009880	0.905	4.61978875828839	0	tripartite regional subdivision	embryonic pattern specification
+GO:0051028	22	GO:0006405	0.938	4.60205999132796	64	mRNA transport	RNA export from nucleus
+GO:0051128	34	GO:0051128	0.972	4.58502665202918	3	regulation of cellular component organization	regulation of cellular component organization
+GO:0009952	13	GO:0009880	0.748	4.56863623584101	87	anterior/posterior pattern specification	embryonic pattern specification
+GO:0000003	23	GO:0003006	0.91	4.55284196865778	2	reproduction	developmental process involved in reproduction
+GO:0007049	27	GO:0007059	0.806	4.55284196865778	283	cell cycle	chromosome segregation
+GO:0032446	26	GO:0051246	0.555	4.48148606012211	5	protein modification by small protein conjugation	regulation of protein metabolic process
+GO:0048869	31	GO:0030154	0.932	4.45593195564972	0	cellular developmental process	cell differentiation
+GO:0030163	21	GO:0044265	0.904	4.45593195564972	67	protein catabolic process	cellular macromolecule catabolic process
+GO:0043414	35	GO:0043414	0.996	4.44369749923271	0	macromolecule methylation	macromolecule methylation
+GO:0019941	21	GO:0044265	0.932	4.3767507096021	8	modification-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0030490	4	GO:0022613	0.809	4.36653154442041	23	maturation of SSU-rRNA	ribonucleoprotein complex biogenesis
+GO:0048285	5	GO:0071840	0.544	4.33724216831843	0	organelle fission	cellular component organization or biogenesis
+GO:0022414	23	GO:0003006	0.911	4.30102999566398	4	reproductive process	developmental process involved in reproduction
+GO:0010498	21	GO:0044265	0.836	4.25963731050576	18	proteasomal protein catabolic process	cellular macromolecule catabolic process
+GO:0090598	23	GO:0003006	0.601	4.24412514432751	0	male anatomical structure morphogenesis	developmental process involved in reproduction
+GO:0048880	36	GO:0048880	0.996	4.24412514432751	3	sensory system development	sensory system development
+GO:0010001	30	GO:0045685	0.9	4.24412514432751	14	glial cell differentiation	regulation of glial cell differentiation
+GO:0006511	21	GO:0044265	0.931	4.22184874961636	312	ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0048713	30	GO:0045685	0.96	4.19382002601611	6	regulation of oligodendrocyte differentiation	regulation of glial cell differentiation
+GO:0035196	2	GO:0006396	0.676	4.17392519729917	24	miRNA processing	RNA processing
+GO:0032434	21	GO:0044265	0.775	4.17392519729917	17	regulation of proteasomal ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0007276	23	GO:0003006	0.817	4.13667713987954	20	gamete generation	developmental process involved in reproduction
+GO:0048665	11	GO:0001708	0.917	4.13667713987954	20	neuron fate specification	cell fate specification
+GO:2000058	21	GO:0044265	0.792	4.13076828026902	6	regulation of ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:1903313	2	GO:0006396	0.451	4.13076828026902	0	positive regulation of mRNA metabolic process	RNA processing
+GO:0043487	21	GO:0044265	0.828	4.1249387366083	0	regulation of RNA stability	cellular macromolecule catabolic process
+GO:0060485	20	GO:0001707	0.514	4.11918640771921	5	mesenchyme development	mesoderm formation
+GO:0061136	21	GO:0044265	0.737	4.09691001300806	20	regulation of proteasomal protein catabolic process	cellular macromolecule catabolic process
+GO:0006259	6	GO:0044260	0.813	4.09691001300806	24	DNA metabolic process	cellular macromolecule metabolic process
+GO:0021955	30	GO:0045685	0.467	4.08618614761628	7	central nervous system neuron axonogenesis	regulation of glial cell differentiation
+GO:0000278	27	GO:0007059	0.736	4.04575749056067	149	mitotic cell cycle	chromosome segregation
+GO:0031047	12	GO:0010605	0.755	4.04095860767891	33	RNA-mediated gene silencing	negative regulation of macromolecule metabolic process
+GO:0070727	19	GO:0006403	0.657	4.0087739243075	0	cellular macromolecule localization	RNA localization
+GO:0031329	21	GO:0044265	0.752	4	0	regulation of cellular catabolic process	cellular macromolecule catabolic process
+GO:0060560	37	GO:0060560	0.998	4	3	developmental growth involved in morphogenesis	developmental growth involved in morphogenesis
+GO:0006354	7	GO:0006351	0.576	3.95860731484178	2	DNA-templated transcription elongation	DNA-templated transcription
+GO:0042078	32	GO:0017145	0.876	3.95860731484178	1	germ-line stem cell division	stem cell division
+GO:0048569	17	GO:0048645	0.326	3.95860731484178	0	post-embryonic animal organ development	animal organ formation
+GO:1903050	21	GO:0044265	0.751	3.95860731484178	0	regulation of proteolysis involved in protein catabolic process	cellular macromolecule catabolic process
+GO:0150063	36	GO:0048880	0.995	3.95860731484178	1	visual system development	sensory system development
+GO:0001654	36	GO:0048880	0.995	3.95860731484178	45	eye development	sensory system development
+GO:0000460	4	GO:0022613	0.775	3.92081875395238	16	maturation of 5.8S rRNA	ribonucleoprotein complex biogenesis
+GO:0007498	20	GO:0001707	0.947	3.92081875395238	31	mesoderm development	mesoderm formation
+GO:0043488	21	GO:0044265	0.825	3.88605664769316	42	regulation of mRNA stability	cellular macromolecule catabolic process
+GO:0009894	21	GO:0044265	0.719	3.85387196432176	0	regulation of catabolic process	cellular macromolecule catabolic process
+GO:0008104	19	GO:0006403	0.657	3.85387196432176	126	protein localization	RNA localization
+GO:0044238	1	GO:0090304	0.599	3.85387196432176	2	primary metabolic process	nucleic acid metabolic process
+GO:0051603	21	GO:0044265	0.879	3.82390874094432	40	proteolysis involved in protein catabolic process	cellular macromolecule catabolic process
+GO:0051656	33	GO:0051640	0.964	3.82390874094432	3	establishment of organelle localization	organelle localization
+GO:0061157	21	GO:0044265	0.786	3.82390874094432	20	mRNA destabilization	cellular macromolecule catabolic process
+GO:0051052	6	GO:0044260	0.699	3.82390874094432	0	regulation of DNA metabolic process	cellular macromolecule metabolic process
+GO:0009948	13	GO:0009880	0.679	3.82390874094432	19	anterior/posterior axis specification	embryonic pattern specification
+GO:0007017	28	GO:0007018	0.88	3.79588001734407	17	microtubule-based process	microtubule-based movement
+GO:0065007	9	GO:0050794	0.491	3.79588001734407	0	biological regulation	regulation of cellular process
+GO:0006352	3	GO:0010467	0.445	3.76955107862173	18	DNA-templated transcription initiation	gene expression
+GO:0009792	16	GO:0009790	0.901	3.76955107862173	23	embryo development ending in birth or egg hatching	embryo development
+GO:0050779	21	GO:0044265	0.788	3.76955107862173	4	RNA destabilization	cellular macromolecule catabolic process
+GO:0042176	21	GO:0044265	0.784	3.76955107862173	17	regulation of protein catabolic process	cellular macromolecule catabolic process
+GO:0006606	10	GO:0006913	0.917	3.76955107862173	120	protein import into nucleus	nucleocytoplasmic transport
+GO:0032784	7	GO:0006351	0.56	3.74472749489669	11	regulation of DNA-templated transcription elongation	DNA-templated transcription
+GO:0043161	21	GO:0044265	0.884	3.74472749489669	249	proteasome-mediated ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0000470	4	GO:0022613	0.748	3.72124639904717	7	maturation of LSU-rRNA	ribonucleoprotein complex biogenesis
+GO:0098813	27	GO:0007059	0.97	3.72124639904717	2	nuclear chromosome segregation	chromosome segregation
+GO:0044703	23	GO:0003006	0.706	3.72124639904717	0	multi-organism reproductive process	developmental process involved in reproduction
+GO:0007165	38	GO:0007165	0.893	3.69897000433602	1108	signal transduction	signal transduction
+GO:0060688	39	GO:0060688	1	3.69897000433602	2	regulation of morphogenesis of a branching structure	regulation of morphogenesis of a branching structure
+GO:0000122	12	GO:0010605	0.751	3.69897000433602	1142	negative regulation of transcription by RNA polymerase II	negative regulation of macromolecule metabolic process
+GO:0033044	5	GO:0071840	0.492	3.67778070526608	19	regulation of chromosome organization	cellular component organization or biogenesis
+GO:2000027	17	GO:0048645	0.587	3.67778070526608	1	regulation of animal organ morphogenesis	animal organ formation
+GO:0042659	11	GO:0001708	0.901	3.67778070526608	13	regulation of cell fate specification	cell fate specification
+GO:0031123	2	GO:0006396	0.738	3.65757731917779	7	RNA 3'-end processing	RNA processing
+GO:0050657	22	GO:0006405	0.963	3.63827216398241	0	nucleic acid transport	RNA export from nucleus
+GO:0050658	22	GO:0006405	0.963	3.63827216398241	10	RNA transport	RNA export from nucleus
+GO:0007154	40	GO:0007154	0.876	3.58502665202918	18	cell communication	cell communication
+GO:0009791	41	GO:0009791	0.999	3.58502665202918	70	post-embryonic development	post-embryonic development
+GO:0048859	42	GO:0048859	1	3.56863623584101	4	formation of anatomical boundary	formation of anatomical boundary
+GO:0032435	21	GO:0044265	0.691	3.55284196865778	38	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0043401	43	GO:0043401	0.999	3.55284196865778	22	steroid hormone mediated signaling pathway	steroid hormone mediated signaling pathway
+GO:0006367	3	GO:0010467	0.432	3.55284196865778	55	transcription initiation at RNA polymerase II promoter	gene expression
+GO:0008033	2	GO:0006396	0.757	3.53760200210104	19	tRNA processing	RNA processing
+GO:0010092	17	GO:0048645	0.956	3.53760200210104	1	specification of animal organ identity	animal organ formation
+GO:0022008	30	GO:0045685	0.653	3.53760200210104	56	neurogenesis	regulation of glial cell differentiation
+GO:0007399	30	GO:0045685	0.577	3.52287874528034	375	nervous system development	regulation of glial cell differentiation
+GO:0051236	19	GO:0006403	0.983	3.52287874528034	0	establishment of RNA localization	RNA localization
+GO:0048699	30	GO:0045685	0.641	3.50863830616573	9	generation of neurons	regulation of glial cell differentiation
+GO:0061013	2	GO:0006396	0.467	3.49485002168009	0	regulation of mRNA catabolic process	RNA processing
+GO:0009451	25	GO:0016570	0.486	3.49485002168009	1	RNA modification	histone modification
+GO:0001701	16	GO:0009790	0.832	3.49485002168009	206	in utero embryonic development	embryo development
+GO:0006412	44	GO:0006412	0.99	3.49485002168009	220	translation	translation
+GO:0072384	10	GO:0006913	0.609	3.49485002168009	17	organelle transport along microtubule	nucleocytoplasmic transport
+GO:0014013	30	GO:0045685	0.786	3.48148606012211	2	regulation of gliogenesis	regulation of glial cell differentiation
+GO:1901362	7	GO:0006351	0.907	3.48148606012211	0	organic cyclic compound biosynthetic process	DNA-templated transcription
+GO:0009755	43	GO:0043401	0.969	3.48148606012211	50	hormone-mediated signaling pathway	steroid hormone mediated signaling pathway
+GO:0072089	45	GO:0072089	0.999	3.46852108295774	46	stem cell proliferation	stem cell proliferation
+GO:0007548	23	GO:0003006	0.866	3.46852108295774	19	sex differentiation	developmental process involved in reproduction
+GO:0042063	30	GO:0045685	0.867	3.45593195564972	7	gliogenesis	regulation of glial cell differentiation
+GO:0006338	15	GO:0006325	0.948	3.45593195564972	235	chromatin remodeling	chromatin organization
+GO:0045687	30	GO:0045685	0.957	3.44369749923271	2	positive regulation of glial cell differentiation	regulation of glial cell differentiation
+GO:0006417	44	GO:0006412	0.92	3.44369749923271	67	regulation of translation	translation
+GO:0072091	45	GO:0072089	0.96	3.43179827593301	11	regulation of stem cell proliferation	stem cell proliferation
+GO:0061035	20	GO:0001707	0.454	3.43179827593301	3	regulation of cartilage development	mesoderm formation
+GO:0090305	46	GO:0090305	0.998	3.42021640338319	78	nucleic acid phosphodiester bond hydrolysis	nucleic acid phosphodiester bond hydrolysis
+GO:0010160	42	GO:0048859	0.911	3.42021640338319	0	formation of animal organ boundary	formation of anatomical boundary
+GO:0051726	27	GO:0007059	0.744	3.42021640338319	250	regulation of cell cycle	chromosome segregation
+GO:0009798	13	GO:0009880	0.706	3.4089353929735	1	axis specification	embryonic pattern specification
+GO:0099111	29	GO:0031503	0.326	3.38721614328026	1	microtubule-based transport	protein-containing complex localization
+GO:0046530	30	GO:0045685	0.489	3.38721614328026	0	photoreceptor cell differentiation	regulation of glial cell differentiation
+GO:0036211	25	GO:0016570	0.699	3.3767507096021	84	protein modification process	histone modification
+GO:0048477	23	GO:0003006	0.771	3.36653154442041	36	oogenesis	developmental process involved in reproduction
+GO:0044237	1	GO:0090304	0.635	3.36653154442041	0	cellular metabolic process	nucleic acid metabolic process
+GO:0000245	14	GO:0071826	0.913	3.35654732351381	31	spliceosomal complex assembly	ribonucleoprotein complex subunit organization
+GO:0008283	45	GO:0072089	0.688	3.35654732351381	149	cell population proliferation	stem cell proliferation
+GO:0048640	37	GO:0060560	0.774	3.34678748622466	1	negative regulation of developmental growth	developmental growth involved in morphogenesis
+GO:0000469	46	GO:0090305	0.865	3.34678748622466	3	cleavage involved in rRNA processing	nucleic acid phosphodiester bond hydrolysis
+GO:0065003	14	GO:0071826	0.776	3.32790214206428	139	protein-containing complex assembly	ribonucleoprotein complex subunit organization
+GO:0030705	10	GO:0006913	0.663	3.30980391997149	22	cytoskeleton-dependent intracellular transport	nucleocytoplasmic transport
+GO:0048870	47	GO:0048870	0.979	3.30102999566398	39	cell motility	cell motility
+GO:0009954	13	GO:0009880	0.659	3.29242982390206	26	proximal/distal pattern formation	embryonic pattern specification
+GO:0021515	30	GO:0045685	0.406	3.29242982390206	2	cell differentiation in spinal cord	regulation of glial cell differentiation
+GO:0034504	19	GO:0006403	0.531	3.29242982390206	43	protein localization to nucleus	RNA localization
+GO:0023052	38	GO:0007165	0.853	3.2839966563652	7	signaling	signal transduction
+GO:0017038	22	GO:0006405	0.429	3.26760624017703	5	protein import	RNA export from nucleus
+GO:0090501	46	GO:0090305	0.967	3.26760624017703	17	RNA phosphodiester bond hydrolysis	nucleic acid phosphodiester bond hydrolysis
+GO:0046661	23	GO:0003006	0.813	3.24412514432751	5	male sex differentiation	developmental process involved in reproduction
+GO:0007292	23	GO:0003006	0.694	3.23657200643706	19	female gamete generation	developmental process involved in reproduction
+GO:0019538	26	GO:0051246	0.748	3.23657200643706	18	protein metabolic process	regulation of protein metabolic process
+GO:0048762	20	GO:0001707	0.501	3.21467016498923	8	mesenchymal cell differentiation	mesoderm formation
+GO:0048709	30	GO:0045685	0.845	3.20065945054642	34	oligodendrocyte differentiation	regulation of glial cell differentiation
+GO:0030518	43	GO:0043401	0.988	3.18045606445813	6	intracellular steroid hormone receptor signaling pathway	steroid hormone mediated signaling pathway
+GO:0000381	2	GO:0006396	0.681	3.16115090926274	79	regulation of alternative mRNA splicing, via spliceosome	RNA processing
+GO:0001763	39	GO:0060688	0.886	3.14874165128092	9	morphogenesis of a branching structure	regulation of morphogenesis of a branching structure
+GO:0120039	39	GO:0060688	0.463	3.14266750356873	0	plasma membrane bounded cell projection morphogenesis	regulation of morphogenesis of a branching structure
+GO:0061014	2	GO:0006396	0.443	3.13667713987954	16	positive regulation of mRNA catabolic process	RNA processing
+GO:0031396	26	GO:0051246	0.687	3.11350927482752	19	regulation of protein ubiquitination	regulation of protein metabolic process
+GO:0032504	23	GO:0003006	0.835	3.10790539730952	0	multicellular organism reproduction	developmental process involved in reproduction
+GO:0010970	10	GO:0006913	0.654	3.10790539730952	2	transport along microtubule	nucleocytoplasmic transport
+GO:0048609	23	GO:0003006	0.831	3.10237290870956	4	multicellular organismal reproductive process	developmental process involved in reproduction
+GO:0048858	39	GO:0060688	0.463	3.09691001300806	3	cell projection morphogenesis	regulation of morphogenesis of a branching structure
+GO:0007423	17	GO:0048645	0.426	3.09151498112135	6	sensory organ development	animal organ formation
+GO:0016055	38	GO:0007165	0.55	3.08092190762393	159	Wnt signaling pathway	signal transduction
+GO:0060966	12	GO:0010605	0.543	3.08092190762393	0	regulation of gene silencing by RNA	negative regulation of macromolecule metabolic process
+GO:0021954	30	GO:0045685	0.492	3.08092190762393	19	central nervous system neuron development	regulation of glial cell differentiation
+GO:0051129	34	GO:0051128	0.804	3.07572071393812	0	negative regulation of cellular component organization	regulation of cellular component organization
+GO:0022411	14	GO:0071826	0.353	3.07058107428571	0	cellular component disassembly	ribonucleoprotein complex subunit organization
+GO:0007166	38	GO:0007165	0.74	3.04095860767891	299	cell surface receptor signaling pathway	signal transduction
+GO:0048812	39	GO:0060688	0.462	3.03621217265444	64	neuron projection morphogenesis	regulation of morphogenesis of a branching structure
+GO:0061326	36	GO:0048880	0.365	3.03621217265444	3	renal tubule development	sensory system development
+GO:0000462	4	GO:0022613	0.786	3.02227639471115	27	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	ribonucleoprotein complex biogenesis
+GO:0046620	37	GO:0060560	0.769	3.00877392430751	8	regulation of organ growth	developmental growth involved in morphogenesis
+GO:0048468	31	GO:0030154	0.833	3.00877392430751	21	cell development	cell differentiation
+GO:0033043	34	GO:0051128	0.872	2.99567862621736	2	regulation of organelle organization	regulation of cellular component organization
+GO:0007431	48	GO:0007431	1	2.98716277529483	3	salivary gland development	salivary gland development
+GO:0010501	49	GO:0010501	1	2.98296666070122	13	RNA secondary structure unwinding	RNA secondary structure unwinding
+GO:0032259	35	GO:0043414	0.988	2.97881070093006	55	methylation	macromolecule methylation
+GO:0000380	2	GO:0006396	0.699	2.97469413473523	27	alternative mRNA splicing, via spliceosome	RNA processing
+GO:0043933	14	GO:0071826	0.788	2.97061622231479	1	protein-containing complex organization	ribonucleoprotein complex subunit organization
+GO:0048592	17	GO:0048645	0.591	2.96657624451305	4	eye morphogenesis	animal organ formation
+GO:0140013	5	GO:0071840	0.479	2.96657624451305	4	meiotic nuclear division	cellular component organization or biogenesis
+GO:0010718	20	GO:0001707	0.446	2.96257350205938	59	positive regulation of epithelial to mesenchymal transition	mesoderm formation
+GO:0042026	50	GO:0042026	1	2.96257350205938	31	protein refolding	protein refolding
+GO:0071824	14	GO:0071826	0.655	2.96257350205938	0	protein-DNA complex subunit organization	ribonucleoprotein complex subunit organization
+GO:0010453	11	GO:0001708	0.787	2.96257350205938	2	regulation of cell fate commitment	cell fate specification
+GO:0048729	20	GO:0001707	0.779	2.95078197732982	3	tissue morphogenesis	mesoderm formation
+GO:0033036	19	GO:0006403	0.677	2.93181413825384	0	macromolecule localization	RNA localization
+GO:0035272	48	GO:0007431	0.981	2.92811799269387	2	exocrine system development	salivary gland development
+GO:0040029	15	GO:0006325	0.881	2.92811799269387	27	epigenetic regulation of gene expression	chromatin organization
+GO:2000026	51	GO:2000026	0.985	2.92081875395238	0	regulation of multicellular organismal development	regulation of multicellular organismal development
+GO:0030182	30	GO:0045685	0.635	2.91364016932525	170	neuron differentiation	regulation of glial cell differentiation
+GO:2000380	20	GO:0001707	0.779	2.91364016932525	1	regulation of mesoderm development	mesoderm formation
+GO:0001825	16	GO:0009790	0.684	2.91364016932525	19	blastocyst formation	embryo development
+GO:0021953	30	GO:0045685	0.523	2.9100948885606	9	central nervous system neuron differentiation	regulation of glial cell differentiation
+GO:0043043	44	GO:0006412	0.986	2.9100948885606	4	peptide biosynthetic process	translation
+GO:0051301	32	GO:0017145	0.764	2.90657831483776	353	cell division	stem cell division
+GO:0016573	25	GO:0016570	0.895	2.90308998699194	54	histone acetylation	histone modification
+GO:0019953	23	GO:0003006	0.839	2.89619627904404	9	sexual reproduction	developmental process involved in reproduction
+GO:0021522	30	GO:0045685	0.46	2.89279003035213	16	spinal cord motor neuron differentiation	regulation of glial cell differentiation
+GO:0035195	24	GO:0010608	0.923	2.88941028970075	855	miRNA-mediated gene silencing	post-transcriptional regulation of gene expression
+GO:0014032	18	GO:0048863	0.914	2.88605664769316	20	neural crest cell development	stem cell differentiation
+GO:0050768	51	GO:2000026	0.75	2.88605664769316	24	negative regulation of neurogenesis	regulation of multicellular organismal development
+GO:0198738	38	GO:0007165	0.511	2.87614835903291	2	cell-cell signaling by wnt	signal transduction
+GO:0071774	43	GO:0043401	0.558	2.86966623150499	7	response to fibroblast growth factor	steroid hormone mediated signaling pathway
+GO:0044344	43	GO:0043401	0.585	2.86966623150499	29	cellular response to fibroblast growth factor stimulus	steroid hormone mediated signaling pathway
+GO:0071359	52	GO:0071359	1	2.84771165561694	4	cellular response to dsRNA	cellular response to dsRNA
+GO:0051130	34	GO:0051128	0.854	2.84771165561694	0	positive regulation of cellular component organization	regulation of cellular component organization
+GO:0019827	53	GO:0019827	0.999	2.84771165561694	37	stem cell population maintenance	stem cell population maintenance
+GO:0009887	39	GO:0060688	0.492	2.83564714421556	106	animal organ morphogenesis	regulation of morphogenesis of a branching structure
+GO:0043331	52	GO:0071359	0.938	2.83564714421556	3	response to dsRNA	cellular response to dsRNA
+GO:0000027	4	GO:0022613	0.756	2.83564714421556	24	ribosomal large subunit assembly	ribonucleoprotein complex biogenesis
+GO:0048568	16	GO:0009790	0.869	2.82102305270683	31	embryonic organ development	embryo development
+GO:0006401	21	GO:0044265	0.886	2.81815641205523	38	RNA catabolic process	cellular macromolecule catabolic process
+GO:0140014	5	GO:0071840	0.501	2.8153085691824	6	mitotic nuclear division	cellular component organization or biogenesis
+GO:0048025	2	GO:0006396	0.617	2.81247927916354	24	negative regulation of mRNA splicing, via spliceosome	RNA processing
+GO:0032990	39	GO:0060688	0.464	2.80966830182971	1	cell part morphogenesis	regulation of morphogenesis of a branching structure
+GO:0007140	5	GO:0071840	0.395	2.79048498545737	26	male meiotic nuclear division	cellular component organization or biogenesis
+GO:0030030	34	GO:0051128	0.538	2.7851561519523	40	cell projection organization	regulation of cellular component organization
+GO:0006402	21	GO:0044265	0.863	2.7851561519523	30	mRNA catabolic process	cellular macromolecule catabolic process
+GO:0018393	25	GO:0016570	0.501	2.77989191195995	7	internal peptidyl-lysine acetylation	histone modification
+GO:0010941	54	GO:0010941	0.982	2.77728352885242	6	regulation of cell death	regulation of cell death
+GO:0007398	20	GO:0001707	0.414	2.7619538968712	13	ectoderm development	mesoderm formation
+GO:0021952	30	GO:0045685	0.46	2.7619538968712	11	central nervous system projection neuron axonogenesis	regulation of glial cell differentiation
+GO:0098727	53	GO:0019827	0.996	2.7594507517174	1	maintenance of cell number	stem cell population maintenance
+GO:0032330	20	GO:0001707	0.444	2.75448733218585	11	regulation of chondrocyte differentiation	mesoderm formation
+GO:0006475	25	GO:0016570	0.501	2.75448733218585	4	internal protein amino acid acetylation	histone modification
+GO:2000059	21	GO:0044265	0.709	2.74472749489669	17	negative regulation of ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:2000648	45	GO:0072089	0.923	2.74472749489669	40	positive regulation of stem cell proliferation	stem cell proliferation
+GO:0008219	54	GO:0010941	0.909	2.73518217699046	35	cell death	regulation of cell death
+GO:0051098	55	GO:0051098	0.997	2.73518217699046	4	regulation of binding	regulation of binding
+GO:0017148	44	GO:0006412	0.866	2.73048705578208	95	negative regulation of translation	translation
+GO:0000018	6	GO:0044260	0.572	2.72584215073632	6	regulation of DNA recombination	cellular macromolecule metabolic process
+GO:0061387	56	GO:0061387	0.999	2.72124639904717	0	regulation of extent of cell growth	regulation of extent of cell growth
+GO:1990138	37	GO:0060560	0.968	2.71669877129645	25	neuron projection extension	developmental growth involved in morphogenesis
+GO:0044087	4	GO:0022613	0.641	2.71444269099223	0	regulation of cellular component biogenesis	ribonucleoprotein complex biogenesis
+GO:0014033	18	GO:0048863	0.927	2.71219827006977	11	neural crest cell differentiation	stem cell differentiation
+GO:0048598	16	GO:0009790	0.915	2.70774392864352	11	embryonic morphogenesis	embryo development
+GO:0001656	36	GO:0048880	0.369	2.70553377383841	29	metanephros development	sensory system development
+GO:0046552	30	GO:0045685	0.377	2.69464863055338	0	photoreceptor cell fate commitment	regulation of glial cell differentiation
+GO:0034249	44	GO:0006412	0.79	2.69464863055338	0	negative regulation of amide metabolic process	translation
+GO:0120031	34	GO:0051128	0.469	2.67985371388895	0	plasma membrane bounded cell projection assembly	regulation of cellular component organization
+GO:0010564	27	GO:0007059	0.785	2.67985371388895	15	regulation of cell cycle process	chromosome segregation
+GO:0016571	26	GO:0051246	0.44	2.67571754470231	11	histone methylation	regulation of protein metabolic process
+GO:0006458	50	GO:0042026	0.739	2.66958622665081	3	'de novo' protein folding	protein refolding
+GO:0071704	1	GO:0090304	0.522	2.66354026615147	0	organic substance metabolic process	nucleic acid metabolic process
+GO:1903047	27	GO:0007059	0.795	2.64781748188864	0	mitotic cell cycle process	chromosome segregation
+GO:0007275	31	GO:0030154	0.62	2.64206515299955	79	multicellular organism development	cell differentiation
+GO:0048736	31	GO:0030154	0.337	2.63638802010786	0	appendage development	cell differentiation
+GO:0045184	19	GO:0006403	0.625	2.6345120151091	38	establishment of protein localization	RNA localization
+GO:0007530	23	GO:0003006	0.684	2.62893213772826	8	sex determination	developmental process involved in reproduction
+GO:0097722	23	GO:0003006	0.688	2.62893213772826	0	sperm motility	developmental process involved in reproduction
+GO:0060562	20	GO:0001707	0.728	2.6252516539899	1	epithelial tube morphogenesis	mesoderm formation
+GO:0120036	34	GO:0051128	0.536	2.62342304294349	1	plasma membrane bounded cell projection organization	regulation of cellular component organization
+GO:0014017	30	GO:0045685	0.377	2.62342304294349	0	neuroblast fate commitment	regulation of glial cell differentiation
+GO:0045778	57	GO:0045778	1	2.61439372640169	12	positive regulation of ossification	positive regulation of ossification
+GO:1903320	26	GO:0051246	0.702	2.61083391563547	0	regulation of protein modification by small protein conjugation or removal	regulation of protein metabolic process
+GO:0018394	25	GO:0016570	0.503	2.59176003468815	6	peptidyl-lysine acetylation	histone modification
+GO:0031647	56	GO:0061387	0.483	2.59006687666871	89	regulation of protein stability	regulation of extent of cell growth
+GO:0060914	17	GO:0048645	0.955	2.58335949266172	6	heart formation	animal organ formation
+GO:0000288	21	GO:0044265	0.748	2.57186520597121	11	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	cellular macromolecule catabolic process
+GO:0051646	33	GO:0051640	0.793	2.56863623584101	11	mitochondrion localization	organelle localization
+GO:0042127	45	GO:0072089	0.671	2.5654310959658	140	regulation of cell population proliferation	stem cell proliferation
+GO:0030516	56	GO:0061387	0.986	2.56383735295924	12	regulation of axon extension	regulation of extent of cell growth
+GO:0001755	47	GO:0048870	0.652	2.56066730616974	47	neural crest cell migration	cell motility
+GO:0046621	37	GO:0060560	0.717	2.55909091793478	12	negative regulation of organ growth	developmental growth involved in morphogenesis
+GO:0030031	34	GO:0051128	0.47	2.55595520408192	13	cell projection assembly	regulation of cellular component organization
+GO:0018205	25	GO:0016570	0.541	2.54515513999149	1	peptidyl-lysine modification	histone modification
+GO:0007409	39	GO:0060688	0.449	2.54515513999149	94	axonogenesis	regulation of morphogenesis of a branching structure
+GO:0051053	6	GO:0044260	0.587	2.54060751224077	1	negative regulation of DNA metabolic process	cellular macromolecule metabolic process
+GO:0035051	18	GO:0048863	0.398	2.52578373592374	3	cardiocyte differentiation	stem cell differentiation
+GO:0006886	19	GO:0006403	0.587	2.51712641639125	260	intracellular protein transport	RNA localization
+GO:0090100	40	GO:0007154	0.414	2.50863830616573	0	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	cell communication
+GO:0035107	31	GO:0030154	0.329	2.50584540598156	0	appendage morphogenesis	cell differentiation
+GO:0014031	20	GO:0001707	0.384	2.50584540598156	6	mesenchymal cell development	mesoderm formation
+GO:0048589	37	GO:0060560	0.906	2.50445566245355	23	developmental growth	developmental growth involved in morphogenesis
+GO:1902275	15	GO:0006325	0.767	2.50307035192679	12	regulation of chromatin organization	chromatin organization
+GO:2000637	24	GO:0010608	0.647	2.5003129173816	15	positive regulation of miRNA-mediated gene silencing	post-transcriptional regulation of gene expression
+GO:0035194	24	GO:0010608	0.924	2.49620931694282	8	RNA-mediated post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0009953	13	GO:0009880	0.711	2.48017200622428	40	dorsal/ventral pattern formation	embryonic pattern specification
+GO:0031124	2	GO:0006396	0.696	2.47886191629596	14	mRNA 3'-end processing	RNA processing
+GO:0051961	51	GO:2000026	0.754	2.47495519296315	1	negative regulation of nervous system development	regulation of multicellular organismal development
+GO:0090596	17	GO:0048645	0.617	2.4672456210075	0	sensory organ morphogenesis	animal organ formation
+GO:0002009	20	GO:0001707	0.762	2.46597389394387	20	morphogenesis of an epithelium	mesoderm formation
+GO:0033119	2	GO:0006396	0.63	2.45593195564972	7	negative regulation of RNA splicing	RNA processing
+GO:0014016	30	GO:0045685	0.425	2.45593195564972	8	neuroblast differentiation	regulation of glial cell differentiation
+GO:1901800	21	GO:0044265	0.702	2.45593195564972	20	positive regulation of proteasomal protein catabolic process	cellular macromolecule catabolic process
+GO:0016441	24	GO:0010608	0.925	2.45593195564972	5	post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0008543	43	GO:0043401	0.573	2.44855000202712	85	fibroblast growth factor receptor signaling pathway	steroid hormone mediated signaling pathway
+GO:0051865	26	GO:0051246	0.403	2.44733178388781	83	protein autoubiquitination	regulation of protein metabolic process
+GO:0090090	38	GO:0007165	0.451	2.44249279809434	195	negative regulation of canonical Wnt signaling pathway	signal transduction
+GO:0031398	26	GO:0051246	0.645	2.44249279809434	84	positive regulation of protein ubiquitination	regulation of protein metabolic process
+GO:0008298	19	GO:0006403	0.789	2.44249279809434	3	intracellular mRNA localization	RNA localization
+GO:0048583	58	GO:0048583	0.936	2.43297363384094	1	regulation of response to stimulus	regulation of response to stimulus
+GO:0060964	24	GO:0010608	0.694	2.43062609038495	7	regulation of miRNA-mediated gene silencing	post-transcriptional regulation of gene expression
+GO:0040011	59	GO:0040011	0.982	2.4294570601181	8	locomotion	locomotion
+GO:1903322	26	GO:0051246	0.654	2.42481215507234	0	positive regulation of protein modification by small protein conjugation or removal	regulation of protein metabolic process
+GO:0051654	33	GO:0051640	0.759	2.41793663708829	3	establishment of mitochondrion localization	organelle localization
+GO:0021517	30	GO:0045685	0.401	2.41793663708829	10	ventral spinal cord development	regulation of glial cell differentiation
+GO:0050686	2	GO:0006396	0.621	2.41680122603138	0	negative regulation of mRNA processing	RNA processing
+GO:1905330	20	GO:0001707	0.642	2.40450377817443	0	regulation of morphogenesis of an epithelium	mesoderm formation
+GO:0048634	51	GO:2000026	0.512	2.40120949323688	3	regulation of muscle organ development	regulation of multicellular organismal development
+GO:0006457	50	GO:0042026	0.839	2.39469495385889	187	protein folding	protein refolding
+GO:0016049	37	GO:0060560	0.819	2.39147396642281	0	cell growth	developmental growth involved in morphogenesis
+GO:0090497	47	GO:0048870	0.653	2.3840499483436	2	mesenchymal cell migration	cell motility
+GO:0090630	55	GO:0051098	0.528	2.38195190328791	130	activation of GTPase activity	regulation of binding
+GO:0007286	23	GO:0003006	0.827	2.37468754903833	92	spermatid development	developmental process involved in reproduction
+GO:0009615	60	GO:0009615	0.996	2.37161106994969	114	response to virus	response to virus
+GO:0048588	37	GO:0060560	0.828	2.37161106994969	2	developmental cell growth	developmental growth involved in morphogenesis
+GO:0043009	16	GO:0009790	0.898	2.36855623098683	5	chordate embryonic development	embryo development
+GO:0014855	45	GO:0072089	0.514	2.36855623098683	0	striated muscle cell proliferation	stem cell proliferation
+GO:0048865	18	GO:0048863	0.785	2.36552272983927	0	stem cell fate commitment	stem cell differentiation
+GO:0048232	23	GO:0003006	0.792	2.36251027048749	4	male gamete generation	developmental process involved in reproduction
+GO:0040007	37	GO:0060560	0.872	2.36251027048749	0	growth	developmental growth involved in morphogenesis
+GO:0060285	47	GO:0048870	0.723	2.35556141053216	15	cilium-dependent cell motility	cell motility
+GO:0001539	47	GO:0048870	0.723	2.35556141053216	0	cilium or flagellum-dependent cell motility	cell motility
+GO:0006915	54	GO:0010941	0.892	2.35359627377693	573	apoptotic process	regulation of cell death
+GO:0009987	61	GO:0009987	0.329	2.34103515733557	0	cellular process	cellular process
+GO:0051248	12	GO:0010605	0.79	2.33818731446274	9	negative regulation of protein metabolic process	negative regulation of macromolecule metabolic process
+GO:1900368	24	GO:0010608	0.696	2.33068311943389	0	regulation of post-transcriptional gene silencing by RNA	post-transcriptional regulation of gene expression
+GO:0060147	24	GO:0010608	0.697	2.33068311943389	1	regulation of post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0030317	23	GO:0003006	0.688	2.33068311943389	99	flagellated sperm motility	developmental process involved in reproduction
+GO:0032502	31	GO:0030154	0.677	2.32513885926219	18	developmental process	cell differentiation
+GO:0016477	47	GO:0048870	0.966	2.32057210338788	253	cell migration	cell motility
+GO:0009994	23	GO:0003006	0.734	2.31515463835559	4	oocyte differentiation	developmental process involved in reproduction
+GO:0014003	30	GO:0045685	0.79	2.31425826139774	22	oligodendrocyte development	regulation of glial cell differentiation
+GO:0048856	31	GO:0030154	0.659	2.31425826139774	49	anatomical structure development	cell differentiation
+GO:2000171	34	GO:0051128	0.523	2.31158017799729	9	negative regulation of dendrite development	regulation of cellular component organization
+GO:0035120	41	GO:0009791	0.793	2.30715308072277	0	post-embryonic appendage morphogenesis	post-embryonic development
+GO:0035265	37	GO:0060560	0.812	2.30627305107635	20	organ growth	developmental growth involved in morphogenesis
+GO:0008152	1	GO:0090304	0.485	2.30102999566398	8	metabolic process	nucleic acid metabolic process
+GO:0008213	26	GO:0051246	0.46	2.29157909986529	0	protein alkylation	regulation of protein metabolic process
+GO:0006479	26	GO:0051246	0.46	2.29157909986529	37	protein methylation	regulation of protein metabolic process
+GO:0006283	6	GO:0044260	0.461	2.28819277095881	16	transcription-coupled nucleotide-excision repair	cellular macromolecule metabolic process
+GO:0002090	34	GO:0051128	0.619	2.28819277095881	6	regulation of receptor internalization	regulation of cellular component organization
+GO:0042177	21	GO:0044265	0.697	2.28066871301627	46	negative regulation of protein catabolic process	cellular macromolecule catabolic process
+GO:0034248	44	GO:0006412	0.842	2.28066871301627	0	regulation of amide metabolic process	translation
+GO:0044089	4	GO:0022613	0.595	2.27736607746619	1	positive regulation of cellular component biogenesis	ribonucleoprotein complex biogenesis
+GO:0045137	23	GO:0003006	0.846	2.27327279097343	1	development of primary sexual characteristics	developmental process involved in reproduction
+GO:0090502	46	GO:0090305	0.922	2.26841123481326	68	RNA phosphodiester bond hydrolysis, endonucleolytic	nucleic acid phosphodiester bond hydrolysis
+GO:0048754	39	GO:0060688	0.862	2.26201267366657	24	branching morphogenesis of an epithelial tube	regulation of morphogenesis of a branching structure
+GO:0009950	13	GO:0009880	0.618	2.26042765554991	8	dorsal/ventral axis specification	embryonic pattern specification
+GO:0060294	47	GO:0048870	0.718	2.25492520841794	12	cilium movement involved in cell motility	cell motility
+GO:0048666	30	GO:0045685	0.619	2.25414480482627	54	neuron development	regulation of glial cell differentiation
+GO:0051093	51	GO:2000026	0.751	2.24641694110709	8	negative regulation of developmental process	regulation of multicellular organismal development
+GO:0009653	39	GO:0060688	0.542	2.24108810760203	131	anatomical structure morphogenesis	regulation of morphogenesis of a branching structure
+GO:0036260	2	GO:0006396	0.635	2.23062267392386	0	RNA capping	RNA processing
+GO:0010721	51	GO:2000026	0.646	2.22841251911874	2	negative regulation of cell development	regulation of multicellular organismal development
+GO:1900370	24	GO:0010608	0.649	2.21968268785985	1	positive regulation of post-transcriptional gene silencing by RNA	post-transcriptional regulation of gene expression
+GO:0060148	24	GO:0010608	0.649	2.21968268785985	0	positive regulation of post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0002052	51	GO:2000026	0.647	2.21968268785985	29	positive regulation of neuroblast proliferation	regulation of multicellular organismal development
+GO:0000902	39	GO:0060688	0.475	2.21183162885883	89	cell morphogenesis	regulation of morphogenesis of a branching structure
+GO:0001754	30	GO:0045685	0.475	2.20690839982342	3	eye photoreceptor cell differentiation	regulation of glial cell differentiation
+GO:0045814	15	GO:0006325	0.845	2.20273245916928	23	negative regulation of gene expression, epigenetic	chromatin organization
+GO:0051960	51	GO:2000026	0.85	2.20134935455473	2	regulation of nervous system development	regulation of multicellular organismal development
+GO:2000060	21	GO:0044265	0.758	2.19859628998264	24	positive regulation of ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0090503	46	GO:0090305	0.868	2.18243463044022	35	RNA phosphodiester bond hydrolysis, exonucleolytic	nucleic acid phosphodiester bond hydrolysis
+GO:0009799	13	GO:0009880	0.738	2.1791420105603	0	specification of symmetry	embryonic pattern specification
+GO:0001736	20	GO:0001707	0.656	2.1791420105603	17	establishment of planar polarity	mesoderm formation
+GO:0007169	40	GO:0007154	0.52	2.1771783546969	112	transmembrane receptor protein tyrosine kinase signaling pathway	cell communication
+GO:0032436	21	GO:0044265	0.745	2.17392519729917	93	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	cellular macromolecule catabolic process
+GO:0048048	17	GO:0048645	0.527	2.17392519729917	11	embryonic eye morphogenesis	animal organ formation
+GO:0045880	58	GO:0048583	0.468	2.17392519729917	39	positive regulation of smoothened signaling pathway	regulation of response to stimulus
+GO:0001510	25	GO:0016570	0.454	2.17392519729917	11	RNA methylation	histone modification
+GO:0030178	38	GO:0007165	0.468	2.15366288787019	60	negative regulation of Wnt signaling pathway	signal transduction
+GO:0030111	38	GO:0007165	0.508	2.14874165128092	18	regulation of Wnt signaling pathway	signal transduction
+GO:1903051	21	GO:0044265	0.669	2.14630178822383	2	negative regulation of proteolysis involved in protein catabolic process	cellular macromolecule catabolic process
+GO:0072080	36	GO:0048880	0.363	2.14630178822383	0	nephron tubule development	sensory system development
+GO:0007315	62	GO:0007315	1	2.1444808443322	0	pole plasm assembly	pole plasm assembly
+GO:0031399	26	GO:0051246	0.89	2.14327110961712	0	regulation of protein modification process	regulation of protein metabolic process
+GO:0061138	39	GO:0060688	0.881	2.14206473528057	4	morphogenesis of a branching epithelium	regulation of morphogenesis of a branching structure
+GO:0032968	7	GO:0006351	0.515	2.12726117252733	53	positive regulation of transcription elongation by RNA polymerase II	DNA-templated transcription
+GO:0003341	28	GO:0007018	0.93	2.11747546204512	63	cilium movement	microtubule-based movement
+GO:0031076	36	GO:0048880	0.806	2.11747546204512	12	embryonic camera-type eye development	sensory system development
+GO:0008354	23	GO:0003006	0.541	2.11690664142431	8	germ cell migration	developmental process involved in reproduction
+GO:0007028	62	GO:0007315	0.923	2.10568393731556	4	cytoplasm organization	pole plasm assembly
+GO:0007346	27	GO:0007059	0.677	2.10237290870956	68	regulation of mitotic cell cycle	chromosome segregation
+GO:0048013	40	GO:0007154	0.37	2.09528445472132	63	ephrin receptor signaling pathway	cell communication
+GO:0006400	2	GO:0006396	0.729	2.08990945440593	28	tRNA modification	RNA processing
+GO:0044772	27	GO:0007059	0.743	2.08618614761628	21	mitotic cell cycle phase transition	chromosome segregation
+GO:0016050	5	GO:0071840	0.512	2.08512818245995	16	vesicle organization	cellular component organization or biogenesis
+GO:0048515	23	GO:0003006	0.829	2.08460016478773	7	spermatid differentiation	developmental process involved in reproduction
+GO:0008361	56	GO:0061387	0.96	2.08249449044745	26	regulation of cell size	regulation of extent of cell growth
+GO:0035295	36	GO:0048880	0.412	2.08196966321512	2	tube development	sensory system development
+GO:0048585	58	GO:0048583	0.776	2.07883394936226	0	negative regulation of response to stimulus	regulation of response to stimulus
+GO:0012501	54	GO:0010941	0.899	2.07883394936226	10	programmed cell death	regulation of cell death
+GO:0007283	23	GO:0003006	0.914	2.07572071393812	456	spermatogenesis	developmental process involved in reproduction
+GO:0060284	51	GO:2000026	0.734	2.07520400420209	0	regulation of cell development	regulation of multicellular organismal development
+GO:0006220	63	GO:0006220	0.999	2.07417242537526	4	pyrimidine nucleotide metabolic process	pyrimidine nucleotide metabolic process
+GO:0042455	63	GO:0006220	0.56	2.07314329105031	0	ribonucleoside biosynthetic process	pyrimidine nucleotide metabolic process
+GO:0060428	36	GO:0048880	0.335	2.068542129311	8	lung epithelium development	sensory system development
+GO:0034728	14	GO:0071826	0.622	2.06248210798265	6	nucleosome organization	ribonucleoprotein complex subunit organization
+GO:0009896	21	GO:0044265	0.667	2.05998184499234	0	positive regulation of catabolic process	cellular macromolecule catabolic process
+GO:0048708	30	GO:0045685	0.828	2.05207638016827	17	astrocyte differentiation	regulation of glial cell differentiation
+GO:0006468	25	GO:0016570	0.623	2.04769199033787	578	protein phosphorylation	histone modification
+GO:0010639	34	GO:0051128	0.744	2.04575749056068	0	negative regulation of organelle organization	regulation of cellular component organization
+GO:0030520	43	GO:0043401	0.93	2.04527520902094	23	intracellular estrogen receptor signaling pathway	steroid hormone mediated signaling pathway
+GO:0051216	20	GO:0001707	0.493	2.04527520902094	58	cartilage development	mesoderm formation
+GO:0072001	36	GO:0048880	0.412	2.0433514207948	0	renal system development	sensory system development
+GO:0031175	30	GO:0045685	0.611	2.04287180232319	133	neuron projection development	regulation of glial cell differentiation
+GO:0051099	55	GO:0051098	0.934	2.03905380426617	6	positive regulation of binding	regulation of binding
+GO:0070925	4	GO:0022613	0.647	2.02965312376991	6	organelle assembly	ribonucleoprotein complex biogenesis
+GO:0034502	19	GO:0006403	0.491	2.0268721464003	3	protein localization to chromosome	RNA localization
+GO:0001655	64	GO:0001655	0.999	2.02365002099673	17	urogenital system development	urogenital system development
+GO:0009886	41	GO:0009791	0.893	2.0204516252959	0	post-embryonic animal morphogenesis	post-embryonic development
+GO:0021782	30	GO:0045685	0.847	2.01592296609717	4	glial cell development	regulation of glial cell differentiation
+GO:0048599	23	GO:0003006	0.73	2.01547268665621	15	oocyte development	developmental process involved in reproduction
+GO:2001234	54	GO:0010941	0.773	2.01502287358451	34	negative regulation of apoptotic signaling pathway	regulation of cell death
+GO:0060537	20	GO:0001707	0.523	2.00744648216786	5	muscle tissue development	mesoderm formation
+GO:0042706	30	GO:0045685	0.377	2.00392634551472	0	eye photoreceptor cell fate commitment	regulation of glial cell differentiation
+GO:0006473	25	GO:0016570	0.512	2.00086945871263	20	protein acetylation	histone modification
