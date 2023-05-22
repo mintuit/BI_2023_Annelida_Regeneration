@@ -1,0 +1,17 @@
+#!/bin/bash
+
+source activate /home//miniconda3/envs/transdecoder_env
+
+workdir=/hpcws/-sfio/IB/Pdum_good_contigs_TransDecoder
+
+cd $workdir
+
+# INPUT: #
+FASTA=/hpcws/-sfio/IB/Good_contigs_CDHIT/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta
+
+# Analysis: #
+echo "***** TransDecoder.LongORFs began to work with params: *****"
+echo "FASTA: $FASTA"
+nohup /home//miniconda3/envs/transdecoder_env/bin/TransDecoder.LongOrfs -t $FASTA -m 100 -G universal
+wait
+echo "##### Job is complete #####"

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+#SBATCH --job-name=Pdum_good_contig_predict # Job name
+#SBATCH --mail-type=END,FAIL # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=maxnest.research@gmail.com  # Where to send mail
+#SBATCH --mem 10GB
+#SBATCH -p brain1
+#SBATCH --nodes=1  # Run all processes on a single node (N)
+#SBATCH --ntasks=1 # Run a single task (n)
+#SBATCH --cpus-per-task=24 # Number of CPU cores per task
+#SBATCH -t 3-12:00
+
+source activate /home/maxnest/miniconda3/envs/transdecoder_env
+
+workdir=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder
+
+cd $workdir
+
+# INPUT: #
+FASTA=/hpcws/maxnest-sfio/IB/Good_contigs_CDHIT/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta
+PFAM=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/Pdum_longORFs_vs_pfam.domtblout
+BLASTP=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/longest_orfs_vs_UniRef90.diamond.outfmt6 # 1 hit
+
+# Analysis: #
+echo "***** TransDecoder.Predict began to work with params: *****"
+echo "FASTA: $FASTA"
+echo "PFAM: $PFAM"
+echo "BLASTP: $BLASTP"
+nohup /home/maxnest/miniconda3/envs/transdecoder_env/bin/TransDecoder.Predict -t $FASTA --retain_pfam_hits $PFAM --retain_blastp_hits $BLASTP
+wait
+echo "##### Job is complete #####"

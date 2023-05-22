@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#SBATCH --job-name=Pele_good_contig_LongORFs # Job name
+#SBATCH --mail-type=END,FAIL # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=maxnest.research@gmail.com  # Where to send mail
+#SBATCH --mem 20GB
+#SBATCH -p brain1
+#SBATCH --nodes=1  # Run all processes on a single node (N)
+#SBATCH --ntasks=1 # Run a single task (n)
+#SBATCH --cpus-per-task=24 # Number of CPU cores per task
+#SBATCH -t 3-12:00
+
+source activate /home/maxnest/miniconda3/envs/transdecoder_env
+
+workdir=/hpcws/maxnest-sfio/IB/Pele_good_contigs_TransDecoder
+
+cd $workdir
+
+# INPUT: #
+FASTA=/hpcws/maxnest-sfio/IB/Good_contigs_CDHIT/Pele_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta
+
+# Analysis: #
+echo "***** TransDecoder.LongORFs began to work with params: *****"
+echo "FASTA: $FASTA"
+nohup /home/maxnest/miniconda3/envs/transdecoder_env/bin/TransDecoder.LongOrfs -t $FASTA -m 100 -G universal
+wait
+echo "##### Job is complete #####"

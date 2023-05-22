@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#SBATCH --job-name=Pdum_LongORFs_vs_PfamA # Job name
+#SBATCH --mail-type=END,FAIL # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=maxnest.research@gmail.com  # Where to send mail
+#SBATCH --mem 20GB
+#SBATCH -p brain1
+#SBATCH --nodes=1  # Run all processes on a single node (N)
+#SBATCH --ntasks=1 # Run a single task (n)
+#SBATCH --cpus-per-task=24 # Number of CPU cores per task
+#SBATCH -t 5-12:00
+
+source activate /home/maxnest/miniconda3/envs/transdecoder_env
+
+workdir=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder
+
+cd $workdir
+
+# INPUT: #
+FASTA=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
+OUTFILE=Pdum_longORFs_vs_pfam.domtblout
+
+# Analysis: #
+echo "***** HMMsearch began to search (vs PfamA) with params: *****"
+echo "FASTA: $FASTA"
+nohup /home/maxnest/miniconda3/envs/transdecoder_env/bin/hmmsearch --cpu 24 --domtblout $OUTFILE /home/maxnest/PfamA/Pfam-A.hmm $FASTA
+wait
+echo "##### Job is complete #####"

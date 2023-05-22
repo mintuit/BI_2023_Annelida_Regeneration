@@ -1,0 +1,18 @@
+#!/bin/bash
+#identity threshold c=0.95 chosen based on Cd-Hit: a Fast Program for Clustering and Comparing Large Sets of Protein or Nucleotide Sequences for duplicate sequence removal
+source activate /home/maxnest/miniconda3/envs/cdhit_env
+
+workdir=/hpcws/maxnest-sfio/IB/Good_contigs_CDHIT/
+
+cd $workdir
+
+# INPUT: #
+FASTA=/hpcws/maxnest-sfio/IB/Good_contigs/Pele_new_ref.rnaSPAdes_and_Trinity.good.fasta
+TAG=Pele_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95
+
+echo "***** CDHIT began to work with params: *****"
+echo "FASTA: $FASTA"
+echo "TAG: $TAG"
+nohup /home/maxnest/miniconda3/envs/cdhit_env/bin/cd-hit-est -i $FASTA -o ${TAG}.fasta -c 0.95 -T 24 -d 0 -g 1 -r 1 -M 6000
+wait
+echo "##### Job is complete #####"

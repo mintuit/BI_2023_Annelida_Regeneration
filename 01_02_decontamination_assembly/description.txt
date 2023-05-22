@@ -1,0 +1,13 @@
+commands from this section (except BUSCO analysis) were performed on server due to high computational demands of this part of analysis
+version of used programms:
+KRAKEN2 - 2.1.2
+rnaSPades - 3.15.4
+Trinity - 2.14.0
+CDHIT - 4.8.1
+Transrate – 1.0.1
+Transdecoder - 5.5.0
+Salmon - 1.2.1
+FastP - 0.22.0
+HMMer - 3.3.2
+DIAMOND - 2.0.15
+BUSCO 5.4.4

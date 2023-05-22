@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /mnt/f/phylo/WORMS/clusterisation_all/filtered/Pele_nucl_av_noerror.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:94.2%[S:45.1%,D:49.1%],F:1.2%,M:4.6%,n:954	   
+	898	Complete BUSCOs (C)			   
+	430	Complete and single-copy BUSCOs (S)	   
+	468	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	45	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9
+	busco: 5.4.4

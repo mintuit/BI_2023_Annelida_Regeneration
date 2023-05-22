@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#SBATCH --job-name=Pdum_LongORFs_vs_UniRef90 # Job name
+#SBATCH --mail-type=END,FAIL # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=maxnest.research@gmail.com  # Where to send mail
+#SBATCH --mem 20GB
+#SBATCH -p brain1
+#SBATCH --nodes=1  # Run all processes on a single node (N)
+#SBATCH --ntasks=1 # Run a single task (n)
+#SBATCH --cpus-per-task=24 # Number of CPU cores per task
+#SBATCH -t 5-12:00
+
+workdir=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder
+
+# INPUT: #
+FASTA=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
+DB=/home/maxnest/UniRef90/uniref90
+
+source activate /home/maxnest/miniconda3/envs/diamond_env
+
+# Analysis: #
+echo "***** DIAMOND BLASTp began to search (vs UniRef90) with params: *****"
+echo "FASTA: $FASTA"
+echo "DB: $DB"
+nohup /home/maxnest/miniconda3/envs/diamond_env/bin/diamond blastp --db $DB --query $FASTA --threads 24 --out ${workdir}/longest_orfs_vs_UniRef90.diamond.outfmt6 --outfmt 6 --max-target-seqs 1 --evalue 1e-5
+wait
+echo "##### Job is complete #####"
