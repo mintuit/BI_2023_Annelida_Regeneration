@@ -1,0 +1,353 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0032501	1	GO:0032501	0.805	7.04575749056067	0	multicellular organismal process	multicellular organismal process
+GO:0140352	2	GO:0140352	0.989	6.26760624017703	0	export from cell	export from cell
+GO:0046330	3	GO:0046330	0.999	5.92081875395237	105	positive regulation of JNK cascade	positive regulation of JNK cascade
+GO:0070304	3	GO:0046330	0.969	5.92081875395237	2	positive regulation of stress-activated protein kinase signaling cascade	positive regulation of JNK cascade
+GO:0032874	3	GO:0046330	0.97	5.92081875395237	19	positive regulation of stress-activated MAPK cascade	positive regulation of JNK cascade
+GO:0032872	3	GO:0046330	0.932	5.88605664769316	11	regulation of stress-activated MAPK cascade	positive regulation of JNK cascade
+GO:0070302	3	GO:0046330	0.931	5.88605664769316	1	regulation of stress-activated protein kinase signaling cascade	positive regulation of JNK cascade
+GO:0050793	4	GO:0050793	0.968	5.82390874094432	7	regulation of developmental process	regulation of developmental process
+GO:0051094	4	GO:0050793	0.867	5.79588001734407	2	positive regulation of developmental process	regulation of developmental process
+GO:0046328	3	GO:0046330	0.965	5.69897000433602	16	regulation of JNK cascade	positive regulation of JNK cascade
+GO:0032940	2	GO:0140352	0.981	5.61978875828839	10	secretion by cell	export from cell
+GO:0046903	2	GO:0140352	0.493	5.56863623584101	8	secretion	export from cell
+GO:0065007	5	GO:0065007	0.575	5.3767507096021	0	biological regulation	biological regulation
+GO:0032502	6	GO:0032502	0.84	5.31875876262441	18	developmental process	developmental process
+GO:0032147	7	GO:0032147	0.999	5.2839966563652	45	activation of protein kinase activity	activation of protein kinase activity
+GO:0051403	3	GO:0046330	0.906	5.13076828026902	19	stress-activated MAPK cascade	positive regulation of JNK cascade
+GO:0007254	3	GO:0046330	0.94	5	64	JNK cascade	positive regulation of JNK cascade
+GO:0051239	1	GO:0032501	0.573	5	0	regulation of multicellular organismal process	multicellular organismal process
+GO:0007166	8	GO:0007166	0.958	4.92081875395237	299	cell surface receptor signaling pathway	cell surface receptor signaling pathway
+GO:0042327	9	GO:0042327	0.992	4.92081875395237	29	positive regulation of phosphorylation	positive regulation of phosphorylation
+GO:0016358	10	GO:0016358	0.998	4.88605664769316	41	dendrite development	dendrite development
+GO:0043113	11	GO:0043113	1	4.85387196432176	20	receptor clustering	receptor clustering
+GO:2000026	4	GO:0050793	0.873	4.76955107862173	0	regulation of multicellular organismal development	regulation of developmental process
+GO:0045937	9	GO:0042327	0.981	4.76955107862173	0	positive regulation of phosphate metabolic process	positive regulation of phosphorylation
+GO:0010562	9	GO:0042327	0.981	4.76955107862173	0	positive regulation of phosphorus metabolic process	positive regulation of phosphorylation
+GO:0043507	7	GO:0032147	0.757	4.74472749489669	48	positive regulation of JUN kinase activity	activation of protein kinase activity
+GO:0030154	6	GO:0032502	0.677	4.69897000433602	599	cell differentiation	developmental process
+GO:0048869	6	GO:0032502	0.679	4.67778070526608	0	cellular developmental process	developmental process
+GO:0007275	6	GO:0032502	0.754	4.60205999132796	79	multicellular organism development	developmental process
+GO:0051247	12	GO:0051247	0.985	4.58502665202918	26	positive regulation of protein metabolic process	positive regulation of protein metabolic process
+GO:0048856	6	GO:0032502	0.813	4.56863623584101	49	anatomical structure development	developmental process
+GO:0043122	3	GO:0046330	0.57	4.56863623584101	33	regulation of I-kappaB kinase/NF-kappaB signaling	positive regulation of JNK cascade
+GO:0009966	3	GO:0046330	0.581	4.55284196865778	37	regulation of signal transduction	positive regulation of JNK cascade
+GO:0031098	3	GO:0046330	0.904	4.53760200210104	6	stress-activated protein kinase signaling cascade	positive regulation of JNK cascade
+GO:0048731	6	GO:0032502	0.715	4.48148606012211	2	system development	developmental process
+GO:0006810	2	GO:0140352	0.636	4.46852108295774	17	transport	export from cell
+GO:0010646	8	GO:0007166	0.591	4.46852108295774	0	regulation of cell communication	cell surface receptor signaling pathway
+GO:0065009	7	GO:0032147	0.644	4.33724216831843	0	regulation of molecular function	activation of protein kinase activity
+GO:0051668	11	GO:0043113	0.781	4.32790214206428	4	localization within membrane	receptor clustering
+GO:0051179	2	GO:0140352	0.594	4.32790214206428	32	localization	export from cell
+GO:0023051	3	GO:0046330	0.557	4.31875876262441	2	regulation of signaling	positive regulation of JNK cascade
+GO:0043506	7	GO:0032147	0.696	4.31875876262441	5	regulation of JUN kinase activity	activation of protein kinase activity
+GO:0050896	13	GO:0050896	0.762	4.29242982390206	63	response to stimulus	response to stimulus
+GO:0016477	14	GO:0016477	0.981	4.2839966563652	253	cell migration	cell migration
+GO:0001934	9	GO:0042327	0.979	4.2839966563652	219	positive regulation of protein phosphorylation	positive regulation of phosphorylation
+GO:0007169	8	GO:0007166	0.748	4.27572413039921	112	transmembrane receptor protein tyrosine kinase signaling pathway	cell surface receptor signaling pathway
+GO:0042221	15	GO:0042221	0.934	4.26760624017703	0	response to chemical	response to chemical
+GO:0030182	4	GO:0050793	0.411	4.24412514432751	170	neuron differentiation	regulation of developmental process
+GO:0051046	2	GO:0140352	0.462	4.21467016498923	4	regulation of secretion	export from cell
+GO:0048870	14	GO:0016477	0.966	4.18708664335714	39	cell motility	cell migration
+GO:0050789	5	GO:0065007	0.552	4.16749108729376	0	regulation of biological process	biological regulation
+GO:0071902	7	GO:0032147	0.844	4.13667713987954	41	positive regulation of protein serine/threonine kinase activity	activation of protein kinase activity
+GO:0035556	3	GO:0046330	0.608	4.13667713987954	413	intracellular signal transduction	positive regulation of JNK cascade
+GO:0048699	4	GO:0050793	0.417	4.1249387366083	9	generation of neurons	regulation of developmental process
+GO:0030335	16	GO:0030335	0.994	4.10790539730952	271	positive regulation of cell migration	positive regulation of cell migration
+GO:0072657	11	GO:0043113	0.797	4.09691001300806	22	protein localization to membrane	receptor clustering
+GO:0022008	4	GO:0050793	0.428	4.07572071393812	56	neurogenesis	regulation of developmental process
+GO:0002218	17	GO:0002218	0.997	4.05060999335509	37	activation of innate immune response	activation of innate immune response
+GO:0007399	4	GO:0050793	0.463	4.04095860767891	375	nervous system development	regulation of developmental process
+GO:0051240	1	GO:0032501	0.486	4.04095860767891	0	positive regulation of multicellular organismal process	multicellular organismal process
+GO:0009888	6	GO:0032502	0.577	4.02227639471115	8	tissue development	developmental process
+GO:0007167	8	GO:0007166	0.813	4	7	enzyme-linked receptor protein signaling pathway	cell surface receptor signaling pathway
+GO:0042058	8	GO:0007166	0.576	3.95860731484178	15	regulation of epidermal growth factor receptor signaling pathway	cell surface receptor signaling pathway
+GO:0048666	4	GO:0050793	0.395	3.95860731484178	54	neuron development	regulation of developmental process
+GO:2000147	16	GO:0030335	0.99	3.95860731484178	24	positive regulation of cell motility	positive regulation of cell migration
+GO:0016049	18	GO:0016049	0.996	3.95860731484178	0	cell growth	cell growth
+GO:0048568	6	GO:0032502	0.423	3.92081875395238	31	embryonic organ development	developmental process
+GO:0033674	7	GO:0032147	0.877	3.92081875395238	56	positive regulation of kinase activity	activation of protein kinase activity
+GO:0051234	2	GO:0140352	0.627	3.88605664769316	0	establishment of localization	export from cell
+GO:0031401	12	GO:0051247	0.935	3.88605664769316	4	positive regulation of protein modification process	positive regulation of protein metabolic process
+GO:1901184	8	GO:0007166	0.581	3.82390874094432	1	regulation of ERBB signaling pathway	cell surface receptor signaling pathway
+GO:0007165	3	GO:0046330	0.42	3.79588001734407	1108	signal transduction	positive regulation of JNK cascade
+GO:0002758	17	GO:0002218	0.99	3.79588001734407	1	innate immune response-activating signaling pathway	activation of innate immune response
+GO:0051960	4	GO:0050793	0.743	3.79588001734407	2	regulation of nervous system development	regulation of developmental process
+GO:0023052	3	GO:0046330	0.394	3.76955107862173	7	signaling	positive regulation of JNK cascade
+GO:0035295	6	GO:0032502	0.514	3.76955107862173	2	tube development	developmental process
+GO:0007249	3	GO:0046330	0.49	3.72124639904717	67	I-kappaB kinase/NF-kappaB signaling	positive regulation of JNK cascade
+GO:0032103	13	GO:0050896	0.34	3.72124639904717	0	positive regulation of response to external stimulus	response to stimulus
+GO:1903530	2	GO:0140352	0.925	3.69897000433602	0	regulation of secretion by cell	export from cell
+GO:0009887	19	GO:0009887	0.985	3.69897000433602	106	animal organ morphogenesis	animal organ morphogenesis
+GO:0043410	3	GO:0046330	0.843	3.69897000433602	169	positive regulation of MAPK cascade	positive regulation of JNK cascade
+GO:0048513	6	GO:0032502	0.658	3.67778070526608	18	animal organ development	developmental process
+GO:0120036	10	GO:0016358	0.766	3.65757731917779	1	plasma membrane bounded cell projection organization	dendrite development
+GO:0045860	7	GO:0032147	0.894	3.65757731917779	66	positive regulation of protein kinase activity	activation of protein kinase activity
+GO:0009791	20	GO:0009791	0.999	3.63827216398241	70	post-embryonic development	post-embryonic development
+GO:2000145	16	GO:0030335	0.921	3.60205999132796	15	regulation of cell motility	positive regulation of cell migration
+GO:0009653	19	GO:0009887	0.81	3.60205999132796	131	anatomical structure morphogenesis	animal organ morphogenesis
+GO:0030030	10	GO:0016358	0.763	3.56863623584101	40	cell projection organization	dendrite development
+GO:0043549	7	GO:0032147	0.823	3.55284196865778	6	regulation of kinase activity	activation of protein kinase activity
+GO:0006955	21	GO:0006955	0.972	3.55284196865778	467	immune response	immune response
+GO:0043085	7	GO:0032147	0.774	3.53760200210104	28	positive regulation of catalytic activity	activation of protein kinase activity
+GO:0071900	7	GO:0032147	0.796	3.53760200210104	2	regulation of protein serine/threonine kinase activity	activation of protein kinase activity
+GO:0032101	13	GO:0050896	0.377	3.53760200210104	0	regulation of response to external stimulus	response to stimulus
+GO:0045859	7	GO:0032147	0.839	3.52287874528034	17	regulation of protein kinase activity	activation of protein kinase activity
+GO:0044093	7	GO:0032147	0.729	3.50863830616573	0	positive regulation of molecular function	activation of protein kinase activity
+GO:0071702	2	GO:0140352	0.572	3.50863830616573	6	organic substance transport	export from cell
+GO:0051347	7	GO:0032147	0.859	3.49485002168009	0	positive regulation of transferase activity	activation of protein kinase activity
+GO:0033036	11	GO:0043113	0.587	3.48148606012211	0	macromolecule localization	receptor clustering
+GO:0051336	7	GO:0032147	0.66	3.48148606012211	1	regulation of hydrolase activity	activation of protein kinase activity
+GO:0061097	12	GO:0051247	0.583	3.48148606012211	4	regulation of protein tyrosine kinase activity	positive regulation of protein metabolic process
+GO:0030307	18	GO:0016049	0.897	3.45593195564972	91	positive regulation of cell growth	cell growth
+GO:0045088	17	GO:0002218	0.955	3.44369749923271	24	regulation of innate immune response	activation of innate immune response
+GO:0042176	22	GO:0042176	0.997	3.42021640338319	17	regulation of protein catabolic process	regulation of protein catabolic process
+GO:0007173	8	GO:0007166	0.609	3.42021640338319	65	epidermal growth factor receptor signaling pathway	cell surface receptor signaling pathway
+GO:0010647	8	GO:0007166	0.519	3.4089353929735	0	positive regulation of cell communication	cell surface receptor signaling pathway
+GO:0023061	2	GO:0140352	0.916	3.4089353929735	2	signal release	export from cell
+GO:0048518	23	GO:0048518	0.856	3.39794000867204	0	positive regulation of biological process	positive regulation of biological process
+GO:0002221	17	GO:0002218	0.983	3.39794000867204	13	pattern recognition receptor signaling pathway	activation of innate immune response
+GO:0023056	3	GO:0046330	0.68	3.38721614328026	0	positive regulation of signaling	positive regulation of JNK cascade
+GO:0090150	11	GO:0043113	0.751	3.38721614328026	9	establishment of protein localization to membrane	receptor clustering
+GO:0007154	8	GO:0007166	0.696	3.35654732351381	18	cell communication	cell surface receptor signaling pathway
+GO:0040007	18	GO:0016049	0.924	3.35654732351381	0	growth	cell growth
+GO:0031175	4	GO:0050793	0.387	3.34678748622466	133	neuron projection development	regulation of developmental process
+GO:0050790	7	GO:0032147	0.707	3.34678748622466	21	regulation of catalytic activity	activation of protein kinase activity
+GO:0030334	16	GO:0030335	0.928	3.34678748622466	110	regulation of cell migration	positive regulation of cell migration
+GO:0048583	13	GO:0050896	0.523	3.32790214206428	1	regulation of response to stimulus	response to stimulus
+GO:0044087	24	GO:0044087	0.991	3.31875876262441	0	regulation of cellular component biogenesis	regulation of cellular component biogenesis
+GO:0045089	17	GO:0002218	0.974	3.31875876262441	27	positive regulation of innate immune response	activation of innate immune response
+GO:0030162	12	GO:0051247	0.729	3.31875876262441	13	regulation of proteolysis	positive regulation of protein metabolic process
+GO:0045664	4	GO:0050793	0.668	3.30102999566398	28	regulation of neuron differentiation	regulation of developmental process
+GO:0043408	3	GO:0046330	0.804	3.2839966563652	35	regulation of MAPK cascade	positive regulation of JNK cascade
+GO:0040011	16	GO:0030335	0.859	3.25963731050576	8	locomotion	positive regulation of cell migration
+GO:0060429	6	GO:0032502	0.515	3.25963731050576	6	epithelium development	developmental process
+GO:0010769	19	GO:0009887	0.478	3.23657200643706	1	regulation of cell morphogenesis involved in differentiation	animal organ morphogenesis
+GO:0043542	25	GO:0043542	0.997	3.23657200643706	39	endothelial cell migration	endothelial cell migration
+GO:0043405	7	GO:0032147	0.753	3.22914798835786	15	regulation of MAP kinase activity	activation of protein kinase activity
+GO:1902533	3	GO:0046330	0.757	3.18045606445813	11	positive regulation of intracellular signal transduction	positive regulation of JNK cascade
+GO:0035239	6	GO:0032502	0.489	3.18045606445813	1	tube morphogenesis	developmental process
+GO:0048589	18	GO:0016049	0.896	3.17392519729917	23	developmental growth	cell growth
+GO:2000241	26	GO:2000241	0.998	3.16749108729376	2	regulation of reproductive process	regulation of reproductive process
+GO:0043406	7	GO:0032147	0.811	3.16749108729376	85	positive regulation of MAP kinase activity	activation of protein kinase activity
+GO:0050773	10	GO:0016358	0.925	3.14266750356873	17	regulation of dendrite development	dendrite development
+GO:0050767	4	GO:0050793	0.722	3.13667713987954	41	regulation of neurogenesis	regulation of developmental process
+GO:0010975	10	GO:0016358	0.758	3.1249387366083	34	regulation of neuron projection development	dendrite development
+GO:0019221	15	GO:0042221	0.634	3.1249387366083	149	cytokine-mediated signaling pathway	response to chemical
+GO:2000116	12	GO:0051247	0.646	3.11918640771921	3	regulation of cysteine-type endopeptidase activity	positive regulation of protein metabolic process
+GO:0060322	6	GO:0032502	0.469	3.10237290870956	13	head development	developmental process
+GO:0007417	4	GO:0050793	0.393	3.09691001300806	137	central nervous system development	regulation of developmental process
+GO:0022603	19	GO:0009887	0.659	3.06550154875643	0	regulation of anatomical structure morphogenesis	animal organ morphogenesis
+GO:0051649	2	GO:0140352	0.532	3.06048074738138	100	establishment of localization in cell	export from cell
+GO:0032879	2	GO:0140352	0.493	3.04575749056068	1	regulation of localization	export from cell
+GO:0015718	2	GO:0140352	0.408	3.04095860767891	19	monocarboxylic acid transport	export from cell
+GO:0043087	7	GO:0032147	0.608	3.04095860767891	91	regulation of GTPase activity	activation of protein kinase activity
+GO:0043281	12	GO:0051247	0.635	3.03151705144606	8	regulation of cysteine-type endopeptidase activity involved in apoptotic process	positive regulation of protein metabolic process
+GO:0010632	25	GO:0043542	0.955	3.01772876696043	6	regulation of epithelial cell migration	endothelial cell migration
+GO:0000165	3	GO:0046330	0.78	3.00436480540245	122	MAPK cascade	positive regulation of JNK cascade
+GO:0043547	7	GO:0032147	0.681	3	205	positive regulation of GTPase activity	activation of protein kinase activity
+GO:1990778	11	GO:0043113	0.526	2.99567862621736	1	protein localization to cell periphery	receptor clustering
+GO:0048468	6	GO:0032502	0.592	2.99567862621736	21	cell development	developmental process
+GO:0038127	8	GO:0007166	0.622	2.99139982823808	5	ERBB signaling pathway	cell surface receptor signaling pathway
+GO:0051338	7	GO:0032147	0.805	2.97881070093006	0	regulation of transferase activity	activation of protein kinase activity
+GO:0048638	18	GO:0016049	0.831	2.97061622231479	2	regulation of developmental growth	cell growth
+GO:0002252	21	GO:0006955	0.665	2.96257350205938	0	immune effector process	immune response
+GO:0002376	21	GO:0006955	0.857	2.95078197732982	45	immune system process	immune response
+GO:0040008	18	GO:0016049	0.88	2.95078197732982	14	regulation of growth	cell growth
+GO:0071345	15	GO:0042221	0.683	2.93554201077308	33	cellular response to cytokine stimulus	response to chemical
+GO:0051047	2	GO:0140352	0.426	2.93554201077308	5	positive regulation of secretion	export from cell
+GO:1902531	3	GO:0046330	0.684	2.92811799269387	5	regulation of intracellular signal transduction	positive regulation of JNK cascade
+GO:0045597	4	GO:0050793	0.81	2.89619627904404	55	positive regulation of cell differentiation	regulation of developmental process
+GO:0022604	19	GO:0009887	0.562	2.88272870434424	24	regulation of cell morphogenesis	animal organ morphogenesis
+GO:0010594	25	GO:0043542	0.978	2.87942606879415	8	regulation of endothelial cell migration	endothelial cell migration
+GO:0031349	27	GO:0031349	0.995	2.87614835903291	0	positive regulation of defense response	positive regulation of defense response
+GO:1903532	2	GO:0140352	0.852	2.86646109162978	0	positive regulation of secretion by cell	export from cell
+GO:0001775	28	GO:0001775	0.985	2.86012091359876	10	cell activation	cell activation
+GO:0071356	15	GO:0042221	0.561	2.86012091359876	140	cellular response to tumor necrosis factor	response to chemical
+GO:0048646	19	GO:0009887	0.699	2.85698519974591	7	anatomical structure formation involved in morphogenesis	animal organ morphogenesis
+GO:0042335	29	GO:0042335	1	2.85698519974591	3	cuticle development	cuticle development
+GO:0051345	7	GO:0032147	0.724	2.85387196432176	4	positive regulation of hydrolase activity	activation of protein kinase activity
+GO:0042325	9	GO:0042327	0.935	2.85078088734462	13	regulation of phosphorylation	positive regulation of phosphorylation
+GO:1901216	30	GO:1901216	0.999	2.84466396253494	38	positive regulation of neuron death	positive regulation of neuron death
+GO:0051896	3	GO:0046330	0.551	2.84466396253494	16	regulation of protein kinase B signaling	positive regulation of JNK cascade
+GO:0002833	17	GO:0002218	0.968	2.83863199776503	0	positive regulation of response to biotic stimulus	activation of innate immune response
+GO:0002831	17	GO:0002218	0.935	2.82973828460504	0	regulation of response to biotic stimulus	activation of innate immune response
+GO:0050794	5	GO:0065007	0.491	2.82390874094432	0	regulation of cellular process	biological regulation
+GO:0045055	2	GO:0140352	0.856	2.81815641205523	23	regulated exocytosis	export from cell
+GO:1900076	15	GO:0042221	0.497	2.80966830182971	7	regulation of cellular response to insulin stimulus	response to chemical
+GO:0002224	17	GO:0002218	0.891	2.80966830182971	31	toll-like receptor signaling pathway	activation of innate immune response
+GO:0051050	2	GO:0140352	0.479	2.80134291304558	1	positive regulation of transport	export from cell
+GO:0006869	11	GO:0043113	0.506	2.79860287567955	73	lipid transport	receptor clustering
+GO:0055085	2	GO:0140352	0.533	2.79317412396815	223	transmembrane transport	export from cell
+GO:0009967	8	GO:0007166	0.557	2.77728352885242	10	positive regulation of signal transduction	cell surface receptor signaling pathway
+GO:0051641	2	GO:0140352	0.53	2.76955107862173	1	cellular localization	export from cell
+GO:0120035	10	GO:0016358	0.686	2.76700388960785	3	regulation of plasma membrane bounded cell projection organization	dendrite development
+GO:1905477	11	GO:0043113	0.689	2.7594507517174	6	positive regulation of protein localization to membrane	receptor clustering
+GO:0051241	1	GO:0032501	0.451	2.74957999769111	0	negative regulation of multicellular organismal process	multicellular organismal process
+GO:0032868	15	GO:0042221	0.578	2.74714696902011	71	response to insulin	response to chemical
+GO:0043312	28	GO:0001775	0.613	2.74232142513082	6	neutrophil degranulation	cell activation
+GO:0051962	4	GO:0050793	0.696	2.73518217699046	0	positive regulation of nervous system development	regulation of developmental process
+GO:0061136	12	GO:0051247	0.631	2.72584215073632	20	regulation of proteasomal protein catabolic process	positive regulation of protein metabolic process
+GO:0001932	9	GO:0042327	0.921	2.71896663275227	44	regulation of protein phosphorylation	positive regulation of phosphorylation
+GO:0051174	9	GO:0042327	0.918	2.71896663275227	1	regulation of phosphorus metabolic process	positive regulation of phosphorylation
+GO:0019220	9	GO:0042327	0.918	2.71896663275227	0	regulation of phosphate metabolic process	positive regulation of phosphorylation
+GO:0007420	6	GO:0032502	0.465	2.71669877129645	266	brain development	developmental process
+GO:0015749	2	GO:0140352	0.395	2.70114692359029	3	monosaccharide transmembrane transport	export from cell
+GO:0002263	21	GO:0006955	0.741	2.70114692359029	1	cell activation involved in immune response	immune response
+GO:0072359	6	GO:0032502	0.535	2.6903698325741	11	circulatory system development	developmental process
+GO:0006952	27	GO:0031349	0.791	2.68824613894425	70	defense response	positive regulation of defense response
+GO:0002283	28	GO:0001775	0.636	2.68402965454308	9	neutrophil activation involved in immune response	cell activation
+GO:0042119	28	GO:0001775	0.673	2.68402965454308	18	neutrophil activation	cell activation
+GO:0048667	19	GO:0009887	0.635	2.67985371388895	9	cell morphogenesis involved in neuron differentiation	animal organ morphogenesis
+GO:0043491	3	GO:0046330	0.473	2.65955588515988	52	protein kinase B signaling	positive regulation of JNK cascade
+GO:0048705	19	GO:0009887	0.791	2.65757731917779	32	skeletal system morphogenesis	animal organ morphogenesis
+GO:0010876	11	GO:0043113	0.511	2.64975198166584	3	lipid localization	receptor clustering
+GO:0001505	31	GO:0001505	0.998	2.64206515299955	4	regulation of neurotransmitter levels	regulation of neurotransmitter levels
+GO:0043062	24	GO:0044087	0.377	2.64016451766011	1	extracellular structure organization	regulation of cellular component biogenesis
+GO:0045861	12	GO:0051247	0.666	2.64016451766011	22	negative regulation of proteolysis	positive regulation of protein metabolic process
+GO:0031344	10	GO:0016358	0.683	2.64016451766011	5	regulation of cell projection organization	dendrite development
+GO:0051961	4	GO:0050793	0.653	2.63827216398241	1	negative regulation of nervous system development	regulation of developmental process
+GO:0045595	4	GO:0050793	0.89	2.63827216398241	35	regulation of cell differentiation	regulation of developmental process
+GO:0006468	9	GO:0042327	0.838	2.62893213772826	578	protein phosphorylation	positive regulation of phosphorylation
+GO:0019915	11	GO:0043113	0.438	2.62342304294349	30	lipid storage	receptor clustering
+GO:0071310	15	GO:0042221	0.791	2.61798295742513	18	cellular response to organic substance	response to chemical
+GO:0046907	2	GO:0140352	0.522	2.61798295742513	37	intracellular transport	export from cell
+GO:0036230	28	GO:0001775	0.685	2.61439372640169	0	granulocyte activation	cell activation
+GO:0044419	32	GO:0044419	0.974	2.61261017366127	10	biological process involved in interspecies interaction between organisms	biological process involved in interspecies interaction between organisms
+GO:0051707	17	GO:0002218	0.764	2.61083391563547	4	response to other organism	activation of innate immune response
+GO:0043207	17	GO:0002218	0.764	2.60032627851896	2	response to external biotic stimulus	activation of innate immune response
+GO:0002446	21	GO:0006955	0.472	2.59345981956604	9	neutrophil mediated immunity	immune response
+GO:1901653	15	GO:0042221	0.6	2.58335949266172	11	cellular response to peptide	response to chemical
+GO:0010634	25	GO:0043542	0.914	2.57839607313017	43	positive regulation of epithelial cell migration	endothelial cell migration
+GO:0042752	33	GO:0042752	0.999	2.57839607313017	66	regulation of circadian rhythm	regulation of circadian rhythm
+GO:1903050	12	GO:0051247	0.643	2.56863623584101	0	regulation of proteolysis involved in protein catabolic process	positive regulation of protein metabolic process
+GO:0010604	23	GO:0048518	0.676	2.5654310959658	0	positive regulation of macromolecule metabolic process	positive regulation of biological process
+GO:0031347	27	GO:0031349	0.937	2.56383735295924	0	regulation of defense response	positive regulation of defense response
+GO:0002764	21	GO:0006955	0.786	2.55909091793478	1	immune response-regulating signaling pathway	immune response
+GO:0015849	2	GO:0140352	0.462	2.55752023093555	0	organic acid transport	export from cell
+GO:0046942	2	GO:0140352	0.461	2.55752023093555	0	carboxylic acid transport	export from cell
+GO:0000902	19	GO:0009887	0.668	2.55129368009492	89	cell morphogenesis	animal organ morphogenesis
+GO:0045862	12	GO:0051247	0.826	2.54211810326601	20	positive regulation of proteolysis	positive regulation of protein metabolic process
+GO:0051173	23	GO:0048518	0.641	2.53910215724345	2	positive regulation of nitrogen compound metabolic process	positive regulation of biological process
+GO:0002274	28	GO:0001775	0.8	2.52724355068279	1	myeloid leukocyte activation	cell activation
+GO:0032434	12	GO:0051247	0.613	2.51999305704285	17	regulation of proteasomal ubiquitin-dependent protein catabolic process	positive regulation of protein metabolic process
+GO:0040017	16	GO:0030335	0.983	2.51712641639125	2	positive regulation of locomotion	positive regulation of cell migration
+GO:0048588	18	GO:0016049	0.937	2.50863830616573	2	developmental cell growth	cell growth
+GO:0001568	6	GO:0032502	0.472	2.50863830616573	41	blood vessel development	developmental process
+GO:0045321	28	GO:0001775	0.97	2.49214412830417	5	leukocyte activation	cell activation
+GO:0071417	15	GO:0042221	0.652	2.48811663902113	5	cellular response to organonitrogen compound	response to chemical
+GO:0006887	2	GO:0140352	0.898	2.48545224733971	99	exocytosis	export from cell
+GO:0043299	2	GO:0140352	0.758	2.48412615628832	1	leukocyte degranulation	export from cell
+GO:0032869	15	GO:0042221	0.564	2.48017200622428	101	cellular response to insulin stimulus	response to chemical
+GO:0051346	7	GO:0032147	0.601	2.46980030179692	9	negative regulation of hydrolase activity	activation of protein kinase activity
+GO:0002366	21	GO:0006955	0.74	2.4672456210075	3	leukocyte activation involved in immune response	immune response
+GO:0045666	4	GO:0050793	0.616	2.46470587995723	85	positive regulation of neuron differentiation	regulation of developmental process
+GO:0044092	7	GO:0032147	0.583	2.45469288353418	0	negative regulation of molecular function	activation of protein kinase activity
+GO:0002275	28	GO:0001775	0.731	2.45099673797421	0	myeloid cell activation involved in immune response	cell activation
+GO:2000058	12	GO:0051247	0.627	2.45099673797421	6	regulation of ubiquitin-dependent protein catabolic process	positive regulation of protein metabolic process
+GO:0009886	20	GO:0009791	0.893	2.44977164694491	0	post-embryonic animal morphogenesis	post-embryonic development
+GO:0031109	24	GO:0044087	0.353	2.44611697335613	1	microtubule polymerization or depolymerization	regulation of cellular component biogenesis
+GO:0032368	11	GO:0043113	0.455	2.44611697335613	4	regulation of lipid transport	receptor clustering
+GO:0043065	30	GO:1901216	0.812	2.44490555142168	345	positive regulation of apoptotic process	positive regulation of neuron death
+GO:0048812	19	GO:0009887	0.644	2.44490555142168	64	neuron projection morphogenesis	animal organ morphogenesis
+GO:0045732	22	GO:0042176	0.949	2.43889861635094	84	positive regulation of protein catabolic process	regulation of protein catabolic process
+GO:1901699	15	GO:0042221	0.657	2.43651891460559	0	cellular response to nitrogen compound	response to chemical
+GO:0034219	2	GO:0140352	0.398	2.43179827593301	3	carbohydrate transmembrane transport	export from cell
+GO:0035265	18	GO:0016049	0.797	2.43062609038495	20	organ growth	cell growth
+GO:0007267	8	GO:0007166	0.533	2.42250820016277	205	cell-cell signaling	cell surface receptor signaling pathway
+GO:0018108	12	GO:0051247	0.447	2.42136079003193	152	peptidyl-tyrosine phosphorylation	positive regulation of protein metabolic process
+GO:0034612	15	GO:0042221	0.568	2.41680122603138	31	response to tumor necrosis factor	response to chemical
+GO:0018212	12	GO:0051247	0.448	2.41005039867429	0	peptidyl-tyrosine modification	positive regulation of protein metabolic process
+GO:0001944	6	GO:0032502	0.478	2.40340290437354	15	vasculature development	developmental process
+GO:0002444	21	GO:0006955	0.528	2.39254497678533	0	myeloid leukocyte mediated immunity	immune response
+GO:0048813	10	GO:0016358	0.954	2.39147396642281	39	dendrite morphogenesis	dendrite development
+GO:0009607	17	GO:0002218	0.761	2.38827669199266	0	response to biotic stimulus	activation of innate immune response
+GO:0048519	5	GO:0065007	0.322	2.38721614328026	0	negative regulation of biological process	biological regulation
+GO:0001558	18	GO:0016049	0.975	2.38090666937326	77	regulation of cell growth	cell growth
+GO:0002757	21	GO:0006955	0.78	2.37468754903833	1	immune response-activating signaling pathway	immune response
+GO:0070887	15	GO:0042221	0.847	2.36351210364663	0	cellular response to chemical stimulus	response to chemical
+GO:0120039	19	GO:0009887	0.645	2.36051351073141	0	plasma membrane bounded cell projection morphogenesis	animal organ morphogenesis
+GO:0071375	15	GO:0042221	0.588	2.3585258894959	17	cellular response to peptide hormone stimulus	response to chemical
+GO:0046883	2	GO:0140352	0.839	2.3585258894959	6	regulation of hormone secretion	export from cell
+GO:0006915	30	GO:1901216	0.622	2.35163998901907	573	apoptotic process	positive regulation of neuron death
+GO:0043393	7	GO:0032147	0.502	2.34486156518862	23	regulation of protein binding	activation of protein kinase activity
+GO:0048858	19	GO:0009887	0.646	2.34486156518862	3	cell projection morphogenesis	animal organ morphogenesis
+GO:0051049	2	GO:0140352	0.529	2.34198860334289	3	regulation of transport	export from cell
+GO:0022607	24	GO:0044087	0.787	2.33254704711005	1	cellular component assembly	regulation of cellular component biogenesis
+GO:0071495	34	GO:0071495	0.982	2.31336373073771	0	cellular response to endogenous stimulus	cellular response to endogenous stimulus
+GO:0001764	14	GO:0016477	0.731	2.30715308072277	111	neuron migration	cell migration
+GO:0050829	32	GO:0044419	0.652	2.30715308072277	99	defense response to Gram-negative bacterium	biological process involved in interspecies interaction between organisms
+GO:0016192	2	GO:0140352	0.532	2.29670862188134	178	vesicle-mediated transport	export from cell
+GO:0050679	35	GO:0050679	0.998	2.29242982390206	71	positive regulation of epithelial cell proliferation	positive regulation of epithelial cell proliferation
+GO:2000146	16	GO:0030335	0.821	2.28903688100472	14	negative regulation of cell motility	positive regulation of cell migration
+GO:0060537	6	GO:0032502	0.421	2.28567024025477	5	muscle tissue development	developmental process
+GO:0051402	30	GO:1901216	0.849	2.27408836770495	75	neuron apoptotic process	positive regulation of neuron death
+GO:0090287	34	GO:0071495	0.806	2.26921772433361	0	regulation of cellular response to growth factor stimulus	cellular response to endogenous stimulus
+GO:0048514	6	GO:0032502	0.461	2.26760624017703	18	blood vessel morphogenesis	developmental process
+GO:0050769	4	GO:0050793	0.679	2.26760624017703	33	positive regulation of neurogenesis	regulation of developmental process
+GO:1901214	30	GO:1901216	0.895	2.26121944151563	23	regulation of neuron death	positive regulation of neuron death
+GO:1901698	15	GO:0042221	0.713	2.25884840114822	0	response to nitrogen compound	response to chemical
+GO:0048584	13	GO:0050896	0.445	2.24033215531037	1	positive regulation of response to stimulus	response to stimulus
+GO:0040012	16	GO:0030335	0.912	2.23957751657679	6	regulation of locomotion	positive regulation of cell migration
+GO:0006508	12	GO:0051247	0.55	2.2335871528876	447	proteolysis	positive regulation of protein metabolic process
+GO:0019730	17	GO:0002218	0.635	2.2335871528876	13	antimicrobial humoral response	activation of innate immune response
+GO:0051093	4	GO:0050793	0.82	2.23284413391782	8	negative regulation of developmental process	regulation of developmental process
+GO:0050776	21	GO:0006955	0.863	2.22694530663574	32	regulation of immune response	immune response
+GO:0050730	12	GO:0051247	0.653	2.22402566887063	23	regulation of peptidyl-tyrosine phosphorylation	positive regulation of protein metabolic process
+GO:0010675	36	GO:0010675	0.999	2.22402566887063	0	regulation of cellular carbohydrate metabolic process	regulation of cellular carbohydrate metabolic process
+GO:0051246	12	GO:0051247	0.88	2.22329881601159	11	regulation of protein metabolic process	positive regulation of protein metabolic process
+GO:0031330	22	GO:0042176	0.76	2.22184874961636	0	negative regulation of cellular catabolic process	regulation of protein catabolic process
+GO:0045087	17	GO:0002218	0.866	2.21968268785985	527	innate immune response	activation of innate immune response
+GO:0032989	19	GO:0009887	0.657	2.21824462534753	0	cellular component morphogenesis	animal organ morphogenesis
+GO:0001667	14	GO:0016477	0.83	2.21538270736712	4	ameboidal-type cell migration	cell migration
+GO:0006820	2	GO:0140352	0.405	2.19791074211827	17	monoatomic anion transport	export from cell
+GO:0002443	21	GO:0006955	0.618	2.19382002601611	1	leukocyte mediated immunity	immune response
+GO:0048569	37	GO:0048569	1	2.19314197048118	0	post-embryonic animal organ development	post-embryonic animal organ development
+GO:0008219	30	GO:1901216	0.631	2.19111413264019	35	cell death	positive regulation of neuron death
+GO:0008283	35	GO:0050679	0.72	2.18111458540599	149	cell population proliferation	positive regulation of epithelial cell proliferation
+GO:0002253	21	GO:0006955	0.798	2.17587416608345	2	activation of immune response	immune response
+GO:0012501	30	GO:1901216	0.626	2.16621562534352	10	programmed cell death	positive regulation of neuron death
+GO:0090130	25	GO:0043542	0.974	2.16241156176449	0	tissue migration	endothelial cell migration
+GO:0000209	12	GO:0051247	0.439	2.1605219526258	185	protein polyubiquitination	positive regulation of protein metabolic process
+GO:0008643	2	GO:0140352	0.403	2.15490195998574	22	carbohydrate transport	export from cell
+GO:0045927	18	GO:0016049	0.811	2.1505805862031	10	positive regulation of growth	cell growth
+GO:0008361	31	GO:0001505	0.499	2.14630178822383	26	regulation of cell size	regulation of neurotransmitter levels
+GO:0051054	23	GO:0048518	0.43	2.13846558914096	2	positive regulation of DNA metabolic process	positive regulation of biological process
+GO:0009895	22	GO:0042176	0.778	2.13786862068696	1	negative regulation of catabolic process	regulation of protein catabolic process
+GO:0048814	10	GO:0016358	0.893	2.13548891894161	22	regulation of dendrite morphogenesis	dendrite development
+GO:0045229	24	GO:0044087	0.377	2.13430394008393	0	external encapsulating structure organization	regulation of cellular component biogenesis
+GO:0007623	33	GO:0042752	0.937	2.13135556160517	65	circadian rhythm	regulation of circadian rhythm
+GO:1905952	11	GO:0043113	0.463	2.12784372725171	0	regulation of lipid localization	receptor clustering
+GO:0034097	15	GO:0042221	0.698	2.12726117252733	49	response to cytokine	response to chemical
+GO:0010951	12	GO:0051247	0.617	2.12205304837081	61	negative regulation of endopeptidase activity	positive regulation of protein metabolic process
+GO:0097191	30	GO:1901216	0.509	2.12147820449879	57	extrinsic apoptotic signaling pathway	positive regulation of neuron death
+GO:0018210	12	GO:0051247	0.395	2.12147820449879	0	peptidyl-threonine modification	positive regulation of protein metabolic process
+GO:0008286	15	GO:0042221	0.533	2.12147820449879	80	insulin receptor signaling pathway	response to chemical
+GO:0009893	23	GO:0048518	0.692	2.11238269966426	0	positive regulation of metabolic process	positive regulation of biological process
+GO:0001525	6	GO:0032502	0.446	2.11125903931711	259	angiogenesis	developmental process
+GO:0071705	2	GO:0140352	0.539	2.10902040301031	6	nitrogen compound transport	export from cell
+GO:0007155	38	GO:0007155	0.981	2.10292299679058	493	cell adhesion	cell adhesion
+GO:1901701	15	GO:0042221	0.722	2.10182351650232	0	cellular response to oxygen-containing compound	response to chemical
+GO:0044262	36	GO:0010675	0.933	2.09366495819491	4	cellular carbohydrate metabolic process	regulation of cellular carbohydrate metabolic process
+GO:0050803	31	GO:0001505	0.52	2.09205147838773	6	regulation of synapse structure or activity	regulation of neurotransmitter levels
+GO:0043068	30	GO:1901216	0.815	2.09151498112135	12	positive regulation of programmed cell death	positive regulation of neuron death
+GO:0032990	19	GO:0009887	0.647	2.09044397075882	1	cell part morphogenesis	animal organ morphogenesis
+GO:0015711	2	GO:0140352	0.472	2.08884239126002	24	organic anion transport	export from cell
+GO:1904659	2	GO:0140352	0.387	2.08144546944973	31	glucose transmembrane transport	export from cell
+GO:0030855	6	GO:0032502	0.451	2.07935499859321	95	epithelial cell differentiation	developmental process
+GO:0043434	15	GO:0042221	0.611	2.07779372256098	48	response to peptide hormone	response to chemical
+GO:0048675	18	GO:0016049	0.886	2.07417242537526	36	axon extension	cell growth
+GO:0061564	4	GO:0050793	0.355	2.06449273417529	22	axon development	regulation of developmental process
+GO:0006612	11	GO:0043113	0.706	2.05948351506743	55	protein targeting to membrane	receptor clustering
+GO:0000904	19	GO:0009887	0.641	2.05749589383192	4	cell morphogenesis involved in differentiation	animal organ morphogenesis
+GO:0003008	1	GO:0032501	0.508	2.04624030826677	0	system process	multicellular organismal process
+GO:0010466	12	GO:0051247	0.639	2.04191415147891	76	negative regulation of peptidase activity	positive regulation of protein metabolic process
+GO:0048511	33	GO:0042752	0.904	2.03479829897409	68	rhythmic process	regulation of circadian rhythm
+GO:0010243	15	GO:0042221	0.706	2.02733440773389	14	response to organonitrogen compound	response to chemical
+GO:0048639	18	GO:0016049	0.782	2.02548830726267	4	positive regulation of developmental growth	cell growth
+GO:0030163	22	GO:0042176	0.858	2.02181948306259	67	protein catabolic process	regulation of protein catabolic process
+GO:0042981	30	GO:1901216	0.684	2.01999662841625	203	regulation of apoptotic process	positive regulation of neuron death
+GO:0070727	11	GO:0043113	0.626	2.01772876696043	0	cellular macromolecule localization	receptor clustering
+GO:0030336	16	GO:0030335	0.829	2.01233373507373	192	negative regulation of cell migration	positive regulation of cell migration
+GO:0010942	30	GO:1901216	0.824	2.00436480540245	50	positive regulation of cell death	positive regulation of neuron death
+GO:0009566	26	GO:2000241	0.622	2.00043451177402	48	fertilization	regulation of reproductive process

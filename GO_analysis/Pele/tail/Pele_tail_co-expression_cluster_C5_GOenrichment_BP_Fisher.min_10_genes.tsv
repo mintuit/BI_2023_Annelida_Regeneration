@@ -1,0 +1,14 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher
+GO:0010876	lipid localization	678	15	6.3	0.00163
+GO:0008610	lipid biosynthetic process	1208	21	11.23	0.00395
+GO:0007626	locomotory behavior	684	14	6.36	0.00466
+GO:0031667	response to nutrient levels	1149	20	10.68	0.00484
+GO:0042594	response to starvation	551	12	5.12	0.00536
+GO:0022604	regulation of cell morphogenesis	846	16	7.86	0.00540
+GO:0009991	response to extracellular stimulus	1172	20	10.89	0.00601
+GO:0051258	protein polymerization	500	11	4.65	0.00705
+GO:0007420	brain development	1115	19	10.36	0.00751
+GO:0045229	external encapsulating structure organiz...	506	11	4.7	0.00768
+GO:0010647	positive regulation of cell communicatio...	2077	30	19.3	0.00881
+GO:0023056	positive regulation of signaling	2080	30	19.33	0.00898
+GO:0007417	central nervous system development	1477	23	13.73	0.00958

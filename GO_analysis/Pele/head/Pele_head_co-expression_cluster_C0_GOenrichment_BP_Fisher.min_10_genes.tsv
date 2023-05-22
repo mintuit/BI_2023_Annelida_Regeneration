@@ -1,0 +1,43 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher
+GO:1990748	cellular detoxification	200	19	4.73	2.9e-07
+GO:0006749	glutathione metabolic process	165	17	3.9	3.9e-07
+GO:0098869	cellular oxidant detoxification	192	18	4.54	7.3e-07
+GO:0098754	detoxification	230	19	5.44	2.5e-06
+GO:0006575	cellular modified amino acid metabolic p...	407	24	9.63	4.0e-05
+GO:0019752	carboxylic acid metabolic process	1964	73	46.48	5.3e-05
+GO:0097237	cellular response to toxic substance	448	24	10.6	0.00018
+GO:0043436	oxoacid metabolic process	2101	74	49.72	0.00026
+GO:0006082	organic acid metabolic process	2112	74	49.98	0.00030
+GO:2001244	positive regulation of intrinsic apoptot...	136	11	3.22	0.00039
+GO:0090502	RNA phosphodiester bond hydrolysis, endo...	120	10	2.84	0.00056
+GO:0030433	ubiquitin-dependent ERAD pathway	190	13	4.5	0.00061
+GO:0090501	RNA phosphodiester bond hydrolysis	220	14	5.21	0.00078
+GO:0072330	monocarboxylic acid biosynthetic process	497	24	11.76	0.00080
+GO:0016053	organic acid biosynthetic process	789	33	18.67	0.00111
+GO:0046394	carboxylic acid biosynthetic process	789	33	18.67	0.00111
+GO:0006633	fatty acid biosynthetic process	282	16	6.67	0.00116
+GO:0032787	monocarboxylic acid metabolic process	1130	43	26.74	0.00138
+GO:0043603	amide metabolic process	2635	85	62.36	0.00139
+GO:0034605	cellular response to heat	209	13	4.95	0.00146
+GO:0006631	fatty acid metabolic process	707	30	16.73	0.00149
+GO:0006690	icosanoid metabolic process	187	12	4.43	0.00169
+GO:0015918	sterol transport	143	10	3.38	0.00215
+GO:0006694	steroid biosynthetic process	361	18	8.54	0.00248
+GO:0090305	nucleic acid phosphodiester bond hydroly...	392	19	9.28	0.00261
+GO:0044706	multi-multicellular organism process	364	18	8.61	0.00271
+GO:0006790	sulfur compound metabolic process	772	31	18.27	0.00292
+GO:0033559	unsaturated fatty acid metabolic process	177	11	4.19	0.00333
+GO:0031668	cellular response to extracellular stimu...	523	23	12.38	0.00336
+GO:0008584	male gonad development	178	11	4.21	0.00347
+GO:0046546	development of primary male sexual chara...	178	11	4.21	0.00347
+GO:0031669	cellular response to nutrient levels	499	22	11.81	0.00397
+GO:0032091	negative regulation of protein binding	187	11	4.43	0.00503
+GO:0006518	peptide metabolic process	2082	67	49.27	0.00514
+GO:1901568	fatty acid derivative metabolic process	300	15	7.1	0.00538
+GO:0036503	ERAD pathway	245	13	5.8	0.00572
+GO:0051881	regulation of mitochondrial membrane pot...	164	10	3.88	0.00573
+GO:0042446	hormone biosynthetic process	220	12	5.21	0.00629
+GO:0006720	isoprenoid metabolic process	221	12	5.23	0.00652
+GO:0008610	lipid biosynthetic process	1208	42	28.59	0.00774
+GO:0007565	female pregnancy	255	13	6.03	0.00790
+GO:0071496	cellular response to external stimulus	639	25	15.12	0.00984
