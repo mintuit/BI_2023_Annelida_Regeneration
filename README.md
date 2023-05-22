@@ -74,7 +74,8 @@ We noticed that there is no significant difference between data from different l
 
 We use [Clust](https://github.com/BaselAbujamous/clust) (v.1.18.0)
 
-We obtain 8 clusters in both P.elegans posterior and anterior regeneration sites. And we obtain 4 clusters in P.dumerilii anterior and 9 in P.dumerilii posterior regeneration sites. 
+We obtain 8 clusters in both P.elegans posterior and anterior regeneration sites. And we obtain 4 clusters in P.dumerilii anterior and 9 in P.dumerilii posterior regeneration sites. In total, the clusters included about 42 percent of the analyzed sequences. In 18 clusters homeobox-containing sequences were found.
+
 Here we present one cluster from anterior regeneration of P.elegans. This cluster contain 5253 genes. 
 
 ![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/Clust/Cluster.jpg)
@@ -84,8 +85,10 @@ All result in the foalder "Clust".
 
 ## GO-terms enrichment analysis
 
-GeneOntology (GO) terms enrichment analysis was performed for each co-expressed gene cluster using the [topGO](https://bioconductor.org/packages/3.16/bioc/html/topGO.html) (v.2.52.0.) package for R. Only biological processes including more than 10 significant genes were considered. We used [rrvigo](https://bioconductor.org/packages/release/bioc/html/rrvgo.html) (v.3.17) and parental GO-terms for enrichment analysis results visualization
-
+GeneOntology (GO) terms enrichment analysis was performed for each co-expressed gene cluster using the [topGO](https://bioconductor.org/packages/3.16/bioc/html/topGO.html) (v.2.52.0.) package for R. Only biological processes including more than 10 significant genes were considered. We used [rrvigo](https://bioconductor.org/packages/release/bioc/html/rrvgo.html) (v.3.17) and parental GO-terms for enrichment analysis results visualization.
+After visualisation of GO-enrichment analysis results, we noticed that posterior regeneration processes in P.dumerilii , and P.elegans are similar.
+In P.elegans interior clusters that include homeobox genes, we see a wide variety of development and proliferation processes, while the number of processes involved in regeneration and development is  lower in P.dumerilii .
+Here we present a part of enriched GO-term cloud from anterior regeneration of P.elegans.
 
 ![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/GO_analysis/GO-enrichment.jpg)
 
