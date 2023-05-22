@@ -1,0 +1,1 @@
+analysis was performed online on http://eggnog-mapper.embl.de/ with standart parameters
