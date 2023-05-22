@@ -1,0 +1,14 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0010876	1	GO:0010876	0.993	2.78781239559604	3	lipid localization	lipid localization
+GO:0008610	2	GO:0008610	0.99	2.40340290437354	17	lipid biosynthetic process	lipid biosynthetic process
+GO:0007626	3	GO:0007626	0.999	2.33161408331	82	locomotory behavior	locomotory behavior
+GO:0031667	4	GO:0031667	0.996	2.31515463835559	47	response to nutrient levels	response to nutrient levels
+GO:0042594	4	GO:0031667	0.926	2.27083521030723	34	response to starvation	response to nutrient levels
+GO:0022604	5	GO:0022604	0.998	2.26760624017703	24	regulation of cell morphogenesis	regulation of cell morphogenesis
+GO:0009991	4	GO:0031667	0.99	2.22112552799726	4	response to extracellular stimulus	response to nutrient levels
+GO:0051258	6	GO:0051258	0.998	2.1518108830086	17	protein polymerization	protein polymerization
+GO:0007420	5	GO:0022604	0.302	2.12436006299583	266	brain development	regulation of cell morphogenesis
+GO:0045229	6	GO:0051258	0.34	2.11463877996849	0	external encapsulating structure organization	protein polymerization
+GO:0010647	7	GO:0010647	0.979	2.05502409158795	0	positive regulation of cell communication	positive regulation of cell communication
+GO:0023056	7	GO:0010647	0.429	2.0467236633327	0	positive regulation of signaling	positive regulation of cell communication
+GO:0007417	5	GO:0022604	0.313	2.01863449092146	137	central nervous system development	regulation of cell morphogenesis

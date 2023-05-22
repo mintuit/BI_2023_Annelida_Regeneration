@@ -1,0 +1,22 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0070126	1	GO:0070126	1	6.48148606012211	5	mitochondrial translational termination	mitochondrial translational termination
+GO:0032543	2	GO:0032543	0.999	5.53760200210104	124	mitochondrial translation	mitochondrial translation
+GO:0140053	2	GO:0032543	0.973	5.06048074738138	0	mitochondrial gene expression	mitochondrial translation
+GO:0070125	2	GO:0032543	0.806	5.03621217265444	7	mitochondrial translational elongation	mitochondrial translation
+GO:0006415	1	GO:0070126	0.915	4.95860731484177	6	translational termination	mitochondrial translational termination
+GO:0006119	3	GO:0006119	0.998	4.08618614761628	12	oxidative phosphorylation	oxidative phosphorylation
+GO:0042073	4	GO:0042073	0.999	3.72124639904717	34	intraciliary transport	intraciliary transport
+GO:0033108	1	GO:0070126	0.462	3.45593195564972	9	mitochondrial respiratory chain complex assembly	mitochondrial translational termination
+GO:0032981	1	GO:0070126	0.445	3.06550154875643	80	mitochondrial respiratory chain complex I assembly	mitochondrial translational termination
+GO:0010257	1	GO:0070126	0.445	3.06550154875643	0	NADH dehydrogenase complex assembly	mitochondrial translational termination
+GO:0018205	5	GO:0018205	0.995	3.03151705144606	1	peptidyl-lysine modification	peptidyl-lysine modification
+GO:0042773	3	GO:0006119	0.959	2.83564714421556	2	ATP synthesis coupled electron transport	oxidative phosphorylation
+GO:0042775	3	GO:0006119	0.958	2.83564714421556	13	mitochondrial ATP synthesis coupled electron transport	oxidative phosphorylation
+GO:0009060	3	GO:0006119	0.963	2.64016451766011	71	aerobic respiration	oxidative phosphorylation
+GO:0019395	6	GO:0019395	0.999	2.52287874528034	15	fatty acid oxidation	fatty acid oxidation
+GO:0034440	6	GO:0019395	0.995	2.39469495385889	7	lipid oxidation	fatty acid oxidation
+GO:0006635	6	GO:0019395	0.976	2.37468754903833	79	fatty acid beta-oxidation	fatty acid oxidation
+GO:0045333	3	GO:0006119	0.946	2.21968268785985	42	cellular respiration	oxidative phosphorylation
+GO:0032259	7	GO:0032259	0.996	2.21968268785985	55	methylation	methylation
+GO:0022900	3	GO:0006119	0.788	2.11520463605102	53	electron transport chain	oxidative phosphorylation
+GO:0022904	3	GO:0006119	0.876	2.10623823794206	21	respiratory electron transport chain	oxidative phosphorylation

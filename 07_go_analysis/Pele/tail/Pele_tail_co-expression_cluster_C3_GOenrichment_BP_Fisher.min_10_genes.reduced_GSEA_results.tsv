@@ -1,0 +1,115 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0008038	1	GO:0008038	1	7.39794000867204	5	neuron recognition	neuron recognition
+GO:0071310	2	GO:0071310	0.975	5.74472749489669	18	cellular response to organic substance	cellular response to organic substance
+GO:0008037	1	GO:0008038	0.913	5.55284196865778	12	cell recognition	neuron recognition
+GO:0070887	2	GO:0071310	0.904	4.55284196865778	0	cellular response to chemical stimulus	cellular response to organic substance
+GO:0030301	3	GO:0030301	0.998	4.43179827593301	24	cholesterol transport	cholesterol transport
+GO:0042221	2	GO:0071310	0.791	4.3767507096021	0	response to chemical	cellular response to organic substance
+GO:0009725	4	GO:0009725	0.991	4.31875876262441	41	response to hormone	response to hormone
+GO:0015918	3	GO:0030301	0.992	3.92081875395238	16	sterol transport	cholesterol transport
+GO:0046677	2	GO:0071310	0.433	3.85387196432176	33	response to antibiotic	cellular response to organic substance
+GO:0007166	5	GO:0007166	0.958	3.76955107862173	299	cell surface receptor signaling pathway	cell surface receptor signaling pathway
+GO:0071495	4	GO:0009725	0.861	3.74472749489669	0	cellular response to endogenous stimulus	response to hormone
+GO:0034097	2	GO:0071310	0.739	3.74472749489669	49	response to cytokine	cellular response to organic substance
+GO:0071345	2	GO:0071310	0.858	3.72124639904717	33	cellular response to cytokine stimulus	cellular response to organic substance
+GO:0009636	2	GO:0071310	0.504	3.61978875828839	74	response to toxic substance	cellular response to organic substance
+GO:0010033	2	GO:0071310	0.886	3.61978875828839	25	response to organic substance	cellular response to organic substance
+GO:0009719	4	GO:0009725	0.879	3.53760200210104	0	response to endogenous stimulus	response to hormone
+GO:0070848	4	GO:0009725	0.794	3.46852108295774	15	response to growth factor	response to hormone
+GO:0033993	2	GO:0071310	0.724	3.42021640338319	9	response to lipid	cellular response to organic substance
+GO:0007519	6	GO:0007519	0.999	3.39794000867204	53	skeletal muscle tissue development	skeletal muscle tissue development
+GO:0065008	7	GO:0065008	0.963	3.35654732351381	0	regulation of biological quality	regulation of biological quality
+GO:0071560	4	GO:0009725	0.702	3.31875876262441	68	cellular response to transforming growth factor beta stimulus	response to hormone
+GO:0071363	4	GO:0009725	0.791	3.29242982390206	57	cellular response to growth factor stimulus	response to hormone
+GO:0032870	4	GO:0009725	0.95	3.2839966563652	40	cellular response to hormone stimulus	response to hormone
+GO:0051100	8	GO:0051100	0.999	3.26760624017703	2	negative regulation of binding	negative regulation of binding
+GO:0071396	2	GO:0071310	0.805	3.20065945054642	4	cellular response to lipid	cellular response to organic substance
+GO:0071559	4	GO:0009725	0.704	3.20065945054642	10	response to transforming growth factor beta	response to hormone
+GO:0048545	4	GO:0009725	0.88	3.17392519729917	16	response to steroid hormone	response to hormone
+GO:0045471	2	GO:0071310	0.565	3.14266750356873	104	response to ethanol	cellular response to organic substance
+GO:0097435	9	GO:0097435	0.991	3.13667713987954	16	supramolecular fiber organization	supramolecular fiber organization
+GO:0009968	10	GO:0009968	0.985	3.07572071393812	43	negative regulation of signal transduction	negative regulation of signal transduction
+GO:0042445	7	GO:0065008	0.688	2.95467702121334	15	hormone metabolic process	regulation of biological quality
+GO:1901700	2	GO:0071310	0.675	2.95078197732982	0	response to oxygen-containing compound	cellular response to organic substance
+GO:0014070	2	GO:0071310	0.725	2.93554201077308	53	response to organic cyclic compound	cellular response to organic substance
+GO:0007178	5	GO:0007166	0.735	2.92445303860747	9	transmembrane receptor protein serine/threonine kinase signaling pathway	cell surface receptor signaling pathway
+GO:0007167	5	GO:0007166	0.813	2.86646109162978	7	enzyme-linked receptor protein signaling pathway	cell surface receptor signaling pathway
+GO:0010259	11	GO:0010259	1	2.85698519974591	26	multicellular organism aging	multicellular organism aging
+GO:0030522	5	GO:0007166	0.443	2.85078088734462	35	intracellular receptor signaling pathway	cell surface receptor signaling pathway
+GO:0010608	12	GO:0010608	0.988	2.79860287567955	27	post-transcriptional regulation of gene expression	post-transcriptional regulation of gene expression
+GO:1901652	2	GO:0071310	0.669	2.7851561519523	2	response to peptide	cellular response to organic substance
+GO:0010648	10	GO:0009968	0.977	2.78251605578609	0	negative regulation of cell communication	negative regulation of signal transduction
+GO:1901701	2	GO:0071310	0.786	2.76955107862173	0	cellular response to oxygen-containing compound	cellular response to organic substance
+GO:0051261	9	GO:0097435	0.35	2.76700388960785	1	protein depolymerization	supramolecular fiber organization
+GO:0023057	5	GO:0007166	0.509	2.76447155309245	2	negative regulation of signaling	cell surface receptor signaling pathway
+GO:0048585	13	GO:0048585	0.979	2.75202673363819	0	negative regulation of response to stimulus	negative regulation of response to stimulus
+GO:0010876	3	GO:0030301	0.872	2.74714696902011	3	lipid localization	cholesterol transport
+GO:0010817	7	GO:0065008	0.747	2.74714696902011	4	regulation of hormone levels	regulation of biological quality
+GO:0008340	14	GO:0008340	1	2.74714696902011	20	determination of adult lifespan	determination of adult lifespan
+GO:0009607	15	GO:0009607	0.977	2.65364702554936	0	response to biotic stimulus	response to biotic stimulus
+GO:0007368	16	GO:0007368	0.999	2.6345120151091	60	determination of left/right symmetry	determination of left/right symmetry
+GO:0060537	17	GO:0060537	0.996	2.6345120151091	5	muscle tissue development	muscle tissue development
+GO:0071216	15	GO:0009607	0.743	2.6252516539899	0	cellular response to biotic stimulus	response to biotic stimulus
+GO:1903706	18	GO:1903706	0.996	2.6252516539899	11	regulation of hemopoiesis	regulation of hemopoiesis
+GO:0071407	2	GO:0071310	0.802	2.60032627851896	40	cellular response to organic cyclic compound	cellular response to organic substance
+GO:0007568	11	GO:0010259	0.877	2.59176003468815	145	aging	multicellular organism aging
+GO:0007249	10	GO:0009968	0.396	2.58169870868025	67	I-kappaB kinase/NF-kappaB signaling	negative regulation of signal transduction
+GO:0060538	6	GO:0007519	0.993	2.57024771999759	7	skeletal muscle organ development	skeletal muscle tissue development
+GO:0033002	19	GO:0033002	0.998	2.5654310959658	1	muscle cell proliferation	muscle cell proliferation
+GO:0003007	16	GO:0007368	0.33	2.55909091793478	43	heart morphogenesis	determination of left/right symmetry
+GO:0007179	4	GO:0009725	0.689	2.53910215724345	130	transforming growth factor beta receptor signaling pathway	response to hormone
+GO:0061061	6	GO:0007519	0.844	2.50445566245355	11	muscle structure development	skeletal muscle tissue development
+GO:0009653	16	GO:0007368	0.343	2.47886191629596	131	anatomical structure morphogenesis	determination of left/right symmetry
+GO:0009888	17	GO:0060537	0.757	2.47886191629596	8	tissue development	muscle tissue development
+GO:0001655	20	GO:0001655	0.999	2.47108329972235	17	urogenital system development	urogenital system development
+GO:0042446	7	GO:0065008	0.595	2.46597389394387	13	hormone biosynthetic process	regulation of biological quality
+GO:0014706	17	GO:0060537	0.955	2.46092390120722	5	striated muscle tissue development	muscle tissue development
+GO:0006720	21	GO:0006720	0.998	2.45222529461218	3	isoprenoid metabolic process	isoprenoid metabolic process
+GO:0070482	22	GO:0070482	0.997	2.44611697335613	4	response to oxygen levels	response to oxygen levels
+GO:0009792	16	GO:0007368	0.342	2.42136079003193	23	embryo development ending in birth or egg hatching	determination of left/right symmetry
+GO:0043603	23	GO:0043603	0.984	2.39902710431325	1	amide metabolic process	amide metabolic process
+GO:0008219	24	GO:0008219	0.971	2.39794000867204	35	cell death	cell death
+GO:0050896	13	GO:0048585	0.411	2.39577394691553	63	response to stimulus	negative regulation of response to stimulus
+GO:0009855	16	GO:0007368	0.994	2.34872198600186	1	determination of bilateral symmetry	determination of left/right symmetry
+GO:0030335	25	GO:0030335	0.994	2.34486156518862	271	positive regulation of cell migration	positive regulation of cell migration
+GO:0009617	15	GO:0009607	0.845	2.33535802444387	116	response to bacterium	response to biotic stimulus
+GO:0030041	26	GO:0030041	0.999	2.33254704711005	45	actin filament polymerization	actin filament polymerization
+GO:0035194	12	GO:0010608	0.924	2.32975414692588	8	RNA-mediated post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0009799	16	GO:0007368	0.994	2.32422165832591	0	specification of symmetry	determination of left/right symmetry
+GO:0043066	24	GO:0008219	0.831	2.28903688100472	542	negative regulation of apoptotic process	cell death
+GO:0006518	23	GO:0043603	0.954	2.28316227670048	14	peptide metabolic process	amide metabolic process
+GO:0023052	5	GO:0007166	0.703	2.28232949699774	7	signaling	cell surface receptor signaling pathway
+GO:0051146	6	GO:0007519	0.78	2.26680273489343	14	striated muscle cell differentiation	skeletal muscle tissue development
+GO:2000147	25	GO:0030335	0.99	2.25884840114822	24	positive regulation of cell motility	positive regulation of cell migration
+GO:0006869	3	GO:0030301	0.885	2.24565166428898	73	lipid transport	cholesterol transport
+GO:0007584	27	GO:0007584	0.999	2.23507701535011	56	response to nutrient	response to nutrient
+GO:0060548	24	GO:0008219	0.847	2.23284413391782	75	negative regulation of cell death	cell death
+GO:0043434	2	GO:0071310	0.657	2.22621355501881	48	response to peptide hormone	cellular response to organic substance
+GO:0007165	5	GO:0007166	0.74	2.21253952548158	1108	signal transduction	cell surface receptor signaling pathway
+GO:0002181	23	GO:0043603	0.786	2.20830935097988	195	cytoplasmic translation	amide metabolic process
+GO:0016441	12	GO:0010608	0.925	2.20273245916928	5	post-transcriptional gene silencing	post-transcriptional regulation of gene expression
+GO:0043069	24	GO:0008219	0.834	2.19791074211827	15	negative regulation of programmed cell death	cell death
+GO:0060972	16	GO:0007368	0.99	2.19654288435159	4	left/right pattern formation	determination of left/right symmetry
+GO:0032502	16	GO:0007368	0.361	2.18243463044022	18	developmental process	determination of left/right symmetry
+GO:0035966	2	GO:0071310	0.603	2.17327747983101	0	response to topologically incorrect protein	cellular response to organic substance
+GO:0007154	10	GO:0009968	0.582	2.16621562534352	18	cell communication	negative regulation of signal transduction
+GO:0051707	15	GO:0009607	0.974	2.16494389827988	4	response to other organism	response to biotic stimulus
+GO:0006457	28	GO:0006457	0.998	2.16430942850757	187	protein folding	protein folding
+GO:0043207	15	GO:0009607	0.974	2.15676722190199	2	response to external biotic stimulus	response to biotic stimulus
+GO:0061572	9	GO:0097435	0.83	2.14086170270547	3	actin filament bundle organization	supramolecular fiber organization
+GO:0031667	27	GO:0007584	0.894	2.12609840213554	47	response to nutrient levels	response to nutrient
+GO:0051716	13	GO:0048585	0.381	2.10127481841051	0	cellular response to stimulus	negative regulation of response to stimulus
+GO:0019221	2	GO:0071310	0.803	2.08565684288056	149	cytokine-mediated signaling pathway	cellular response to organic substance
+GO:0030029	26	GO:0030041	0.815	2.08565684288056	2	actin filament-based process	actin filament polymerization
+GO:0051258	9	GO:0097435	0.376	2.07883394936226	17	protein polymerization	supramolecular fiber organization
+GO:0030036	26	GO:0030041	0.832	2.0584885673656	171	actin cytoskeleton organization	actin filament polymerization
+GO:0012501	24	GO:0008219	0.959	2.04914854111145	10	programmed cell death	cell death
+GO:1903037	29	GO:1903037	0.996	2.04866248120408	3	regulation of leukocyte cell-cell adhesion	regulation of leukocyte cell-cell adhesion
+GO:0034284	2	GO:0071310	0.599	2.04143611677803	1	response to monosaccharide	cellular response to organic substance
+GO:0015850	3	GO:0030301	0.933	2.04095860767891	0	organic hydroxy compound transport	cholesterol transport
+GO:0008154	26	GO:0030041	0.977	2.04095860767891	22	actin polymerization or depolymerization	actin filament polymerization
+GO:0071375	2	GO:0071310	0.751	2.02872415126189	17	cellular response to peptide hormone stimulus	cellular response to organic substance
+GO:0001701	16	GO:0007368	0.321	2.01682492796219	206	in utero embryonic development	determination of left/right symmetry
+GO:0009991	27	GO:0007584	0.888	2.01099538430146	4	response to extracellular stimulus	response to nutrient
+GO:0002682	18	GO:1903706	0.792	2.00524305541237	42	regulation of immune system process	regulation of hemopoiesis
+GO:0009615	15	GO:0009607	0.792	2.00086945871263	114	response to virus	response to biotic stimulus
