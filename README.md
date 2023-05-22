@@ -65,7 +65,7 @@ Reference proteomes that were used:
 ## Batch-effect estimation and correction
 We noticed that there is no significant difference between data from different libraries, contrast, after using ComBat-seq most of biological differences were smoothed. Adding more biological variables to analysis needs ComBat-seq optimization. So we used uncorrected data.
 
-![[Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/ComBat-seq%20correction/Uncorrected-vs-BatchCorrected-PCA_Pele.pdf)
+![PCA](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/ComBat-seq%20correction/Uncorrected-vs-BatchCorrected-PCA_Pele.pdf)
 
 
 
