@@ -78,7 +78,7 @@ Given the differences in PCR cycles between P. elegans samples, we performed bat
 
 We noticed that there is no significant difference between data from different libraries, contrast, after using ComBat-seq most of biological differences were smoothed. Adding more biological variables to analysis needs ComBat-seq optimization. So we used uncorrected data.
 
-![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/05_combat-seq_correction/Uncorrected-vs-BatchCorrected-PCA.png)
+![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/06_combat-seq_correction/Uncorrected-vs-BatchCorrected-PCA.png)
 
 ## Co-expression gene clusters identification
 
@@ -88,7 +88,7 @@ We obtain 8 clusters in both P.elegans posterior and anterior regeneration sites
 
 Here we present one cluster from anterior regeneration of P.elegans. This cluster contain 5253 genes. 
 
-![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/06_clust/Cluster.jpg)
+![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/05_clust/Cluster.jpg)
 
 All result in the foalder "Clust".
 
