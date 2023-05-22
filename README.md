@@ -67,6 +67,18 @@ We noticed that there is no significant difference between data from different l
 
 ![https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/ComBat-seq%20correction/Uncorrected-vs-BatchCorrected-PCA.png](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/ComBat-seq%20correction/Uncorrected-vs-BatchCorrected-PCA.png)
 
+## Co-expression gene clusters identification
+
+We obtain 8 clusters in both P.elegans posterior and anterior regeneration sites. And we obtain 4 clusters in P.dumerilii anterior and 9 in P.dumerilii posterior regeneration sites. 
+Here we present one cluster from anterior regeneration of P.elegans. This cluster contain 5253 genes. 
+
+![https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/Clust/Cluster.jpg](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/Clust/Cluster.jpg)
+
+All result in the foalder "Clust".
+
+
+## GO-terms enrichment analysis
+
 
 
 ## Phylogenetic analysis
