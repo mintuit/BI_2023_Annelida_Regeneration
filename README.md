@@ -84,7 +84,10 @@ All result in the foalder "Clust".
 
 ## GO-terms enrichment analysis
 
+GeneOntology (GO) terms enrichment analysis was performed for each co-expressed gene cluster using the [topGO](https://bioconductor.org/packages/3.16/bioc/html/topGO.html) (v.2.52.0.) package for R. Only biological processes including more than 10 significant genes were considered. We used [rrvigo](https://bioconductor.org/packages/release/bioc/html/rrvgo.html) (v.3.17) and parental GO-terms for enrichment analysis results visualization
 
+
+![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/GO_analysis/GO-enrichment.jpg)
 
 ## Phylogenetic analysis
 
