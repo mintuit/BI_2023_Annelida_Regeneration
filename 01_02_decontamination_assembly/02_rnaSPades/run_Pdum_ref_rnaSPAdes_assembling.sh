@@ -1,14 +1,14 @@
 #!/bin/bash
-#assembly was performed on server due to high computational demands
+#Transcriptome assembly for Pdum using rnaSPades
 #software version rnaSPades - 3.15.4
 ### INPUT ###
-R1=Pdum_kraken2_output/Pdum_ref_decontaminated.R1.fastq
-R2=Pdum_kraken2_output/Pdum_ref_decontaminated.R2.fastq
-OUTDIR=Pdum_ref_rnaSPAdes
+R1=./Pdum_kraken2_output/Pdum_ref_decontaminated.R1.fastq
+R2=./Pdum_kraken2_output/Pdum_ref_decontaminated.R2.fastq
+OUTDIR=./Pdum_ref_rnaSPAdes
 
 ### SOFT ###
 
-SPADES=SPAdes-3.15.4-Linux/bin/rnaspades.py
+SPADES=./Soft/SPAdes-3.15.4-Linux/bin/rnaspades.py
 
 ### MAIN ###
 echo "***** rnaSPAdes began to work with params: *****"
