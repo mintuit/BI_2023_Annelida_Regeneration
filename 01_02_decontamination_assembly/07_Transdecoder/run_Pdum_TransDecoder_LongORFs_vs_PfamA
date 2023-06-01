@@ -10,19 +10,17 @@
 #SBATCH --cpus-per-task=24 # Number of CPU cores per task
 #SBATCH -t 5-12:00
 
-source activate /home/maxnest/miniconda3/envs/transdecoder_env
-
-workdir=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder
+workdir=./Pdum_good_contigs_TransDecoder
 
 cd $workdir
 
 # INPUT: #
-FASTA=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
+FASTA=./Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
 OUTFILE=Pdum_longORFs_vs_pfam.domtblout
 
 # Analysis: #
 echo "***** HMMsearch began to search (vs PfamA) with params: *****"
 echo "FASTA: $FASTA"
-nohup /home/maxnest/miniconda3/envs/transdecoder_env/bin/hmmsearch --cpu 24 --domtblout $OUTFILE /home/maxnest/PfamA/Pfam-A.hmm $FASTA
+nohup ./miniconda3/envs/transdecoder_env/bin/hmmsearch --cpu 24 --domtblout $OUTFILE /home/maxnest/PfamA/Pfam-A.hmm $FASTA
 wait
 echo "##### Job is complete #####"
