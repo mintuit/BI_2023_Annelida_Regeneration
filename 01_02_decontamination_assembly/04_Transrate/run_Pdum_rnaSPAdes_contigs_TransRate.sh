@@ -1,5 +1,5 @@
 #!/bin/bash
-#clustering Pdum contigs from rnaSPAdes assembly using Transrate
+#Counting Pele contigs quality from rnaSPAdes assembly using Transrate
 
 workdir=./QC
 
