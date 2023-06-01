@@ -33,7 +33,7 @@ for (i in head_clusters){
     ## Reduced Terms ##
     set_simMatrix <- calculateSimMatrix(results_set_BP_short[["GO.ID"]], 
                                         orgdb = "org.Hs.eg.db", 
-                                        ont="BP", method="Rel") #generalization through human
+                                        ont="BP", method="Rel") #generalization through H. Sapiens
     set_classicFisher <- gsub("< ", "", results_set_BP_short[["classicFisher"]])
     set_scores <- setNames(-log10(as.numeric(as.character(set_classicFisher))), results_set_BP_short[["GO.ID"]])
     set_reducedTerms <- reduceSimMatrix(set_simMatrix, set_scores, threshold = 0.7, orgdb="org.Hs.eg.db")
@@ -58,7 +58,7 @@ for (i in head_clusters){
             plot.title = element_text(hjust = 0.5, size = 15, face="bold"), 
             axis.title.x = element_text(size=13, face="bold"), 
             axis.title.y = element_text(size=13, face="bold")) + 
-      xlab("-log10(Fisher's Test p-values)") + ylab("Parental Gene Ontology terms (Human)") + 
+      xlab("-log10(Fisher's Test p-values)") + ylab("Parental Gene Ontology terms (H. Sapiens)") + 
       ggtitle(sprintf("Reduced GSEA results: \n Pdum head co-expression cluster %s", i)) + labs(fill="Log-transformed scores")
     print(result_plot)
     dev.off()
