@@ -1,0 +1,6 @@
+Pele_head.tsv	0	Pele_head1_0h, Pele_head2_0h
+Pele_head.tsv	4	Pele_head1_4h, Pele_head2_4h
+Pele_head.tsv	12	Pele_head1_12h, Pele_head2_12h
+Pele_head.tsv	24	Pele_head1_24h, Pele_head2_24h
+Pele_head.tsv	48	Pele_head1_48h, Pele_head2_48h
+Pele_head.tsv	96	Pele_head1_96h, Pele_head2_96h

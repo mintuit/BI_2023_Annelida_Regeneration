@@ -1,0 +1,6 @@
+Pele_tail.tsv	0	Pele_tail1_0h, Pele_tail2_0h
+Pele_tail.tsv	4	Pele_tail1_4h, Pele_tail2_4h
+Pele_tail.tsv	12	Pele_tail1_12h, Pele_tail2_12h
+Pele_tail.tsv	24	Pele_tail1_24h, Pele_tail2_24h
+Pele_tail.tsv	48	Pele_tail1_48h, Pele_tail2_48h
+Pele_tail.tsv	96	Pele_tail1_96h, Pele_tail2_96h
