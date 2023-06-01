@@ -1,8 +1,9 @@
 #!/bin/bash
+#building databases for kraken
 
 ### INPUT ###
 
-OUTDIR=/home/maxnest/Kraken2_DB/
+OUTDIR=./Kraken2_DB/
 
 ### Processing ###
 
