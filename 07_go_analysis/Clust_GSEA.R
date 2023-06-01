@@ -1,4 +1,3 @@
-#setwd("D:/Projects/Genes_level/Polychaeta/Analysis/GOenrichment_analysis/Pdum_clusters/")
 ### Libraries ###
 library(topGO)
 library(dplyr)
@@ -6,10 +5,10 @@ library(rrvgo)
 library(ggplot2)
 
 ### Input data ###
-Pdum_head_clusters <- read.csv2("C:/Users/1пк/Documents/Clust/Clusters_Objects_pdum_head.tsv", 
-                                sep="\t", header = T) # Предварительно я удалял из файла Cluster_Objects.tsv 2 строчку, содержащую Genes, а также в названиях колонках убирал все, что записано в скобках (наподобие (5540 genes))
+# Previously, removed the line containing genes from the Cluster_Objects.tsv 2 file, and also removed everything in the column names that was rinsed in brackets (like (5540 genes))
+Pdum_head_clusters <- read.csv2("./Clust/Clusters_Objects_pdum_head.tsv", sep="\t", header = T) 
 ## Universe ##
-Pdum_geneID2GO <- readMappings(file="C:/Users/1пк/Documents/Clust/pdum_go.csv", sep = '\t')
+Pdum_geneID2GO <- readMappings(file="./Go_analysis/pdum_go.csv", sep = '\t')
 Pdum_geneNames <- names(Pdum_geneID2GO)
 
 ### GOenrichment analysis ###
@@ -33,11 +32,11 @@ for (i in head_clusters){
   if (nrow(results_set_BP_short) > 0){
     ## Reduced Terms ##
     set_simMatrix <- calculateSimMatrix(results_set_BP_short[["GO.ID"]], 
-                                        orgdb = "org.Dm.eg.db", 
-                                        ont="BP", method="Rel") # Здесь упрощение через плодовую мушку (Drosophila melanogaster), нужно указать человека (Все доступные наборы - http://bioconductor.org/packages/release/BiocViews.html#___OrgDb)
+                                        orgdb = "org.Hs.eg.db", 
+                                        ont="BP", method="Rel") #generalization through human
     set_classicFisher <- gsub("< ", "", results_set_BP_short[["classicFisher"]])
     set_scores <- setNames(-log10(as.numeric(as.character(set_classicFisher))), results_set_BP_short[["GO.ID"]])
-    set_reducedTerms <- reduceSimMatrix(set_simMatrix, set_scores, threshold = 0.7, orgdb="org.Dm.eg.db") # Заменяем на человека
+    set_reducedTerms <- reduceSimMatrix(set_simMatrix, set_scores, threshold = 0.7, orgdb="org.Hs.eg.db")
     set_reducedTerms_selected <- select(set_reducedTerms, parent, score, parentTerm)
     # duplication removing: #
     set_reducedTerms_uniq <- set_reducedTerms_selected %>% 
@@ -59,7 +58,7 @@ for (i in head_clusters){
             plot.title = element_text(hjust = 0.5, size = 15, face="bold"), 
             axis.title.x = element_text(size=13, face="bold"), 
             axis.title.y = element_text(size=13, face="bold")) + 
-      xlab("-log10(Fisher's Test p-values)") + ylab("Parental Gene Ontology terms (Fly)") + # Заменяем на человека
+      xlab("-log10(Fisher's Test p-values)") + ylab("Parental Gene Ontology terms (Human)") + 
       ggtitle(sprintf("Reduced GSEA results: \n Pdum head co-expression cluster %s", i)) + labs(fill="Log-transformed scores")
     print(result_plot)
     dev.off()
