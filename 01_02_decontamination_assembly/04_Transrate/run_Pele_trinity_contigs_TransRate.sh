@@ -1,5 +1,5 @@
 #!/bin/bash
-#clustering Pele contigs from Trinity assembly using Transrate
+#Counting Pele contigs quality from Trinity assembly using Transrate
 
 workdir=./QC
 
