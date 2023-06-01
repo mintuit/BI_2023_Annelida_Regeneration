@@ -1,13 +1,14 @@
 #!/bin/bash
+#Transcriptome assembly for Pele using rnaSPades
 
 ### INPUT ###
-R1=/home/maxnest/Pele_kraken2_output/Pele_ref_decontaminated.R1.fastq
-R2=/home/maxnest/Pele_kraken2_output/Pele_ref_decontaminated.R2.fastq
-OUTDIR=/home/maxnest/Pele_ref_rnaSPAdes
+R1=./Pele_kraken2_output/Pele_ref_decontaminated.R1.fastq
+R2=./Pele_kraken2_output/Pele_ref_decontaminated.R2.fastq
+OUTDIR=./Pele_ref_rnaSPAdes
 
 ### SOFT ###
 
-SPADES=/home/maxnest/Soft/SPAdes-3.15.4-Linux/bin/rnaspades.py
+SPADES=./Soft/SPAdes-3.15.4-Linux/bin/rnaspades.py
 
 ### MAIN ###
 echo "***** rnaSPAdes began to work with params: *****"
