@@ -1,3 +1,5 @@
+#Batch-effect analysis, using one biological variable and matrix of variables
+
 library("sva") #Note this exercise requires sva (>= v3.36.0) which is only available for R (>= v4.x)
 library("ggplot2")
 library("gridExtra")
