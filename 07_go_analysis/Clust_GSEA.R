@@ -8,7 +8,7 @@ library(ggplot2)
 # Previously, removed the line containing genes from the Cluster_Objects.tsv 2 file, and also removed everything in the column names that was rinsed in brackets (like (5540 genes))
 Pdum_head_clusters <- read.csv2("./Clust/Clusters_Objects_pdum_head.tsv", sep="\t", header = T) 
 ## Universe ##
-Pdum_geneID2GO <- readMappings(file="./Go_analysis/pdum_go.csv", sep = '\t')
+Pdum_geneID2GO <- readMappings(file="./Go_analysis/Pdum_go_an.csv", sep = '\t')
 Pdum_geneNames <- names(Pdum_geneID2GO)
 
 ### GOenrichment analysis ###
