@@ -10,18 +10,16 @@
 #SBATCH --cpus-per-task=24 # Number of CPU cores per task
 #SBATCH -t 5-12:00
 
-workdir=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder
+workdir=./Pdum_good_contigs_TransDecoder
 
 # INPUT: #
-FASTA=/hpcws/maxnest-sfio/IB/Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
-DB=/home/maxnest/UniRef90/uniref90
-
-source activate /home/maxnest/miniconda3/envs/diamond_env
+FASTA=./Pdum_good_contigs_TransDecoder/Pdum_new_ref.rnaSPAdes_and_Trinity.good.cdhit_c95.fasta.transdecoder_dir/longest_orfs.pep
+DB=./UniRef90/uniref90
 
 # Analysis: #
 echo "***** DIAMOND BLASTp began to search (vs UniRef90) with params: *****"
 echo "FASTA: $FASTA"
 echo "DB: $DB"
-nohup /home/maxnest/miniconda3/envs/diamond_env/bin/diamond blastp --db $DB --query $FASTA --threads 24 --out ${workdir}/longest_orfs_vs_UniRef90.diamond.outfmt6 --outfmt 6 --max-target-seqs 1 --evalue 1e-5
+nohup ./miniconda3/envs/diamond_env/bin/diamond blastp --db $DB --query $FASTA --threads 24 --out ${workdir}/longest_orfs_vs_UniRef90.diamond.outfmt6 --outfmt 6 --max-target-seqs 1 --evalue 1e-5
 wait
 echo "##### Job is complete #####"
