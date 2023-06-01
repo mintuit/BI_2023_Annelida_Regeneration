@@ -1,9 +1,10 @@
 #!/bin/bash
+#run kraken through Pele reads for decontamination
 
 ### Input ###
 
-tmmdir=/home/maxnest/Pele_tmm/
-outdir=/home/maxnest/Pele_kraken2_output/
+tmmdir=./Pele_tmm/
+outdir=./Pele_kraken2_output/
 suffix=#
 
 ### Processing ###
@@ -20,7 +21,7 @@ for dir in $(find $tmmdir -mindepth 1 -type d); do
         echo "TAG: $tag"
 	mkdir ${tag}_vs_PlusPF_db
 	cd ${tag}_vs_PlusPF_db
-        nohup kraken2 --db /home/maxnest/Kraken2_DB/PlusPF_db/ --threads 12 --paired --gzip-compressed --unclassified-out ${tag}.unclass.R${suffix}.fastq --classified-out ${tag}.class.R${suffix}.fastq --output ${tag}_vs_PlusPF_db.tab --report ${tag}_vs_PlusPF_db.report ${r1} ${r2}
+        nohup kraken2 --db ./Kraken2_DB/PlusPF_db/ --threads 12 --paired --gzip-compressed --unclassified-out ${tag}.unclass.R${suffix}.fastq --classified-out ${tag}.class.R${suffix}.fastq --output ${tag}_vs_PlusPF_db.tab --report ${tag}_vs_PlusPF_db.report ${r1} ${r2}
 	cd ..
         wait
 done
