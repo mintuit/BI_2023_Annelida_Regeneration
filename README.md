@@ -122,6 +122,10 @@ Phylogenetic tree for NKX2-like genes:
 
 We see more complex architecture with precense of 3 paralogous NKX2-like genes groups in *P.dumerilii* and *P.elegans*. Low bootstrap support for NKX2-1-like genes phylogeny probably related to low numbers of identified orthologs in Spiralia for these genes and requires further evaluation.
 
+## Discusion
+
+Based on our results, we suggest that a larger number of co-expression clusters during anterior regeneration in *P. elegans* may indicate a more complex response to damage and the initiation of regeneration since the number of genes involved in the formation of clusters is approximately the same. On the contrary, the biological processes that are observed during posterior regeneration in *P. elegans* and  *P. dumerilii* have many similarities, which may indicate a similarity in the course of posterior regeneration processes at the molecular level in the species studied. Moreover, the PBX1-like gene can be considered as a prospective candidate for further experimental study, since it is not expressed during anterior regeneration in *P. dumerilii*, but is expressed during posterior regeneration in both annelids and during anterior regeneration in *P.elegans*. NKX2-like genes play a role in central neural system development and neural system regeneration[^4] according to GO-terms enrichment analysis of gene co-expression clusters. Different paralogs of NKX2-like genes are expressed in anterior and posterior regeneration in both annelids, but evolutionary changes in the paralog of NKX2-like gene expressed during anterior regeneration in *P. dumerilii* may be related to its evolutionary transformation of regenerative capacity.
+
 ## Future plans
 
 - In order to reduce the artificial redundancy of the combined assembly of the transcriptome, we will test a new approach based on the construction of protein clusters, followed by the selection of a representative sequence in each cluster
@@ -133,6 +137,7 @@ We see more complex architecture with precense of 3 paralogous NKX2-like genes g
 [^1]: Kostyuchenko RP, Kozin VV. Comparative Aspects of Annelid Regeneration: Towards Understanding the Mechanisms of Regeneration. Genes (Basel). 2021 Jul 28;12(8):1148. doi: 10.3390/genes12081148. PMID: 34440322; PMCID: PMC8392629.
 [^2]: Novikova, E.L., Bakalenko, N.I., Nesterenko, A.Y. et al. Hox genes and animal regeneration. Russ J Dev Biol 47, 173–180 (2016). https://doi.org/10.1134/S106236041604007X
 [^3]: Gardiner DM, Blumberg B, Komine Y, Bryant SV. Regulation of HoxA expression in developing and regenerating axolotl limbs. Development. 1995 Jun;121(6):1731-41. doi: 10.1242/dev.121.6.1731. PMID: 7600989.
+[^4]: Holz A, Kollmus H, Ryge J, Niederkofler V, Dias J, Ericson J, Stoeckli ET, Kiehn O, Arnold HH. The transcription factors Nkx2.2 and Nkx2.9 play a novel role in floor plate development and commissural axon guidance. Development. 2010 Dec;137(24):4249-60. doi: 10.1242/dev.053819. Epub 2010 Nov 10. PMID: 21068056; PMCID: PMC2990212.
 
 
 
