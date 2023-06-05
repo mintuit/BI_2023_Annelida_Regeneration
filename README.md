@@ -7,7 +7,7 @@ Authors:
 - Sergei Fomenko (S)
 - Dudkovskaia Anastasiia (A)
 
-We analysed gene expression changes during regeneration of two Annelida, *Pygospio elegans*, capable of anterior and posterior regeneration, and *Platynereis dumerilii*, capable of only posterior regeneration. Because of their diverse regenerative abilities, annelids are an ideal model for studying and comparing regenerative mechanisms[^1]. Given the homeobox genes play a key role in the anteroposterior axis patterning and organs morphogenesis, we aimed to study the expression pattern of this superfamily of transcription factors during anterior and posterior regeneration.
+We analysed gene expression changes during regeneration of two Annelida, *Pygospio elegans*, capable of anterior and posterior regeneration, and *Platynereis dumerilii*, capable of only posterior regeneration. Because of their diverse regenerative abilities, annelids are an ideal model for studying and comparing regenerative mechanisms[^1]. Given the homeobox genes play a key role in the anteroposterior axis patterning and organs morphogenesis, we aimed to study the expression pattern of this superfamily of transcription factors during anterior and posterior regeneration[^2][^3].
 
 ## Aim, tasks and data
 Samples of *P.elegans* and *P.dumerilii* were collected for bulk RNA sequencing during anterior (data marked as 'tail') and posterior regeneration (data marked as 'head') in 6 time points (0, 4, 12, 24, 48, and 96 hours after injury). The **available data** at the start of the project were: 24 RNA-seq (2 species * 2 sites * 6 time points) datasets of reads after basic quality check and trimming, same reads after decontamination with [MCSC Decontamination method](https://github.com/Lafond-LapalmeJ/MCSC_Decontamination) and draft <em>de novo</em> [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) transcriptome assemblies for P.elegans and P.dumerilii. 
@@ -131,7 +131,8 @@ We see more complex architecture with precense of 3 paralogous NKX2-like genes g
 
 ## References
 [^1]: Kostyuchenko RP, Kozin VV. Comparative Aspects of Annelid Regeneration: Towards Understanding the Mechanisms of Regeneration. Genes (Basel). 2021 Jul 28;12(8):1148. doi: 10.3390/genes12081148. PMID: 34440322; PMCID: PMC8392629.
-
+[^2]: Novikova, E.L., Bakalenko, N.I., Nesterenko, A.Y. et al. Hox genes and animal regeneration. Russ J Dev Biol 47, 173–180 (2016). https://doi.org/10.1134/S106236041604007X
+[^3]: Gardiner DM, Blumberg B, Komine Y, Bryant SV. Regulation of HoxA expression in developing and regenerating axolotl limbs. Development. 1995 Jun;121(6):1731-41. doi: 10.1242/dev.121.6.1731. PMID: 7600989.
 
 
 
