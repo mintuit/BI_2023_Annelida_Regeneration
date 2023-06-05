@@ -38,10 +38,10 @@ Samples of *P.elegans* and *P.dumerilii* were collected for bulk RNA sequencing 
 Workflow for this part of analysis:
 ![](pictures/01_02_workflow.png)
 
-Alternative decontamination method with [Kraken2](https://github.com/DerrickWood/kraken2) (v.2.1.2) was used to improve decontamination quality. Commands were performed on supervisors server due to high computational demands of this part of analysis. Scripts used for decontamination can be found in **01_02_decontamination_assembly\01_kraken2** folder. Kraken2 reports visualisation performed online with [Pavian](https://fbreitwieser.shinyapps.io/pavian/).
+Alternative decontamination method with [Kraken2](https://github.com/DerrickWood/kraken2) (v.2.1.2) was used to improve decontamination quality. Commands were performed on supervisors server due to high computational demands of this part of analysis. Scripts used for decontamination can be found in **scripts\01_02_decontamination_assembly\01_kraken2** folder. Kraken2 reports visualisation performed online with [Pavian](https://fbreitwieser.shinyapps.io/pavian/).
 ![](pictures/kraken2_decontamination_example.png) 
 
-To further improve assemblies completeness 2 different assemblers were used - [rnaSPAdes](https://cab.spbu.ru/software/rnaspades/) (v.3.15.4) and [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)(v.2.14.0). Commands can be found in **01_02_decontamination_assembly\02_rnaSPades** and **01_02_decontamination_assembly\03_Trinity** folders.
+To further improve assemblies completeness 2 different assemblers were used - [rnaSPAdes](https://cab.spbu.ru/software/rnaspades/) (v.3.15.4) and [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)(v.2.14.0). Commands can be found in **scripts\01_02_decontamination_assembly\02_rnaSPades** and **scripts\01_02_decontamination_assembly\03_Trinity** folders.
 
 Contigs quality from both assemblies was evaluated with [TransRate](https://hibberdlab.com/transrate/installation.html) (v.1.0.1), contigs with high scores were clusterised with [CDHIT-est](https://github.com/weizhongli/cdhit) (v.4.8.1) (threshold c=0.95 used for  duplicated sequence removal according to CDHIT user guide). Protein-coding ORFs in contigs were identified by [Transdecoder](https://github.com/TransDecoder/TransDecoder) (v.5.5.0), proteins with .
 Gene expression was quantified with [Salmon](https://github.com/COMBINE-lab/salmon) (v.1.2.1). For further analysis we used contigs with protein length > 100 aminoacids and expression level > 2 TPM at least in one time point.  
@@ -54,7 +54,7 @@ We can clearly see that decontamination with KRAKEN2 and clusterisation of 2 dif
 Visualisation of forkflow:
 ![](pictures/03_workflow.png)
 
-[eggNOG-mapper](http://eggnog-mapper.embl.de/)(default settings) and [HMMsearch](https://github.com/EddyRivasLab/hmmer)(e-value<1-e3) against the PfamA database were used for transcriptomes annotation and protein domains identification. Orthogroups identification between Annelida species studied and various metazoan species was carried out with reference proteomes from UniProt database  and proteinortho and OrthoFinder software. Commands and detailed descriptions for this part of analysis can be found in **03_annotation** folder.
+[eggNOG-mapper](http://eggnog-mapper.embl.de/)(default settings) and [HMMsearch](https://github.com/EddyRivasLab/hmmer)(e-value<1-e3) against the PfamA database were used for transcriptomes annotation and protein domains identification. Orthogroups identification between Annelida species studied and various metazoan species was carried out with reference proteomes from UniProt database  and proteinortho and OrthoFinder software. Commands and detailed descriptions for this part of analysis can be found in **scripts\03_annotation** folder.
 Reference proteomes that were used (protein length >100 aminoacids to match TransDecoder output, BUSCO proteome completeness > 90%):
 - *Apis mellifera* (Insecta, outgroup)
 - *Homo sapiens* (outgroup)
@@ -110,7 +110,7 @@ Visualisation of forkflow:\
 For 2 homeobox gene families (NKX2 and PBX) with meaningful orthologs according to Orthofinder or proteinortho phylogenetic analysis was performed. 
 These gene families were chosen because they exhibit interesting expression patterns according to differential expression analysis. PBX1-like genes expressed during anterior regeneration in *P.elegans* but not *P.dumerilii*. NKX2-like genes play role in central neural system developement, different genes from these family expressed during anterior or posterior regeneration in both Annelids.
 
-Multiple protein alignment generated with [MAFFT online servise](https://mafft.cbrc.jp/alignment/server/) using additional homologues from PSI-BLAST to improve the quality of alignment between genes of evolutionarily distant species. Model selection and phylogenetic tree construction performed in [IQ-TREE](https://github.com/iqtree/iqtree2)(v.2.2.2.3). For tree visualisation [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) (v.1.4.4) used. eggNOG short gene names and data about gene expression clusters from Clust were manually added in FigTree. Сommands and detailed descriptions for this part of analysis can be found in **04_phylogeny** folder.
+Multiple protein alignment generated with [MAFFT online servise](https://mafft.cbrc.jp/alignment/server/) using additional homologues from PSI-BLAST to improve the quality of alignment between genes of evolutionarily distant species. Model selection and phylogenetic tree construction performed in [IQ-TREE](https://github.com/iqtree/iqtree2)(v.2.2.2.3). For tree visualisation [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) (v.1.4.4) used. eggNOG short gene names and data about gene expression clusters from Clust were manually added in FigTree. Сommands and detailed descriptions for this part of analysis can be found in **scripts\04_phylogeny** folder.
 
 Phylogenetic tree for PBX-like genes:
 ![](pictures/pbx_aligned.fasta.contree.png)
