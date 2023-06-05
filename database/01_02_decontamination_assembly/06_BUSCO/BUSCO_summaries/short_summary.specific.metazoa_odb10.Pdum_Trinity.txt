@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.Trinity.renamed.long.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:99.0%[S:19.6%,D:79.4%],F:0.5%,M:0.5%,n:954	   
+	944	Complete BUSCOs (C)			   
+	187	Complete and single-copy BUSCOs (S)	   
+	757	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	5	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9
+	busco: 5.4.4

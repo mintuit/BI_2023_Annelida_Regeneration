@@ -1,0 +1,61 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0051239	1	GO:0051239	0.948	4.74472749489669	0	regulation of multicellular organismal process	regulation of multicellular organismal process
+GO:0008283	2	GO:0008283	0.976	4.55284196865778	149	cell population proliferation	cell population proliferation
+GO:0008284	2	GO:0008283	0.868	4.44369749923271	572	positive regulation of cell population proliferation	cell population proliferation
+GO:0042127	2	GO:0008283	0.942	4.43179827593301	140	regulation of cell population proliferation	cell population proliferation
+GO:2000026	3	GO:2000026	0.985	3.60205999132796	0	regulation of multicellular organismal development	regulation of multicellular organismal development
+GO:0045664	3	GO:2000026	0.622	3.50863830616573	28	regulation of neuron differentiation	regulation of multicellular organismal development
+GO:0040011	4	GO:0040011	0.982	3.44369749923271	8	locomotion	locomotion
+GO:0050767	3	GO:2000026	0.828	3.44369749923271	41	regulation of neurogenesis	regulation of multicellular organismal development
+GO:0120035	5	GO:0120035	0.994	3.23657200643706	3	regulation of plasma membrane bounded cell projection organization	regulation of plasma membrane bounded cell projection organization
+GO:0009605	6	GO:0009605	0.957	3.18708664335714	0	response to external stimulus	response to external stimulus
+GO:0031344	5	GO:0120035	0.991	3.16749108729376	5	regulation of cell projection organization	regulation of plasma membrane bounded cell projection organization
+GO:0051960	3	GO:2000026	0.85	3.15490195998574	2	regulation of nervous system development	regulation of multicellular organismal development
+GO:0050673	2	GO:0008283	0.796	3.13667713987954	49	epithelial cell proliferation	cell population proliferation
+GO:0098657	7	GO:0098657	0.997	3.10790539730952	2	import into cell	import into cell
+GO:0032101	6	GO:0009605	0.801	3.00436480540245	0	regulation of response to external stimulus	response to external stimulus
+GO:0010975	5	GO:0120035	0.957	2.90657831483776	34	regulation of neuron projection development	regulation of plasma membrane bounded cell projection organization
+GO:0040017	4	GO:0040011	0.869	2.88272870434424	2	positive regulation of locomotion	locomotion
+GO:0051240	1	GO:0051239	0.834	2.87614835903291	0	positive regulation of multicellular organismal process	regulation of multicellular organismal process
+GO:0044057	8	GO:0044057	0.993	2.86966623150499	0	regulation of system process	regulation of system process
+GO:0051049	7	GO:0098657	0.46	2.85078088734462	3	regulation of transport	import into cell
+GO:0060284	3	GO:2000026	0.734	2.82102305270683	0	regulation of cell development	regulation of multicellular organismal development
+GO:0007399	3	GO:2000026	0.544	2.78251605578609	375	nervous system development	regulation of multicellular organismal development
+GO:0048646	9	GO:0048646	0.986	2.71219827006977	7	anatomical structure formation involved in morphogenesis	anatomical structure formation involved in morphogenesis
+GO:0050793	3	GO:2000026	0.873	2.70996538863748	7	regulation of developmental process	regulation of multicellular organismal development
+GO:0031175	5	GO:0120035	0.806	2.70996538863748	133	neuron projection development	regulation of plasma membrane bounded cell projection organization
+GO:0006650	10	GO:0006650	0.996	2.67571754470231	4	glycerophospholipid metabolic process	glycerophospholipid metabolic process
+GO:0042060	11	GO:0042060	0.996	2.6458915608526	93	wound healing	wound healing
+GO:0042391	12	GO:0042391	0.995	2.63827216398241	97	regulation of membrane potential	regulation of membrane potential
+GO:0006644	10	GO:0006650	0.973	2.62893213772826	59	phospholipid metabolic process	glycerophospholipid metabolic process
+GO:0009653	9	GO:0048646	0.804	2.52724355068279	131	anatomical structure morphogenesis	anatomical structure formation involved in morphogenesis
+GO:0030335	4	GO:0040011	0.859	2.52578373592374	271	positive regulation of cell migration	locomotion
+GO:0048870	13	GO:0048870	0.979	2.51004152057517	39	cell motility	cell motility
+GO:0072359	3	GO:2000026	0.497	2.49349496759513	11	circulatory system development	regulation of multicellular organismal development
+GO:0009611	11	GO:0042060	0.972	2.48811663902113	68	response to wounding	wound healing
+GO:0010959	7	GO:0098657	0.4	2.48412615628832	0	regulation of metal ion transport	import into cell
+GO:2000147	4	GO:0040011	0.863	2.47495519296315	24	positive regulation of cell motility	locomotion
+GO:0043269	7	GO:0098657	0.41	2.42481215507234	7	regulation of monoatomic ion transport	import into cell
+GO:0002682	14	GO:0002682	0.977	2.41116827440579	42	regulation of immune system process	regulation of immune system process
+GO:0030154	3	GO:2000026	0.446	2.38510278396687	599	cell differentiation	regulation of multicellular organismal development
+GO:0006936	8	GO:0044057	0.66	2.33535802444387	81	muscle contraction	regulation of system process
+GO:0048699	3	GO:2000026	0.496	2.33348201944512	9	generation of neurons	regulation of multicellular organismal development
+GO:0045595	3	GO:2000026	0.809	2.29073003902417	35	regulation of cell differentiation	regulation of multicellular organismal development
+GO:0022008	3	GO:2000026	0.508	2.26921772433361	56	neurogenesis	regulation of multicellular organismal development
+GO:0048731	3	GO:2000026	0.604	2.2572748686953	2	system development	regulation of multicellular organismal development
+GO:0006897	7	GO:0098657	0.405	2.24795155218056	206	endocytosis	import into cell
+GO:0016477	13	GO:0048870	0.966	2.21968268785985	253	cell migration	cell motility
+GO:0048468	3	GO:2000026	0.444	2.21467016498923	21	cell development	regulation of multicellular organismal development
+GO:0007517	9	GO:0048646	0.332	2.21395878975745	99	muscle organ development	anatomical structure formation involved in morphogenesis
+GO:0048869	3	GO:2000026	0.446	2.20830935097988	0	cellular developmental process	regulation of multicellular organismal development
+GO:0030334	4	GO:0040011	0.92	2.18708664335714	110	regulation of cell migration	locomotion
+GO:0007167	15	GO:0007167	0.986	2.17979854051436	7	enzyme-linked receptor protein signaling pathway	enzyme-linked receptor protein signaling pathway
+GO:0120036	5	GO:0120035	0.853	2.10237290870956	1	plasma membrane bounded cell projection organization	regulation of plasma membrane bounded cell projection organization
+GO:0010941	16	GO:0010941	0.982	2.09312646527793	6	regulation of cell death	regulation of cell death
+GO:0030030	5	GO:0120035	0.85	2.0670191780768	40	cell projection organization	regulation of plasma membrane bounded cell projection organization
+GO:2000145	4	GO:0040011	0.926	2.04095860767891	15	regulation of cell motility	locomotion
+GO:0043068	16	GO:0010941	0.843	2.03385826726097	12	positive regulation of programmed cell death	regulation of cell death
+GO:0051223	7	GO:0098657	0.392	2.01863449092146	7	regulation of protein transport	import into cell
+GO:0003012	8	GO:0044057	0.68	2.00877392430751	2	muscle system process	regulation of system process
+GO:0051050	7	GO:0098657	0.422	2.00744648216786	1	positive regulation of transport	import into cell
+GO:0007411	4	GO:0040011	0.785	2.00348832784582	188	axon guidance	locomotion

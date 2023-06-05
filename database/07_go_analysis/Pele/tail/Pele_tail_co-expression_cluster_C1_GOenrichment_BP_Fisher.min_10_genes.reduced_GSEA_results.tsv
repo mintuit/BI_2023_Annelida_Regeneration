@@ -1,0 +1,13 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0006520	1	GO:0006520	0.996	3.92081875395238	20	amino acid metabolic process	amino acid metabolic process
+GO:0006119	2	GO:0006119	0.998	3.25963731050576	12	oxidative phosphorylation	oxidative phosphorylation
+GO:1901605	1	GO:0006520	0.966	3.13076828026902	1	alpha-amino acid metabolic process	amino acid metabolic process
+GO:0032543	3	GO:0032543	0.999	2.71444269099223	124	mitochondrial translation	mitochondrial translation
+GO:0009063	1	GO:0006520	0.902	2.63638802010786	5	amino acid catabolic process	amino acid metabolic process
+GO:1901607	1	GO:0006520	0.862	2.26440110030182	0	alpha-amino acid biosynthetic process	amino acid metabolic process
+GO:0009205	1	GO:0006520	0.582	2.19791074211827	0	purine ribonucleoside triphosphate metabolic process	amino acid metabolic process
+GO:0140053	3	GO:0032543	0.973	2.18111458540599	0	mitochondrial gene expression	mitochondrial translation
+GO:0009199	1	GO:0006520	0.586	2.13018179202067	0	ribonucleoside triphosphate metabolic process	amino acid metabolic process
+GO:0046034	1	GO:0006520	0.577	2.11294562194904	31	ATP metabolic process	amino acid metabolic process
+GO:0009060	2	GO:0006119	0.963	2.04191415147891	71	aerobic respiration	oxidative phosphorylation
+GO:0044260	4	GO:0044260	0.947	2.02502800570193	0	cellular macromolecule metabolic process	cellular macromolecule metabolic process

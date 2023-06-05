@@ -1,9 +1,0 @@
-go	cluster	parent	parentSimScore	score	size	term	parentTerm
-GO:0044255	1	GO:0044255	0.983	2.92445303860747	15	cellular lipid metabolic process	cellular lipid metabolic process
-GO:0009266	2	GO:0009266	0.999	2.66756154008439	7	response to temperature stimulus	response to temperature stimulus
-GO:0051051	3	GO:0051051	0.995	2.25258819211358	4	negative regulation of transport	negative regulation of transport
-GO:0019752	4	GO:0019752	0.986	2.10237290870956	9	carboxylic acid metabolic process	carboxylic acid metabolic process
-GO:0008015	5	GO:0008015	0.993	2.05207638016827	32	blood circulation	blood circulation
-GO:0006082	4	GO:0019752	0.982	2.04191415147891	7	organic acid metabolic process	carboxylic acid metabolic process
-GO:0006629	1	GO:0044255	0.929	2.00877392430751	170	lipid metabolic process	cellular lipid metabolic process
-GO:0006631	4	GO:0019752	0.886	2.00700490156866	85	fatty acid metabolic process	carboxylic acid metabolic process

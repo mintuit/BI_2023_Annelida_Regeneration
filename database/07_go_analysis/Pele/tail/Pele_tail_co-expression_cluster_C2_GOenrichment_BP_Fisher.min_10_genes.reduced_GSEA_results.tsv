@@ -1,0 +1,33 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0006749	1	GO:0006749	0.999	4.11918640771921	53	glutathione metabolic process	glutathione metabolic process
+GO:1990748	2	GO:1990748	0.999	3.38721614328026	3	cellular detoxification	cellular detoxification
+GO:0034641	3	GO:0034641	0.878	3.31875876262441	0	cellular nitrogen compound metabolic process	cellular nitrogen compound metabolic process
+GO:1903311	4	GO:1903311	0.996	3.1249387366083	0	regulation of mRNA metabolic process	regulation of mRNA metabolic process
+GO:0006807	3	GO:0034641	0.671	3.11350927482752	5	nitrogen compound metabolic process	cellular nitrogen compound metabolic process
+GO:0006690	5	GO:0006690	0.998	3.03621217265444	11	icosanoid metabolic process	icosanoid metabolic process
+GO:0044237	3	GO:0034641	0.67	2.92811799269387	0	cellular metabolic process	cellular nitrogen compound metabolic process
+GO:0098754	2	GO:1990748	0.98	2.88941028970075	0	detoxification	cellular detoxification
+GO:1901564	3	GO:0034641	0.571	2.73282827159699	0	organonitrogen compound metabolic process	cellular nitrogen compound metabolic process
+GO:0071704	3	GO:0034641	0.502	2.7281583934635	0	organic substance metabolic process	cellular nitrogen compound metabolic process
+GO:0034605	6	GO:0034605	1	2.67366413907125	53	cellular response to heat	cellular response to heat
+GO:0006575	7	GO:0006575	0.999	2.59176003468815	0	cellular modified amino acid metabolic process	cellular modified amino acid metabolic process
+GO:0044281	5	GO:0006690	0.676	2.58169870868025	1	small molecule metabolic process	icosanoid metabolic process
+GO:0019752	5	GO:0006690	0.781	2.46980030179692	9	carboxylic acid metabolic process	icosanoid metabolic process
+GO:1901566	3	GO:0034641	0.425	2.3767507096021	0	organonitrogen compound biosynthetic process	cellular nitrogen compound metabolic process
+GO:0009266	6	GO:0034605	0.922	2.31605286924849	7	response to temperature stimulus	cellular response to heat
+GO:0043488	4	GO:1903311	0.951	2.28567024025477	42	regulation of mRNA stability	regulation of mRNA metabolic process
+GO:0008152	3	GO:0034641	0.514	2.27572413039921	8	metabolic process	cellular nitrogen compound metabolic process
+GO:0044238	3	GO:0034641	0.478	2.26042765554991	2	primary metabolic process	cellular nitrogen compound metabolic process
+GO:0044249	3	GO:0034641	0.542	2.25103713874384	0	cellular biosynthetic process	cellular nitrogen compound metabolic process
+GO:0097237	2	GO:1990748	0.994	2.20901152491118	8	cellular response to toxic substance	cellular detoxification
+GO:0006518	8	GO:0006518	0.988	2.20342566678957	14	peptide metabolic process	peptide metabolic process
+GO:0043487	4	GO:1903311	0.479	2.20134935455473	0	regulation of RNA stability	regulation of mRNA metabolic process
+GO:1901576	3	GO:0034641	0.38	2.19382002601611	0	organic substance biosynthetic process	cellular nitrogen compound metabolic process
+GO:0044271	3	GO:0034641	0.785	2.19111413264019	0	cellular nitrogen compound biosynthetic process	cellular nitrogen compound metabolic process
+GO:0061013	4	GO:1903311	0.959	2.18045606445813	0	regulation of mRNA catabolic process	regulation of mRNA metabolic process
+GO:0043603	8	GO:0006518	0.954	2.15989390554324	1	amide metabolic process	peptide metabolic process
+GO:0043436	5	GO:0006690	0.779	2.13018179202067	0	oxoacid metabolic process	icosanoid metabolic process
+GO:0006139	3	GO:0034641	0.856	2.11182050608168	30	nucleobase-containing compound metabolic process	cellular nitrogen compound metabolic process
+GO:0006082	5	GO:0006690	0.778	2.08884239126002	7	organic acid metabolic process	icosanoid metabolic process
+GO:0009058	3	GO:0034641	0.382	2.07211658966929	15	biosynthetic process	cellular nitrogen compound metabolic process
+GO:1901568	9	GO:1901568	0.999	2.01908806222316	0	fatty acid derivative metabolic process	fatty acid derivative metabolic process

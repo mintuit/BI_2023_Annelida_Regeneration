@@ -1,0 +1,21 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher
+GO:0015711	organic anion transport	671	26	12.1	0.00021
+GO:0006081	cellular aldehyde metabolic process	184	11	3.32	0.00052
+GO:0006820	monoatomic anion transport	778	27	14.03	0.00088
+GO:0015849	organic acid transport	460	18	8.29	0.00178
+GO:0046942	carboxylic acid transport	460	18	8.29	0.00178
+GO:0016053	organic acid biosynthetic process	789	26	14.22	0.00227
+GO:0046394	carboxylic acid biosynthetic process	789	26	14.22	0.00227
+GO:0044283	small molecule biosynthetic process	1409	40	25.4	0.00270
+GO:0006855	xenobiotic transmembrane transport	200	10	3.61	0.00346
+GO:0042908	xenobiotic transport	202	10	3.64	0.00372
+GO:0046364	monosaccharide biosynthetic process	239	11	4.31	0.00417
+GO:0034220	monoatomic ion transmembrane transport	1373	38	24.75	0.00526
+GO:0005996	monosaccharide metabolic process	561	19	10.11	0.00650
+GO:1903825	organic acid transmembrane transport	292	12	5.26	0.00689
+GO:1905039	carboxylic acid transmembrane transport	292	12	5.26	0.00689
+GO:1901606	alpha-amino acid catabolic process	222	10	4	0.00714
+GO:0098655	monoatomic cation transmembrane transpor...	1088	31	19.61	0.00772
+GO:0098660	inorganic ion transmembrane transport	1044	30	18.82	0.00779
+GO:0051983	regulation of chromosome segregation	232	10	4.18	0.00959
+GO:0006811	monoatomic ion transport	1805	46	32.54	0.00975

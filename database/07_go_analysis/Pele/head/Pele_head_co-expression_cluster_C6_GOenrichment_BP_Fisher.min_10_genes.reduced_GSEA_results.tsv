@@ -1,0 +1,21 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0015711	1	GO:0015711	0.992	3.67778070526608	24	organic anion transport	organic anion transport
+GO:0006081	2	GO:0006081	0.999	3.2839966563652	13	cellular aldehyde metabolic process	cellular aldehyde metabolic process
+GO:0006820	1	GO:0015711	0.393	3.05551732784983	17	monoatomic anion transport	organic anion transport
+GO:0015849	1	GO:0015711	0.623	2.74957999769111	0	organic acid transport	organic anion transport
+GO:0046942	1	GO:0015711	0.97	2.74957999769111	0	carboxylic acid transport	organic anion transport
+GO:0046394	3	GO:0046394	0.996	2.64397414280688	0	carboxylic acid biosynthetic process	carboxylic acid biosynthetic process
+GO:0016053	3	GO:0046394	0.995	2.64397414280688	0	organic acid biosynthetic process	carboxylic acid biosynthetic process
+GO:0044283	3	GO:0046394	0.937	2.56863623584101	0	small molecule biosynthetic process	carboxylic acid biosynthetic process
+GO:0006855	4	GO:0006855	1	2.46092390120722	15	xenobiotic transmembrane transport	xenobiotic transmembrane transport
+GO:0042908	4	GO:0006855	0.897	2.4294570601181	29	xenobiotic transport	xenobiotic transmembrane transport
+GO:0046364	3	GO:0046394	0.784	2.37986394502624	0	monosaccharide biosynthetic process	carboxylic acid biosynthetic process
+GO:0034220	1	GO:0015711	0.486	2.27901425584626	122	monoatomic ion transmembrane transport	organic anion transport
+GO:0005996	3	GO:0046394	0.58	2.18708664335714	1	monosaccharide metabolic process	carboxylic acid biosynthetic process
+GO:1905039	1	GO:0015711	0.887	2.16178077809237	3	carboxylic acid transmembrane transport	organic anion transport
+GO:1903825	1	GO:0015711	0.568	2.16178077809237	1	organic acid transmembrane transport	organic anion transport
+GO:1901606	3	GO:0046394	0.678	2.14630178822383	0	alpha-amino acid catabolic process	carboxylic acid biosynthetic process
+GO:0098655	1	GO:0015711	0.475	2.11238269966426	48	monoatomic cation transmembrane transport	organic anion transport
+GO:0098660	1	GO:0015711	0.479	2.10846254232744	0	inorganic ion transmembrane transport	organic anion transport
+GO:0051983	5	GO:0051983	0.999	2.01818139282934	12	regulation of chromosome segregation	regulation of chromosome segregation
+GO:0006811	1	GO:0015711	0.504	2.01099538430146	100	monoatomic ion transport	organic anion transport

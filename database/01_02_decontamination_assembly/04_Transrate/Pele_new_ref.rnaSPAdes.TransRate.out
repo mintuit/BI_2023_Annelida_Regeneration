@@ -1,0 +1,65 @@
+***** TransRate (v1.0.1) began to work with params: *****
+R1: /home/maxnest/Pele_kraken2_output/Pele_ref_decontaminated.R1.fastq
+R2: /home/maxnest/Pele_kraken2_output/Pele_ref_decontaminated.R2.fastq
+Assembly: /home/maxnest/Pele_ref_rnaSPAdes/Pele_new_ref.rnaSPdes.renamed.long.fasta
+[DEPRECATION] The trollop gem has been renamed to optimist and will no longer be supported. Please switch to optimist as soon as possible.
+[ INFO] 2023-03-21 10:42:09 : Loading assembly: /home/maxnest/Pele_ref_rnaSPAdes/Pele_new_ref.rnaSPdes.renamed.long.fasta
+[ INFO] 2023-03-21 10:42:23 : Analysing assembly: /home/maxnest/Pele_ref_rnaSPAdes/Pele_new_ref.rnaSPdes.renamed.long.fasta
+[ INFO] 2023-03-21 10:42:23 : Results will be saved in /home/maxnest/QC/Pele_new_ref_rnaSPAdes_TransRate_output/Pele_new_ref.rnaSPdes.renamed.long
+[ INFO] 2023-03-21 10:42:23 : Calculating contig metrics...
+[ INFO] 2023-03-21 10:43:02 : Contig metrics:
+[ INFO] 2023-03-21 10:43:02 : -----------------------------------
+[ INFO] 2023-03-21 10:43:02 : n seqs                       433491
+[ INFO] 2023-03-21 10:43:02 : smallest                        200
+[ INFO] 2023-03-21 10:43:02 : largest                       39465
+[ INFO] 2023-03-21 10:43:02 : n bases                   423178411
+[ INFO] 2023-03-21 10:43:02 : mean len                     976.21
+[ INFO] 2023-03-21 10:43:02 : n under 200                       0
+[ INFO] 2023-03-21 10:43:02 : n over 1k                    121396
+[ INFO] 2023-03-21 10:43:02 : n over 10k                      456
+[ INFO] 2023-03-21 10:43:02 : n with orf                   120356
+[ INFO] 2023-03-21 10:43:02 : mean orf percent              53.68
+[ INFO] 2023-03-21 10:43:02 : n90                             335
+[ INFO] 2023-03-21 10:43:02 : n70                             977
+[ INFO] 2023-03-21 10:43:02 : n50                            1899
+[ INFO] 2023-03-21 10:43:02 : n30                            3108
+[ INFO] 2023-03-21 10:43:02 : n10                            5466
+[ INFO] 2023-03-21 10:43:02 : gc                             0.42
+[ INFO] 2023-03-21 10:43:02 : gc skew                       -0.03
+[ INFO] 2023-03-21 10:43:02 : at skew                       -0.04
+[ INFO] 2023-03-21 10:43:02 : cpg ratio                      1.66
+[ INFO] 2023-03-21 10:43:02 : bases n                      515640
+[ INFO] 2023-03-21 10:43:02 : proportion n                    0.0
+[ INFO] 2023-03-21 10:43:02 : linguistic complexity          0.16
+[ INFO] 2023-03-21 10:43:02 : Contig metrics done in 38 seconds
+[ INFO] 2023-03-21 10:43:02 : Calculating read diagnostics...
+[ INFO] 2023-03-21 13:59:22 : Read mapping metrics:
+[ INFO] 2023-03-21 13:59:22 : -----------------------------------
+[ INFO] 2023-03-21 13:59:22 : fragments                 382711393
+[ INFO] 2023-03-21 13:59:22 : fragments mapped          363879452
+[ INFO] 2023-03-21 13:59:22 : p fragments mapped             0.95
+[ INFO] 2023-03-21 13:59:22 : good mappings             300967234
+[ INFO] 2023-03-21 13:59:22 : p good mapping                 0.79
+[ INFO] 2023-03-21 13:59:22 : bad mappings               62912218
+[ INFO] 2023-03-21 13:59:22 : potential bridges             99286
+[ INFO] 2023-03-21 13:59:22 : bases uncovered             7203696
+[ INFO] 2023-03-21 13:59:22 : p bases uncovered              0.02
+[ INFO] 2023-03-21 13:59:22 : contigs uncovbase            136250
+[ INFO] 2023-03-21 13:59:22 : p contigs uncovbase            0.31
+[ INFO] 2023-03-21 13:59:22 : contigs uncovered              9118
+[ INFO] 2023-03-21 13:59:22 : p contigs uncovered            0.02
+[ INFO] 2023-03-21 13:59:22 : contigs lowcovered           275939
+[ INFO] 2023-03-21 13:59:22 : p contigs lowcovered           0.64
+[ INFO] 2023-03-21 13:59:22 : contigs segmented             41614
+[ INFO] 2023-03-21 13:59:22 : p contigs segmented             0.1
+[ INFO] 2023-03-21 13:59:22 : Read metrics done in 11780 seconds
+[ INFO] 2023-03-21 13:59:22 : No reference provided, skipping comparative diagnostics
+[ INFO] 2023-03-21 13:59:22 : TRANSRATE ASSEMBLY SCORE     0.3722
+[ INFO] 2023-03-21 13:59:22 : -----------------------------------
+[ INFO] 2023-03-21 13:59:22 : TRANSRATE OPTIMAL SCORE      0.4054
+[ INFO] 2023-03-21 13:59:22 : TRANSRATE OPTIMAL CUTOFF     0.0267
+[ INFO] 2023-03-21 13:59:22 : good contigs                 423583
+[ INFO] 2023-03-21 13:59:22 : p good contigs                 0.98
+[ INFO] 2023-03-21 13:59:22 : Writing contig metrics for each contig to /home/maxnest/QC/Pele_new_ref_rnaSPAdes_TransRate_output/Pele_new_ref.rnaSPdes.renamed.long/contigs.csv
+[ INFO] 2023-03-21 13:59:56 : Writing analysis results to assemblies.csv
+##### Job is complete #####

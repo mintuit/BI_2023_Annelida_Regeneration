@@ -1,0 +1,111 @@
+go	cluster	parent	parentSimScore	score	size	term	parentTerm
+GO:0044281	1	GO:0044281	0.969	17.568636235841	1	small molecule metabolic process	small molecule metabolic process
+GO:0043436	1	GO:0044281	0.873	15.0315170514461	0	oxoacid metabolic process	small molecule metabolic process
+GO:0006082	1	GO:0044281	0.874	15.0132282657338	7	organic acid metabolic process	small molecule metabolic process
+GO:0019752	1	GO:0044281	0.871	14.267606240177	9	carboxylic acid metabolic process	small molecule metabolic process
+GO:0006790	2	GO:0006790	0.996	10.9586073148418	16	sulfur compound metabolic process	sulfur compound metabolic process
+GO:0044282	1	GO:0044281	0.756	10.8860566476932	0	small molecule catabolic process	small molecule metabolic process
+GO:0032787	1	GO:0044281	0.817	9.79588001734407	3	monocarboxylic acid metabolic process	small molecule metabolic process
+GO:0016054	1	GO:0044281	0.728	8.79588001734407	0	organic acid catabolic process	small molecule metabolic process
+GO:0046395	1	GO:0044281	0.728	8.79588001734407	2	carboxylic acid catabolic process	small molecule metabolic process
+GO:0006575	3	GO:0006575	0.999	7.22184874961636	0	cellular modified amino acid metabolic process	cellular modified amino acid metabolic process
+GO:1901605	1	GO:0044281	0.727	7.04575749056067	1	alpha-amino acid metabolic process	small molecule metabolic process
+GO:0006749	4	GO:0006749	0.999	7.00436480540245	53	glutathione metabolic process	glutathione metabolic process
+GO:0006520	1	GO:0044281	0.754	6.67778070526608	20	amino acid metabolic process	small molecule metabolic process
+GO:0046394	1	GO:0044281	0.741	6.63827216398241	0	carboxylic acid biosynthetic process	small molecule metabolic process
+GO:0016053	1	GO:0044281	0.742	6.63827216398241	0	organic acid biosynthetic process	small molecule metabolic process
+GO:0009063	1	GO:0044281	0.669	6.19382002601611	5	amino acid catabolic process	small molecule metabolic process
+GO:0006631	1	GO:0044281	0.776	5.95860731484177	85	fatty acid metabolic process	small molecule metabolic process
+GO:0044283	1	GO:0044281	0.794	5.88605664769316	0	small molecule biosynthetic process	small molecule metabolic process
+GO:0006081	5	GO:0006081	0.999	5.85387196432176	13	cellular aldehyde metabolic process	cellular aldehyde metabolic process
+GO:0072329	1	GO:0044281	0.674	5.50863830616573	0	monocarboxylic acid catabolic process	small molecule metabolic process
+GO:0009636	6	GO:0009636	0.998	5.48148606012211	74	response to toxic substance	response to toxic substance
+GO:1901135	7	GO:1901135	0.983	4.95860731484177	1	carbohydrate derivative metabolic process	carbohydrate derivative metabolic process
+GO:0006766	1	GO:0044281	0.654	4.95860731484177	6	vitamin metabolic process	small molecule metabolic process
+GO:0042180	1	GO:0044281	0.706	4.92081875395237	3	cellular ketone metabolic process	small molecule metabolic process
+GO:1901606	1	GO:0044281	0.657	4.69897000433602	0	alpha-amino acid catabolic process	small molecule metabolic process
+GO:0072521	3	GO:0006575	0.34	4.60205999132796	0	purine-containing compound metabolic process	cellular modified amino acid metabolic process
+GO:0000096	2	GO:0006790	0.834	4.35654732351381	0	sulfur amino acid metabolic process	sulfur compound metabolic process
+GO:0044255	8	GO:0044255	0.983	4.03151705144607	15	cellular lipid metabolic process	cellular lipid metabolic process
+GO:0016042	9	GO:0016042	0.996	3.92081875395238	70	lipid catabolic process	lipid catabolic process
+GO:0098754	6	GO:0009636	0.962	3.88605664769316	0	detoxification	response to toxic substance
+GO:0055086	1	GO:0044281	0.826	3.79588001734407	4	nucleobase-containing small molecule metabolic process	small molecule metabolic process
+GO:0051289	10	GO:0051289	1	3.72124639904717	63	protein homotetramerization	protein homotetramerization
+GO:0006163	3	GO:0006575	0.337	3.69897000433602	4	purine nucleotide metabolic process	cellular modified amino acid metabolic process
+GO:0051260	10	GO:0051289	0.918	3.67778070526608	122	protein homooligomerization	protein homotetramerization
+GO:0006629	8	GO:0044255	0.929	3.55284196865778	170	lipid metabolic process	cellular lipid metabolic process
+GO:0044272	2	GO:0006790	0.928	3.53760200210104	0	sulfur compound biosynthetic process	sulfur compound metabolic process
+GO:1990748	6	GO:0009636	0.942	3.50863830616573	3	cellular detoxification	response to toxic substance
+GO:0043603	11	GO:0043603	0.984	3.49485002168009	1	amide metabolic process	amide metabolic process
+GO:0006753	1	GO:0044281	0.809	3.46852108295774	2	nucleoside phosphate metabolic process	small molecule metabolic process
+GO:0072330	1	GO:0044281	0.709	3.44369749923271	0	monocarboxylic acid biosynthetic process	small molecule metabolic process
+GO:0046365	12	GO:0046365	1	3.44369749923271	0	monosaccharide catabolic process	monosaccharide catabolic process
+GO:0051259	10	GO:0051289	0.892	3.43179827593301	17	protein complex oligomerization	protein homotetramerization
+GO:1901575	9	GO:0016042	0.765	3.39794000867204	0	organic substance catabolic process	lipid catabolic process
+GO:0009117	1	GO:0044281	0.805	3.36653154442041	8	nucleotide metabolic process	small molecule metabolic process
+GO:0019693	13	GO:0019693	0.994	3.33724216831843	3	ribose phosphate metabolic process	ribose phosphate metabolic process
+GO:1901136	7	GO:1901135	0.792	3.16749108729376	1	carbohydrate derivative catabolic process	carbohydrate derivative metabolic process
+GO:0022904	14	GO:0022904	0.999	3.08618614761628	21	respiratory electron transport chain	respiratory electron transport chain
+GO:0009150	13	GO:0019693	0.984	3.06550154875643	0	purine ribonucleotide metabolic process	ribose phosphate metabolic process
+GO:0009259	13	GO:0019693	0.993	3.06550154875643	1	ribonucleotide metabolic process	ribose phosphate metabolic process
+GO:0006633	1	GO:0044281	0.686	3.03151705144606	53	fatty acid biosynthetic process	small molecule metabolic process
+GO:0006855	15	GO:0006855	1	2.95467702121334	15	xenobiotic transmembrane transport	xenobiotic transmembrane transport
+GO:0001508	16	GO:0001508	0.998	2.95467702121334	16	action potential	action potential
+GO:0005975	12	GO:0046365	0.772	2.94309514866353	125	carbohydrate metabolic process	monosaccharide catabolic process
+GO:0003014	17	GO:0003014	0.999	2.90657831483776	10	renal system process	renal system process
+GO:0015695	18	GO:0015695	0.999	2.89962945488244	15	organic cation transport	organic cation transport
+GO:0016052	12	GO:0046365	0.896	2.88272870434424	4	carbohydrate catabolic process	monosaccharide catabolic process
+GO:1901568	8	GO:0044255	0.636	2.87614835903291	0	fatty acid derivative metabolic process	cellular lipid metabolic process
+GO:0098869	6	GO:0009636	0.93	2.80687540164554	76	cellular oxidant detoxification	response to toxic substance
+GO:0006767	1	GO:0044281	0.617	2.77989191195995	0	water-soluble vitamin metabolic process	small molecule metabolic process
+GO:0051262	10	GO:0051289	0.968	2.72584215073632	23	protein tetramerization	protein homotetramerization
+GO:0006690	1	GO:0044281	0.676	2.70996538863748	11	icosanoid metabolic process	small molecule metabolic process
+GO:0042908	15	GO:0006855	0.897	2.70774392864352	29	xenobiotic transport	xenobiotic transmembrane transport
+GO:0008217	17	GO:0003014	0.529	2.69250396208679	73	regulation of blood pressure	renal system process
+GO:1901685	2	GO:0006790	0.678	2.67366413907125	0	glutathione derivative metabolic process	sulfur compound metabolic process
+GO:1901687	2	GO:0006790	0.678	2.67366413907125	4	glutathione derivative biosynthetic process	sulfur compound metabolic process
+GO:0009066	1	GO:0044281	0.609	2.67366413907125	4	aspartate family amino acid metabolic process	small molecule metabolic process
+GO:0044242	9	GO:0016042	0.97	2.65955588515988	3	cellular lipid catabolic process	lipid catabolic process
+GO:0008610	8	GO:0044255	0.827	2.6458915608526	17	lipid biosynthetic process	cellular lipid metabolic process
+GO:0008207	16	GO:0001508	0.442	2.63264407897398	5	C21-steroid hormone metabolic process	action potential
+GO:0022900	14	GO:0022904	0.979	2.61978875828839	53	electron transport chain	respiratory electron transport chain
+GO:0006805	6	GO:0009636	0.387	2.56383735295924	137	xenobiotic metabolic process	response to toxic substance
+GO:0005996	12	GO:0046365	0.861	2.53313237964589	1	monosaccharide metabolic process	monosaccharide catabolic process
+GO:0019637	13	GO:0019693	0.884	2.53313237964589	1	organophosphate metabolic process	ribose phosphate metabolic process
+GO:0097237	6	GO:0009636	0.947	2.52432881167557	8	cellular response to toxic substance	response to toxic substance
+GO:0006664	7	GO:1901135	0.758	2.50307035192679	3	glycolipid metabolic process	carbohydrate derivative metabolic process
+GO:0015748	18	GO:0015695	0.462	2.47108329972235	0	organophosphate ester transport	organic cation transport
+GO:1903509	7	GO:1901135	0.759	2.45717457304082	0	liposaccharide metabolic process	carbohydrate derivative metabolic process
+GO:0006775	1	GO:0044281	0.601	2.45345733652187	0	fat-soluble vitamin metabolic process	small molecule metabolic process
+GO:0031960	6	GO:0009636	0.386	2.43889861635094	5	response to corticosteroid	response to toxic substance
+GO:0007584	6	GO:0009636	0.387	2.43062609038495	56	response to nutrient	response to toxic substance
+GO:0010038	6	GO:0009636	0.419	2.42365864979421	8	response to metal ion	response to toxic substance
+GO:0042445	16	GO:0001508	0.519	2.4145392704915	15	hormone metabolic process	action potential
+GO:1901566	3	GO:0006575	0.384	2.4145392704915	0	organonitrogen compound biosynthetic process	cellular modified amino acid metabolic process
+GO:0008015	17	GO:0003014	0.595	2.41341269532824	32	blood circulation	renal system process
+GO:0034032	1	GO:0044281	0.672	2.41005039867429	0	purine nucleoside bisphosphate metabolic process	small molecule metabolic process
+GO:0033875	1	GO:0044281	0.672	2.41005039867429	0	ribonucleoside bisphosphate metabolic process	small molecule metabolic process
+GO:0033865	1	GO:0044281	0.672	2.41005039867429	0	nucleoside bisphosphate metabolic process	small molecule metabolic process
+GO:0015711	18	GO:0015695	0.518	2.39577394691553	24	organic anion transport	organic cation transport
+GO:0071466	6	GO:0009636	0.396	2.38510278396687	66	cellular response to xenobiotic stimulus	response to toxic substance
+GO:0009110	1	GO:0044281	0.563	2.36754270781528	0	vitamin biosynthetic process	small molecule metabolic process
+GO:0032370	19	GO:0032370	0.999	2.36151074304536	2	positive regulation of lipid transport	positive regulation of lipid transport
+GO:0003013	17	GO:0003014	0.601	2.36151074304536	0	circulatory system process	renal system process
+GO:0046456	1	GO:0044281	0.615	2.32513885926219	9	icosanoid biosynthetic process	small molecule metabolic process
+GO:0006811	18	GO:0015695	0.403	2.27901425584626	100	monoatomic ion transport	organic cation transport
+GO:0006643	8	GO:0044255	0.815	2.24565166428898	3	membrane lipid metabolic process	cellular lipid metabolic process
+GO:1902652	20	GO:1902652	0.998	2.21824462534753	0	secondary alcohol metabolic process	secondary alcohol metabolic process
+GO:0006066	20	GO:1902652	0.916	2.21824462534753	7	alcohol metabolic process	secondary alcohol metabolic process
+GO:0006693	1	GO:0044281	0.607	2.20411998265592	27	prostaglandin metabolic process	small molecule metabolic process
+GO:0006692	1	GO:0044281	0.607	2.20411998265592	0	prostanoid metabolic process	small molecule metabolic process
+GO:0009062	1	GO:0044281	0.664	2.17005330405836	11	fatty acid catabolic process	small molecule metabolic process
+GO:1901615	20	GO:1902652	0.868	2.14874165128092	0	organic hydroxy compound metabolic process	secondary alcohol metabolic process
+GO:1901570	8	GO:0044255	0.608	2.1331221856625	0	fatty acid derivative biosynthetic process	cellular lipid metabolic process
+GO:0006091	14	GO:0022904	0.857	2.12205304837081	48	generation of precursor metabolites and energy	respiratory electron transport chain
+GO:0046686	6	GO:0009636	0.355	2.11182050608168	22	response to cadmium ion	response to toxic substance
+GO:0009056	9	GO:0016042	0.724	2.06098022355133	3	catabolic process	lipid catabolic process
+GO:0055072	21	GO:0055072	0.999	2.0584885673656	49	iron ion homeostasis	iron ion homeostasis
+GO:0008202	8	GO:0044255	0.758	2.05354773498693	52	steroid metabolic process	cellular lipid metabolic process
+GO:0010035	6	GO:0009636	0.437	2.0433514207948	14	response to inorganic substance	response to toxic substance
+GO:1905954	19	GO:0032370	0.98	2.0301183562535	0	positive regulation of lipid localization	positive regulation of lipid transport
+GO:0051592	6	GO:0009636	0.384	2.00305075150462	54	response to calcium ion	response to toxic substance

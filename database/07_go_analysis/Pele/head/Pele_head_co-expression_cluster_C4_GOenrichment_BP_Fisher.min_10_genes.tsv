@@ -1,0 +1,175 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher
+GO:0140013	meiotic nuclear division	358	51	20.45	1.4e-09
+GO:0045132	meiotic chromosome segregation	160	29	9.14	2.7e-08
+GO:0051321	meiotic cell cycle	540	63	30.84	4.9e-08
+GO:1903046	meiotic cell cycle process	473	56	27.02	1.7e-07
+GO:0032502	developmental process	8290	548	473.51	2.4e-07
+GO:0048856	anatomical structure development	7765	517	443.52	3.6e-07
+GO:0010564	regulation of cell cycle process	1232	110	70.37	1.4e-06
+GO:0022402	cell cycle process	2213	176	126.4	1.7e-06
+GO:0051276	chromosome organization	1573	132	89.85	3.1e-06
+GO:0098813	nuclear chromosome segregation	535	57	30.56	4.0e-06
+GO:0032501	multicellular organismal process	9210	591	526.06	4.3e-06
+GO:0006260	DNA replication	365	43	20.85	5.2e-06
+GO:0007275	multicellular organism development	7278	481	415.71	5.3e-06
+GO:0022414	reproductive process	3567	259	203.74	6.4e-06
+GO:0000003	reproduction	3665	265	209.34	6.6e-06
+GO:0000281	mitotic cytokinesis	276	35	15.76	7.9e-06
+GO:0007059	chromosome segregation	666	66	38.04	8.2e-06
+GO:0006261	DNA-templated DNA replication	220	30	12.57	8.3e-06
+GO:0007052	mitotic spindle organization	257	33	14.68	1.1e-05
+GO:0000280	nuclear division	824	77	47.07	1.2e-05
+GO:0051726	regulation of cell cycle	1799	144	102.76	1.3e-05
+GO:1903047	mitotic cell cycle process	1471	122	84.02	1.4e-05
+GO:0007127	meiosis I	133	21	7.6	2.1e-05
+GO:0071840	cellular component organization or bioge...	8560	549	488.93	2.4e-05
+GO:0006310	DNA recombination	203	27	11.59	3.6e-05
+GO:0000278	mitotic cell cycle	1778	139	101.56	6.1e-05
+GO:0007049	cell cycle	2633	194	150.39	6.2e-05
+GO:0016043	cellular component organization	8174	523	466.88	7.9e-05
+GO:0048731	system development	6060	401	346.14	7.9e-05
+GO:0000086	G2/M transition of mitotic cell cycle	308	35	17.59	8.1e-05
+GO:0065007	biological regulation	11339	698	647.66	8.5e-05
+GO:0048285	organelle fission	910	79	51.98	0.00012
+GO:0010389	regulation of G2/M transition of mitotic...	241	29	13.77	0.00012
+GO:0051052	regulation of DNA metabolic process	508	50	29.02	0.00012
+GO:0090329	regulation of DNA-templated DNA replicat...	88	15	5.03	0.00013
+GO:0044839	cell cycle G2/M phase transition	328	36	18.73	0.00013
+GO:0000819	sister chromatid segregation	432	44	24.68	0.00014
+GO:0061982	meiosis I cell cycle process	222	27	12.68	0.00017
+GO:1902749	regulation of cell cycle G2/M phase tran...	259	30	14.79	0.00018
+GO:0002478	antigen processing and presentation of e...	190	24	10.85	0.00022
+GO:1902850	microtubule cytoskeleton organization in...	363	38	20.73	0.00023
+GO:0061640	cytoskeleton-dependent cytokinesis	365	38	20.85	0.00026
+GO:0007346	regulation of mitotic cell cycle	1097	90	62.66	0.00029
+GO:0032506	cytokinetic process	138	19	7.88	0.00032
+GO:0019884	antigen processing and presentation of e...	196	24	11.2	0.00035
+GO:0006275	regulation of DNA replication	173	22	9.88	0.00035
+GO:0008608	attachment of spindle microtubules to ki...	67	12	3.83	0.00037
+GO:0051303	establishment of chromosome localization	118	17	6.74	0.00038
+GO:0090307	mitotic spindle assembly	140	19	8	0.00039
+GO:0051445	regulation of meiotic cell cycle	129	18	7.37	0.00039
+GO:0050789	regulation of biological process	10432	643	595.86	0.00041
+GO:0006376	mRNA splice site selection	98	15	5.6	0.00043
+GO:0044770	cell cycle phase transition	969	80	55.35	0.00052
+GO:0050000	chromosome localization	122	17	6.97	0.00056
+GO:0007051	spindle organization	420	41	23.99	0.00057
+GO:0048002	antigen processing and presentation of p...	205	24	11.71	0.00067
+GO:0044786	cell cycle DNA replication	124	17	7.08	0.00068
+GO:0048609	multicellular organismal reproductive pr...	2640	187	150.79	0.00070
+GO:0044085	cellular component biogenesis	5285	347	301.87	0.00070
+GO:0000070	mitotic sister chromatid segregation	376	37	21.48	0.00089
+GO:0045995	regulation of embryonic development	337	34	19.25	0.00092
+GO:0044772	mitotic cell cycle phase transition	812	68	46.38	0.00094
+GO:0050794	regulation of cellular process	9626	595	549.82	0.00094
+GO:0007143	female meiotic nuclear division	106	15	6.05	0.00099
+GO:0006397	mRNA processing	961	78	54.89	0.00100
+GO:0000723	telomere maintenance	211	24	12.05	0.00100
+GO:0019886	antigen processing and presentation of e...	175	21	10	0.00103
+GO:0032200	telomere organization	212	24	12.11	0.00107
+GO:0032504	multicellular organism reproduction	2744	192	156.73	0.00107
+GO:0002495	antigen processing and presentation of p...	177	21	10.11	0.00119
+GO:0002504	antigen processing and presentation of p...	177	21	10.11	0.00119
+GO:1902410	mitotic cytokinetic process	66	11	3.77	0.00119
+GO:0006836	neurotransmitter transport	478	44	27.3	0.00122
+GO:0010948	negative regulation of cell cycle proces...	578	51	33.01	0.00133
+GO:0009790	embryo development	2482	175	141.77	0.00133
+GO:0019229	regulation of vasoconstriction	88	13	5.03	0.00141
+GO:0022607	cellular component assembly	4778	314	272.91	0.00143
+GO:1904385	cellular response to angiotensin	58	10	3.31	0.00150
+GO:0090304	nucleic acid metabolic process	5193	338	296.61	0.00163
+GO:0019882	antigen processing and presentation	259	27	14.79	0.00186
+GO:0089718	amino acid import across plasma membrane	61	10	3.48	0.00223
+GO:0016570	histone modification	621	53	35.47	0.00223
+GO:0051225	spindle assembly	238	25	13.59	0.00243
+GO:0048468	cell development	4382	288	250.29	0.00252
+GO:0006259	DNA metabolic process	1192	91	68.08	0.00255
+GO:0051128	regulation of cellular component organiz...	3600	241	205.63	0.00257
+GO:0016071	mRNA metabolic process	1567	115	89.5	0.00275
+GO:0007276	gamete generation	2266	159	129.43	0.00278
+GO:0030154	cell differentiation	5302	342	302.84	0.00281
+GO:0048869	cellular developmental process	5405	348	308.72	0.00285
+GO:1990776	response to angiotensin	63	10	3.6	0.00285
+GO:0048232	male gamete generation	984	77	56.2	0.00287
+GO:0010833	telomere maintenance via telomere length...	118	15	6.74	0.00293
+GO:0042246	tissue regeneration	142	17	8.11	0.00305
+GO:0007080	mitotic metaphase plate congression	85	12	4.86	0.00314
+GO:0032508	DNA duplex unwinding	85	12	4.86	0.00314
+GO:0043010	camera-type eye development	432	39	24.68	0.00317
+GO:0045786	negative regulation of cell cycle	808	65	46.15	0.00318
+GO:0000377	RNA splicing, via transesterification re...	824	66	47.07	0.00329
+GO:0000398	mRNA splicing, via spliceosome	824	66	47.07	0.00329
+GO:0000910	cytokinesis	461	41	26.33	0.00329
+GO:2001020	regulation of response to DNA damage sti...	257	26	14.68	0.00338
+GO:0051310	metaphase plate congression	97	13	5.54	0.00343
+GO:0006396	RNA processing	1688	122	96.42	0.00344
+GO:0033619	membrane protein proteolysis	86	12	4.91	0.00346
+GO:0008380	RNA splicing	916	72	52.32	0.00349
+GO:0070301	cellular response to hydrogen peroxide	181	20	10.34	0.00356
+GO:0051259	protein complex oligomerization	857	68	48.95	0.00359
+GO:0044703	multi-organism reproductive process	2653	182	151.53	0.00359
+GO:0065003	protein-containing complex assembly	3112	210	177.75	0.00364
+GO:0071897	DNA biosynthetic process	272	27	15.54	0.00371
+GO:1903522	regulation of blood circulation	326	31	18.62	0.00377
+GO:0018991	oviposition	233	24	13.31	0.00378
+GO:0000375	RNA splicing, via transesterification re...	829	66	47.35	0.00378
+GO:0007530	sex determination	99	13	5.65	0.00410
+GO:1901987	regulation of cell cycle phase transitio...	759	61	43.35	0.00429
+GO:2000112	regulation of cellular macromolecule bio...	3574	237	204.14	0.00458
+GO:0035159	regulation of tube length, open tracheal...	89	12	5.08	0.00460
+GO:0090398	cellular senescence	89	12	5.08	0.00460
+GO:0051952	regulation of amine transport	148	17	8.45	0.00467
+GO:0035108	limb morphogenesis	136	16	7.77	0.00472
+GO:0022412	cellular process involved in reproductio...	1864	132	106.47	0.00479
+GO:0051054	positive regulation of DNA metabolic pro...	318	30	18.16	0.00486
+GO:0051954	positive regulation of amine transport	68	10	3.88	0.00502
+GO:0000212	meiotic spindle organization	90	12	5.14	0.00503
+GO:0014074	response to purine-containing compound	279	27	15.94	0.00522
+GO:0031570	DNA integrity checkpoint signaling	266	26	15.19	0.00532
+GO:0000075	cell cycle checkpoint signaling	362	33	20.68	0.00546
+GO:0032392	DNA geometric change	91	12	5.2	0.00551
+GO:0003006	developmental process involved in reprod...	2681	182	153.13	0.00557
+GO:0048513	animal organ development	4698	303	268.34	0.00575
+GO:0032890	regulation of organic acid transport	103	13	5.88	0.00575
+GO:0006974	cellular response to DNA damage stimulus	1058	80	60.43	0.00581
+GO:0000724	double-strand break repair via homologou...	92	12	5.25	0.00601
+GO:0000725	recombinational repair	92	12	5.25	0.00601
+GO:0006139	nucleobase-containing compound metabolic...	6481	407	370.18	0.00615
+GO:0043067	regulation of programmed cell death	2119	147	121.03	0.00616
+GO:0007062	sister chromatid cohesion	81	11	4.63	0.00617
+GO:0040020	regulation of meiotic nuclear division	81	11	4.63	0.00617
+GO:0032885	regulation of polysaccharide biosyntheti...	70	10	4	0.00618
+GO:0043484	regulation of RNA splicing	379	34	21.65	0.00618
+GO:0007140	male meiotic nuclear division	140	16	8	0.00625
+GO:0030326	embryonic limb morphogenesis	116	14	6.63	0.00634
+GO:0043933	protein-containing complex organization	3548	234	202.65	0.00634
+GO:0001505	regulation of neurotransmitter levels	640	52	36.56	0.00651
+GO:0042770	signal transduction in response to DNA d...	339	31	19.36	0.00664
+GO:0042310	vasoconstriction	105	13	6	0.00676
+GO:0010556	regulation of macromolecule biosynthetic...	3720	244	212.48	0.00681
+GO:0006725	cellular aromatic compound metabolic pro...	6808	425	388.86	0.00733
+GO:1901990	regulation of mitotic cell cycle phase t...	601	49	34.33	0.00762
+GO:1901988	negative regulation of cell cycle phase ...	427	37	24.39	0.00764
+GO:0019438	aromatic compound biosynthetic process	4148	269	236.93	0.00766
+GO:0007186	G protein-coupled receptor signaling pat...	486	41	27.76	0.00807
+GO:0061512	protein localization to cilium	84	11	4.8	0.00810
+GO:0034645	cellular macromolecule biosynthetic proc...	5237	333	299.13	0.00818
+GO:1904356	regulation of telomere maintenance via t...	96	12	5.48	0.00842
+GO:0001843	neural tube closure	108	13	6.17	0.00853
+GO:0060606	tube closure	108	13	6.17	0.00853
+GO:0048568	embryonic organ development	695	55	39.7	0.00878
+GO:1902476	chloride transmembrane transport	85	11	4.86	0.00884
+GO:0046324	regulation of glucose import	158	17	9.02	0.00890
+GO:0000082	G1/S transition of mitotic cell cycle	417	36	23.82	0.00891
+GO:0034654	nucleobase-containing compound biosynthe...	4010	260	229.04	0.00901
+GO:0046323	glucose import	171	18	9.77	0.00902
+GO:0032481	positive regulation of type I interferon...	74	10	4.23	0.00912
+GO:0045448	mitotic cell cycle, embryonic	74	10	4.23	0.00912
+GO:0035151	regulation of tube size, open tracheal s...	121	14	6.91	0.00913
+GO:0044843	cell cycle G1/S phase transition	432	37	24.68	0.00913
+GO:0051642	centrosome localization	109	13	6.23	0.00920
+GO:0010256	endomembrane system organization	894	68	51.06	0.00930
+GO:0045930	negative regulation of mitotic cell cycl...	419	36	23.93	0.00957
+GO:0033363	secretory granule organization	86	11	4.91	0.00963
+GO:0040019	positive regulation of embryonic develop...	86	11	4.91	0.00963
+GO:0051606	detection of stimulus	363	32	20.73	0.00989
