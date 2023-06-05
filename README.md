@@ -88,7 +88,7 @@ We obtain 8 clusters in both *P.elegans* posterior and anterior regeneration sit
 
 Here we present one cluster from anterior regeneration of *P.elegans*. This cluster contain 5253 genes. 
 
-![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/pictures/05_clust/Cluster.jpg)
+![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/scripts/05_clust/Cluster.jpg)
 
 All result in the foalder "Clust".
 
@@ -100,7 +100,7 @@ After visualisation of GO-enrichment analysis results, we noticed that posterior
 In *P.elegans* interior clusters that include homeobox genes, we see a wide variety of development and proliferation processes, while the number of processes involved in regeneration and development is  lower in *P.dumerilii*.
 Here we present a part of enriched GO-term cloud from anterior regeneration of *P.elegans*.
 
-![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/pictures/07_go_analysis/GO-enrichment.jpg)
+![](https://github.com/mintuit/BI_2023_Annelida_Regeneration/blob/main/scripts/07_go_analysis/GO-enrichment.jpg)
 
 ## Phylogenetic analysis
 Visualisation of forkflow:\
