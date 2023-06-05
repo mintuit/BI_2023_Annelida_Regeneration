@@ -36,7 +36,7 @@ Samples of *P.elegans* and *P.dumerilii* were collected for bulk RNA sequencing 
 
 ## Improvement of <em>de novo</em> transcriptome assemblies
 Workflow for this part of analysis:
-![]([pictures/01_02_workflow.png)
+![](pictures/01_02_workflow.png)
 
 Alternative decontamination method with [Kraken2](https://github.com/DerrickWood/kraken2) (v.2.1.2) was used to improve decontamination quality. Commands were performed on supervisors server due to high computational demands of this part of analysis. Scripts used for decontamination can be found in **01_02_decontamination_assembly\01_kraken2** folder. Kraken2 reports visualisation performed online with [Pavian](https://fbreitwieser.shinyapps.io/pavian/).
 ![](pictures/kraken2_decontamination_example.png) 
